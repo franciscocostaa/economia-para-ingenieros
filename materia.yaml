@@ -1,0 +1,26 @@
+schema_version: 1
+template_version: "0.1.0"
+configurada: true
+
+materia:
+  nombre: "Economía para Ingenieros"
+  slug: "economia-para-ingenieros"
+  institucion: "ITBA"
+  carrera: ""
+  ciclo: "2026"
+  idioma: "es"
+
+estudio:
+  modo: "adaptativo"
+  citar_paginas: true
+
+practica:
+  guias_son_entregables: false
+  trabajo_grupal_activo: false
+
+laboratorio:
+  herramienta: "ninguna"
+  dialecto_o_runtime: ""
+
+fuentes:
+  prioridad: ["catedra", "notas", "externo", "conocimiento_general"]
