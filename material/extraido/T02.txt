@@ -1,0 +1,1112 @@
+FUENTE: T02
+TITULO: Interpretación de estados contables (análisis financiero)
+ORIGINAL: material/catedra/teoria/4_Análisis Financiero_IF 2025.pdf
+PAGINAS: 50
+
+===== PAGINA 1 =====
+
+•1
+
+===== PAGINA 2 =====
+
+              Introducción
+•¿ Cómo está mi empresa financieramente?
+•¿ Gano o pierdo ?
+•¿ Gasto en forma excesiva ?
+•¿ Mis márgenes de utilidad son adecuados ?
+• ¿ Puedo cubrir mis deudas ?
+•¿ Hasta donde puedo endeudarme ?
+•¿ Me convendría estar en otro negocio ?
+
+                                    •2
+
+===== PAGINA 3 =====
+
+               Equilibrio
+               Financiero
+
+
+
+
+Rentabilidad            Potencial de
+                        crecimiento
+
+===== PAGINA 4 =====
+
+ LA INFORMACIÓN QUE REUNEN LOS ESTADOS
+ FINANCIEROS ES AMPLIA Y LAS CIFRAS POR SI
+            SOLAS DICEN POCO
+
+
+
+
+ SE HACE NECESARIO REORGANIZAR Y RESUMIR
+DICHA INFORMACIÓN PARA ENTENDERLA Y HACER
+         COMPARACIONES RELATIVAS
+                                  •4
+
+===== PAGINA 5 =====
+
+1.   Evaluación de la
+     Información
+2.   Adaptación de la
+     Información recogida
+     al Formato para el
+     Análisis
+3.   Análisis Económico
+     Financiero de la
+     Empresa
+
+===== PAGINA 6 =====
+
+       Propósitos:
+• Medir la solidez y la salud de la estructura financiera a través del
+  estudio del pasado y situación actual.
+• Auxiliar en el diagnóstico de la posición financiera de liquidez ,
+  rentabilidad y riesgo
+• Fijar metas de desempeño     e imponer restricciones     a los
+  administradores de la empresa por parte de       accionistas y
+  acreedores
+• Analizar comportamiento de competidores
+• Es una etapa previa al planeamiento y sirve para mostrar donde
+  estamos y como se llegó , permitiendo para la fijación de la
+  estrategia financiera ver las debilidades y fortalezas•6 de la empresa ,
+  como también para encarar estudios de maximización del valor de
+  la empresa
+
+===== PAGINA 7 =====
+
+ACREEDORES COMERCIALES /acreedores de pasivos a corto plazo
+
+TENEDORES DE BONOS /acreedores de pasivos a largo plazo
+
+ACCIONISTAS
+
+GERENCIA
+
+ENTES GUBERNAMENTALES
+
+===== PAGINA 8 =====
+
+- Se toman como base de análisis los ESTADOS CONTABLES
+publicados o registrados de la empresa.
+
+
+- Se analiza, es decir se observa, se separa, cada parte
+para sacar conclusiones del todo.
+
+- Los Estados Contables por sí solos no ofrecen
+generalmente suficientes elementos de juicio, por lo que
+se requiere su análisis.
+
+Además, en muchos casos, el análisis puede perfeccionarse
+obteniendo otros datos.
+
+- Se seleccionan elementos, se forman grupos de los
+mismos, se establecen relaciones (existen consagradas
+fórmulas de análisis que facilitan la tarea)
+
+
+Se realizan comparaciones y se sacan conclusiones.
+
+
+
+                                                      •8
+
+===== PAGINA 9 =====
+
+- ANÁLISIS DE TENDENCIAS:     SE COMPARAN LAS RAZONES
+                              FINANCIERAS CON RAZONES
+                            PASADAS Y FUTURAS ESPERADAS
+                                 DE LA MISMA EMPRESA
+
+
+
+
+                                                •9
+
+===== PAGINA 10 =====
+
+   - Comparaciones con la
+    INDUSTRIA:
+
+
+Se comparan las razones
+   financieras con razones
+   de empresas similares o
+   con promedios de la
+   industria.
+
+
+
+
+                         •1
+                          0
+
+===== PAGINA 11 =====
+
+         Financial Ratios for Select Firms
+         and Their Industry Average Values
+blank (1 of 2)                              Average
+                                           collection     Total             Net     Return on Return on   Price to
+             Current   Quick   Inventory     period       asset    Debt    profit      total   common     earnings
+              ratio    ratio    turnover     (days)     turnover   ratio   margin     assets    equity      ratio
+Apple            1.4    1.3       61.6        49.6         0.7     0.6      21.2%       14.2%     35.6%     16.9
+Hewlett-         1.0    0.7        8.8        31.1         1.7     0.7       5.2        8.6      16.4       10.7
+Packard
+Computers        1.5    0.6       21.0        57.0         0.8     0.4      15.6       11.9      32.3       16.0
+Home Depot       1.3    0.4        4.3         5.3         1.6     0.5       4.0        6.5      13.7       22.7
+
+
+Lowe’s           1.3    0.2        3.7         0.0         1.4     0.4       3.7        5.4       9.3       20.6
+Building         2.8    0.8        3.7         5.3         1.6     0.3       4.0        6.5      13.7       26.2
+materials
+Kroger           0.8    0.2       11.5         5.8         3.2     0.8       1.9        6.0      30.0       13.6
+
+===== PAGINA 12 =====
+
+         Financial Ratios for Select Firms
+         and Their Industry Average Values
+         (2 of 2)
+blank                                           Average
+                                               collection     Total             Net     Return on Return on   Price to
+               Current    Quick   Inventory      period       asset    Debt    profit      total   common     earnings
+                ratio     ratio    turnover      (days)     turnover   ratio   margin     assets    equity      ratio
+Whole Foods         1.5   1.1        19.9          5.6         2.5     0.5       3.2       8.0       15.7       18.0
+Market
+
+
+Grocery             1.3   0.7        11.1          7.5         2.4     0.6       2.1       3.1        9.8       20.8
+stores
+Target              0.9   0.3          5.9         3.9         1.8     0.7       3.8       7.1       24.4       10.7
+Walmart             0.9   0.3          9.0         3.7         2.4     0.6       3.5       8.4       20.3       16.3
+Merchandise         1.7   0.6          4.1         3.7         2.3     0.5       1.5       4.9       10.8       37.1
+stores
+
+  The data used to calculate these ratios are drawn from the Compustat North American database.
+
+===== PAGINA 13 =====
+
+1* Siempre se debe conocer la naturaleza del negocio,
+y ver en que condiciones se desarrolla la empresa.
+
+2* Evitar el empleo indiscriminado de reglas
+aproximadas para todas las industrias.
+
+3* Observar la dispersión (no solo la media) de la
+distribución de razones de las compañías similares.
+
+4* Tener en cuenta que toda una industria puede tener
+valores por debajo de lo satisfactorio.
+
+5* Pueden existir comparaciones no homogéneas,
+diferencias de tamaño o datos no estandarizados.
+
+6* Un sólo índice muy difícilmente puede ser suficiente
+para juzgar el desempeño de una empresa.
+
+7* Tener en cuenta la estacionalidad al realizar
+comparaciones.
+
+8* Calcular los índices que se necesitan, no agregarle
+complejidad y confusión al problema.
+
+                                                   •13
+
+===== PAGINA 14 =====
+
+ Perfil de la Empresa
+ ALUAR Aluminio Argentino SAIC
+
+            Fundación
+  FAB
+            1970 — Puerto Madryn, Chubut
+                                                                       Highlights FY2025
+                                                                       Ingresos
+
+  PLT
+            Planta                                                     $ 1.562.412 M
+            Única planta primaria de aluminio en Argentina             −9.4% vs FY2024 en términos reales
+
+                                                                       Resultado Neto
+
+            Capacidad                                                  $ 7.513 M
+  CAP                                                                  Margen neto 0.48% (vs 7.1% FY2024)
+            460.000 ton/año de aluminio primario
+                                                                       Activo Total
+
+            Exportaciones
+                                                                       $ 2.815.723 M
+  EXP                                                                  AT creció +2.5% interanual
+            84% de la producción exportada (~USD 1.145M en 9M a mar-
+            2026)                                                      Patrimonio Neto
+                                                                       $ 1.586.320 M
+            Empleados                                                  Solidez estructural mantenida
+  EMP
+            Mas de 4.000 empleados directos
+                                                                       Deuda Financiera
+                                                                       $ 850.782 M
+            Cotización                                                 Net Debt USD 456M | D/EBITDA 1.7x
+  BVC
+            Bolsa de Buenos Aires (BYMA) — Ticker: ALUA                EBITDA 1Q26
+                                                                       USD 106 M
+                                                                       Fuerte recuperación en Q1 FY2026
+
+
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                        ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 15 =====
+
+   Consiste en tomar un solo
+    estado financiero y relacionar
+    cada una de las partes que lo
+    componen con un total
+    determinado. Es un análisis
+    estático.
+
+   El porcentaje vertical de las
+    cifras absolutas puede generar
+    alguna información si ya se
+    tiene un parámetro estándar
+    previo de ese porcentaje que
+    sirva de comparación.
+   El porcentaje de una cuenta
+    sobre una cifra base puede
+    representar la política de la
+    empresa, el tipo de empresa,
+    la estructura de los activos, la
+    estructura de ingresos y
+    egresos, la estructura
+    financiera, los márgenes de
+    rentabilidad, etc.
+
+                                       •1
+                                        5
+
+===== PAGINA 16 =====
+
+Balance General — Análisis Vertical
+Estructura patrimonial FY2025 vs FY2024 | Valores en M ARS
+
+ Rubro                                                                              FY2025 (M ARS)           % AT    FY2024 (M ARS)        % AT     Var. %
+
+ ACTIVO CORRIENTE                                                                               1,470,164   52.2%              1,699,343   61.9%    -13.5%
+
+  Disponibilidades                                                                                 98,948    3.5%               373,076    13.6%    -73.5%
+
+  Créditos Comerciales                                                                             80,168    2.8%               123,296     4.5%    -35.0%
+
+  Inventarios                                                                                   1,142,057   40.6%              1,006,946   36.7%    +13.4%
+
+  Otros AC                                                                                        148,991    5.3%               196,025     7.1%    -24.0%
+
+ ACTIVO NO CORRIENTE                                                                            1,345,559   47.8%              1,047,690   38.1%    +28.4%
+
+  PP&E Neto                                                                                     1,259,940   44.8%               976,452    35.6%    +29.0%
+
+  Otros ANC                                                                                        85,619    3.0%                71,238     2.6%    +20.2%
+
+ ACTIVO TOTAL                                                                                   2,815,723   100.0%             2,747,033   100.0%    +2.5%
+
+ PASIVO CORRIENTE                                                                                601,364    21.4%               344,895    12.6%    +74.4%
+
+  Deuda Fin. CP                                                                                   433,391   15.4%                91,084     3.3%    +375.8%
+
+  Otros PC                                                                                        167,973    6.0%               253,811     9.2%    -33.8%
+
+ PASIVO NO CORRIENTE                                                                             628,038    22.3%               820,347    29.9%    -23.5%
+
+  Deuda Fin. LP                                                                                   417,391   14.8%               707,682    25.8%    -41.0%
+
+  Otros PNC                                                                                       210,647    7.5%               112,665     4.1%    +87.0%
+
+ PASIVO TOTAL                                                                                   1,229,402   43.7%              1,165,243   42.4%     +5.5%
+
+ PATRIMONIO NETO                                                                                1,586,320   56.3%              1,581,790   57.6%     +0.3%
+
+Nota: Datos ajustados por inflación (RT6/NIC 29). Variaciones calculadas en moneda homogénea.
+
+===== PAGINA 17 =====
+
+Estado de Resultados — Análisis Vertical
+Estructura del P&L FY2025 vs FY2024 | Valores en M ARS
+
+ Rubro                                                                                FY2025 (M ARS)             % Ingr.   FY2024 (M ARS)      % Ingr.   Var. %
+
+
+ Ingresos por Ventas                                                                           1,562,412         100.0%           1,723,793    100.0%     -9.4%
+
+
+ Costo de Ventas                                                                               -1,325,025        -84.8%           -1,394,283   -80.9%     -5.0%
+
+
+ GANANCIA BRUTA                                                                                  237,387         15.2%              329,510    19.1%     -28.0%
+
+
+ Gastos de Administración                                                                         -53,000        -3.4%              -30,000    -1.7%     +76.7%
+
+
+ Otros Resultados Op.                                                                             -52,444        -3.4%              -12,352    -0.7%     +324.6%
+
+
+ EBIT (Rdto. Operativo)                                                                          131,943          8.4%              287,158    16.7%     -54.0%
+
+
+ Resultados Financieros                                                                           -48,313        -3.1%              -76,158    -4.4%     -36.6%
+
+
+ EBT (Antes de Imp.)                                                                               83,630         5.4%              211,000    12.2%     -60.4%
+
+
+ Imp. a las Ganancias                                                                             -76,117        -4.9%              -88,948    -5.2%     -14.4%
+
+
+ RESULTADO NETO                                                                                     7,513         0.5%              122,052     7.1%     -93.8%
+
+
+EBIT = Earnings Before Interest & Taxes | EBT = Earnings Before Taxes | Variaciones en moneda homogénea (RT6).
+
+===== PAGINA 18 =====
+
+   Consiste en tomar dos o más
+    estados financieros para
+    analizar los cambios en las
+    cuentas individuales de un
+    periodo a otro. Es un análisis
+    dinámico.
+   El porcentaje de variación
+    de una cuenta representa
+    crecimiento de la empresa o
+    de los activos, crecimiento
+    de las fuentes de
+    financiación, crecimiento de
+    los ingresos y egresos.
+   Se debe determinar que
+    variaciones merecen una
+    atención especial y cuales
+    no, es decir, centrar el
+    interés en los cambios más
+    significativos.
+
+                                 •1
+                                  8
+
+===== PAGINA 19 =====
+
+ Análisis Horizontal
+ Evolución interanual FY2024→FY2025 | Moneda homogénea (RT6)
+
+   Balance General — Variación Interanual (M ARS)                                Estado de Resultados — Variación Interanual (M ARS)
+
+   Activo Corriente                                1,470,164            -13.5%   Ingresos                                  1,562,412                  -9.4%
+
+
+    Disponibilidades                                  98,948            -73.5%   Costo de Ventas                          -1,325,025                  -5.0%
+
+
+    Inventarios                                    1,142,057            +13.4%   Ganancia Bruta                              237,387                 -28.0%
+
+
+   Activo No Corriente                             1,345,559            +28.4%   EBIT                                        131,943                 -54.0%
+
+
+    PP&E                                           1,259,940            +29.0%   EBT                                          83,630                 -60.4%
+
+
+   Activo Total                                    2,815,723             +2.5%   Resultado Neto                                7,513                 -93.8%
+
+
+   Pasivo Corriente                                  601,364            +74.4%
+
+
+    Deuda Fin. CP                                    433,391           +375.8%
+
+
+   Pasivo No Corriente                               628,038            -23.5%
+
+
+   Pasivo Total                                    1,229,402             +5.5%
+
+
+   Patrimonio Neto                                 1,586,320             +0.3%
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                              ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 20 =====
+
+1.- LIQUIDEZ
+
+
+
+
+Para evaluar que capacidad
+tiene la empresa para
+satisfacer sus obligaciones a
+corto plazo.
+
+
+
+
+                        •20
+
+===== PAGINA 21 =====
+
+   Corriente de liquidez ò Current Ratio
+
+    Activo corriente / Pasivo Corriente
+     -medida cruda de la liquidez
+   Prueba Ácida ò Quick Ratio
+
+            (Activo Corriente-Inventarios)/
+         Pasivo Corriente
+     -medida más correcta de la liquidez al excluir el
+    rubro menos líquido del Activo Corriente
+
+                                              •21
+
+===== PAGINA 22 =====
+
+ Índices de Liquidez
+ Capacidad de pago de obligaciones corrientes
+
+
+   Liquidez Corriente                                         Liquidez Ácida                                        Liquidez Absoluta
+
+
+
+
+   AC / PC
+             2.44x                                                       0.55x
+                                                              (AC − Inventarios) / PC
+                                                                                                                              0.22x
+                                                                                                                    Disponibilidades / PC
+
+   AC 1.470.164 / PC 601.364                                  (1.470.164 − 1.142.057) / 601.364                     98.948 / 601.364
+
+
+   Óptimo: 1.5–2.5x                                           Óptimo: > 1.0x                                        Óptimo: 0.1–0.5x
+                  DENTRO del rango                                         POR DEBAJO del rango                                    DENTRO del rango
+
+              FY2024: 4.93x → −50.5%                                     FY2024: 1.87x → −70.6%                                FY2024: 1.08x → −79.6%
+
+
+     Análisis:
+     • La liquidez corriente cayó de 4.93x a 2.44x, principalmente por el vencimiento de deuda LP que pasó a CP (+$342.307M en PC).
+     • La liquidez ácida (0.55x) y absoluta (0.22x) revelan alta dependencia de los inventarios (81% del AC). Si los inventarios no rotan, la capacidad de pago
+     inmediata es limitada.
+     • Sin embargo, los inventarios de aluminio tienen mercado líquido (commodities), lo que mitiga parcialmente el riesgo de liquidez.
+
+
+
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                            ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 23 =====
+
+2.- OPERATIVOS
+
+
+Para evaluar la efectividad en el uso y
+cantidad de los recursos requeridos por
+la empresa (incluidos en el activo )
+
+
+
+                                    •23
+
+===== PAGINA 24 =====
+
+   Days Sales Outstanding(Período Promedio de Cobranza)
+
+     Créditos por Ventas x Días en el año/
+     Ventas anuales a Crédito
+      -(Una variante de este índice contempla los
+         doc. que la empresa haya descontado)
+          -Detecta si las cuentas por cobrar son
+        realmente corrientes, calcula el tiempo
+         promedio que tardan en convertirse en
+                         efectivo.
+
+                                                    •24
+
+===== PAGINA 25 =====
+
+   Período promedio de Pago
+     Deudas Com. por compras x Días en             el
+    año/ Compras
+    -Indica cuanto tiempo la empresa se demora en pagar.
+    Si no se dispone de la información de compras en
+    algunos casos se puede usar el costo de ventas
+
+
+
+
+                                                           •25
+
+===== PAGINA 26 =====
+
+   Inventory Turnover (Rotación de Inventarios)
+     Costo de ventas/ Inventario promedio
+       -Mide la rapidez con que el inventario se convierte en Crédito.
+   Total Asset Turnover (Rotación de activos)
+                             Ventas / Activo
+            -Medida de eficiencia de generación de ingresos
+
+
+
+
+                                                         •26
+
+===== PAGINA 27 =====
+
+ Índices Operativos
+ Eficiencia en la gestión de activos y ciclo de caja
+
+   Rotación de Inventarios                                                                       Rotación de Créditos
+
+    1.16x → 315 días                                                                              19.49x → 19 días
+    FY2024: 1.32x → 276 días                                                                      FY2024: 13.98x → 26 días
+
+    CV / Inventarios Prom.                                                                        Ventas / CxC Prom.
+    Menor días = más eficiente                                                                    Más rotaciones = cobro más rápido
+    CV 1.325.025 / Inv.Prom. 1.074.502 = 1.23x ajustado → 315 días de stock                       Ventas 1.562.412 / CxC 80.168 = 19.5x → Cobra en ~19 días promedio
+
+
+
+
+   Rotación de Activos                                                                           Días de Pago (CxP)
+
+    0.55x                                                                                         31 días
+    FY2024: 0.63x                                                                                 FY2024: 39 días
+
+    Ventas / Activo Total                                                                         CxP / (CV/365)
+    Industria pesada: 0.4–0.8x                                                                    Mayor días = mejor gestión de caja
+    Ventas 1.562.412 / AT 2.815.723 = 0.555x — razonable para sector intensivo en                 ALUAR paga a ~31 días; mejoró la rotación de activos pero redujo plazo de pago
+    capital
+
+
+
+
+     Ciclo de Caja Operativo:
+     Días de Inventario (315d) + Días de Cobro (19d) − Días de Pago (31d) = 303 días → Ciclo muy largo, típico de producción de aluminio primario.
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                                           ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 28 =====
+
+3.- DEUDA/COBERTURA
+
+
+
+
+Para evaluar que capacidad
+tiene la empresa para
+satisfacer sus obligaciones a
+largo plazo y sus cargas
+financieras.
+
+
+
+
+                         •28
+
+===== PAGINA 29 =====
+
+   Endeudamiento total ( Debt Ratio)
+         Deuda Total / Activo
+       -Mide con un % que participación existe de financiamiento de
+                                terceros.
+   Endeudamiento corriente
+         Pasivo Corriente/Activo
+     -Ídem con el pasivo circulante
+
+
+
+
+                                                      •29
+
+===== PAGINA 30 =====
+
+   Times interest
+    earned(Cobertura de
+    intereses)
+
+
+Utilidades antes de
+    int.,imp.amort(EBITDA)
+    /              Pagos
+    anuales de Intereses
+
+
+    -Útil para determinar si
+    la empresa será capaz
+    de pagar los intereses
+    sobre un préstamo
+
+                               •30
+
+===== PAGINA 31 =====
+
+ Índices de Deuda y Cobertura
+ Estructura de financiamiento y capacidad de servicio de deuda
+
+    Endeudamiento Total
+                                                            43.7%             FY24: 42.4%
+                                                                                            Estructura de Capital FY2025
+    PT / AT: Alto pero por debajo del 50%
+
+    Relación P/PN
+                                                                0.78x         FY24: 0.74x
+                                                                                                                            Patrimonio Neto
+                                                                                                                            56.3%
+    PT / PN: Por cada $1 de PN hay $0.78 de deuda                                                                           $ 1.586.320 M
+
+    Solvencia
+                                                            56.3%             FY24: 57.6%
+
+    PN / AT: Mayoría del activo financiado con capital propio
+
+    Deuda Fin. / PN
+                                                                0.54x         FY24: 0.49x
+                                                                                                                            Pasivo No Corriente
+                                                                                                                            22.3%
+    Deuda Fin. 850.782M / PN 1.586.320M                                                                                     $ 628.038 M
+
+    TIE (Cobertura Int.)
+                                                                2.73x         FY24: 3.77x                                   Pasivo Corriente
+                                                                                                                            21.4%
+    EBIT / Int. Financieros: Cayó de 3.77x a 2.73x — cobertura más ajustada                                                 $ 601.364 M
+
+
+                                                                                            TIE — Times Interest Earned
+                                                                                            EBIT: $ 131.943 M
+                                                                                            Intereses: $ 48.313 M
+
+                                                                                            TIE = 2.73x (vs 3.77x FY2024)
+
+
+
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                       ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 32 =====
+
+4.- RENTABILIDAD       PARA EVALUAR QUE
+                   CAPACIDAD TIENE LA EMPRESA
+                    PARA OBTENER GANANCIAS
+
+
+                                         •32
+
+===== PAGINA 33 =====
+
+   Margen de utilidad neta después de impuestos a ventas(
+    Profit margin)
+       Utilidades Netas después de impuestos/ Ventas
+
+    -Muestra la eficiencia relativa de la
+    empresa después de tomar en cuenta
+    todos los cargos.
+
+
+
+
+                                                         •33
+
+===== PAGINA 34 =====
+
+   ROE rentabilidad del patrimonio neto
+    (Utilidad neta después de impuestos- dividendos de
+            acciones preferentes)/ Patrimonio Neto
+       -Indica el poder de obtención de utilidades de la
+                           inversión.
+
+
+
+
+                                                           •34
+
+===== PAGINA 35 =====
+
+   Rentabilidad Operativa( Basic Earning Power)
+     Utilidades antes de intereses e impuestos/ Activo
+-Rendimiento de las utilidades de operación. Independiente
+           del modo en que se financia la empresa
+
+
+
+
+                                                         •35
+
+===== PAGINA 36 =====
+
+ Índices de Rentabilidad
+ Generación de valor sobre ventas, activos y patrimonio
+
+ Margen Bruto                                                  Margen Operativo                                              Margen Neto
+
+
+
+                15.2%                                                              8.4%                                                     0.48%
+ FY2024: 19.1% | −3.9 pp YoY                                   FY2024: 16.7% | −8.3 pp YoY                                   FY2024: 7.1% | −6.6 pp YoY
+
+ GP / Ventas                                                   EBIT / Ventas                                                 RN / Ventas
+ 237.387 / 1.562.412                                           131.943 / 1.562.412                                           7.513 / 1.562.412
+
+
+
+
+ ROA                                                           ROE                                                           BEP (Basic Earning Power)
+
+
+
+                0.27%                                                          0.47%                                                             4.7%
+ FY2024: 4.4% | Muy bajo — año atípico                         FY2024: 7.7% | Muy bajo — año atípico                         FY2024: 10.5% | −5.8 pp YoY
+
+ RN / Activo Total                                             RN / Patrimonio Neto                                          EBIT / Activo Total
+ 7.513 / 2.815.723                                             7.513 / 1.586.320                                             131.943 / 2.815.723
+
+
+
+
+       Contexto FY2025:
+   Los bajos ROA/ROE de FY2025 reflejan un año excepcional: caída del precio del aluminio, altos costos financieros y carga impositiva desproporcionada (Imp. Ganancias 76.117M
+   sobre EBT 83.630M). La recuperación de 1Q26 (USD 82M de RN) sugiere un FY2026 sustancialmente mejor.
+
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                                        ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 37 =====
+
+   5.- VALOR DE MERCADO*
+    Para relacionar el valor de mercado de
+    las acciones de una empresa con
+las utilidades, los dividendos, y el valor de
+    libros por acción
+   * El cálculo de estos índices requiere
+    información del mercado, no solo
+    información tomada del balance.
+
+
+
+
+                           •37
+
+===== PAGINA 38 =====
+
+   Precio/Utilidad (PER)
+        Precio por acción/ Utilidad por acción
+      -A mayor valor, mayor será el valor de las
+        acciones que se atribuye a las utilidades
+        futuras. Se valora el crecimiento futuro
+   Dividendo/Precio
+       Dividendo por acción/Precio por acción
+      -Da idea del rendimiento de una acción.
+        Industrias maduras, rendimientos altos,
+     industrias en crecimiento, reinvierten, rend.
+                         bajo.
+                                          •38
+
+===== PAGINA 39 =====
+
+   Rendimiento para el accionista
+
+
+
+    R=
+       ( PPAf − PPAp ) + Dividendos
+                       PPAp
+           187 − 200 + 10
+         =                = −1.5
+                200
+     -Este es el rendimiento total para el
+        accionista
+                                     •39
+
+===== PAGINA 40 =====
+
+   Índices de Valor de Mercado
+   Valoración bursátil al 30 de junio de 2025 | ALUA — BYMA
+
+
+Precio Acción                       EPS                                   P/E Ratio                             P/BV                                       Market Cap
+
+   ~$997 ARS                              $2.68 ARS                              371.8x                                  1.76x                             ~$2.79B USD
+    Cotización aproximada                 Ganancia por acción                 Alto por bajo RN atípico               Prima sobre valor libro                       ≈ $2.79T ARS
+
+
+
+
+    Acciones en circulación                              2.800.000.000                                                              Millones de acciones
+
+
+
+    EPS = RN / Acciones                                  7.513M / 2.800M = $2.68 ARS
+
+
+    P/E = Precio / EPS                                   997.5 / 2.68 = 371.8x                                                      Refleja expectativa de recuperación (forward-
+                                                                                                                                    looking)
+
+    BV/Share = PN / Acciones                             1.586.320M / 2.800M = $566.5 ARS
+
+
+    P/BV = Precio / BV/Share                             997.5 / 566.5 = 1.76x                                                      El mercado valúa ALUAR a 1.76x su valor contable
+
+
+
+
+      Interpretación del P/E elevado:
+      El P/E de 371.8x es excepcionalmente alto por el bajo RN de FY2025. El mercado descuenta recuperación futura: en 1Q26 ALUAR reportó USD 82M de ganancia neta. Anualizado,
+      el P/E forward sería ~8.5x — razonable para el sector.
+
+
+
+ Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                                        ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 41 =====
+
+    Muchas veces conviene descomponer los indices en sumas, restas,
+     productos, cocientes de otros indices, por ejemplo:
+
+
+
+
+                            EBIT            EBIT            Ventas
+    Re nt .Oper . =                    =               *
+                          Activos          Ventas Activos
+                      = PM * TATO
+                                                      •41
+
+===== PAGINA 42 =====
+
+         Ecuación de Du Pont
+
+                   U .neta          Ventas           Activos
+  Dupont =                      *               *                   = ROE
+                   Ventas           Activos         Pat. Neto
+                        Rent.s/Activos
+
+                                          ROE
+ •La ecuación de Dupont nos permite apreciar que el ROE es afectado por tres cosas:
+1. La eficiencia económica, medida por el margen de utilidad que obtenemos sobre las
+ventas.
+2. La eficiencia operativa, medida por la cantidad de veces que se venden los activos.
+3. El apalancamiento financiero, medido por el multiplicador del patrimonio neto.
+                                                                                    •42
+
+===== PAGINA 43 =====
+
+     Ecuación de Du Pont ampliada
+
+        EBIT         Ventas        Activos         EBT        EAT
+ROE =            *             *               *          *
+        Ventas       Activos       Pat. Neto       EBIT       EBT
+                                    Apalancamiento        Apalanc.
+          Rent.s/Activos
+                                      Financiero           Fiscal
+
+                                   ROE
+
+                                                     Pasivo
+ ROE = Re nt .Oper + (Re nt .Oper . − i )
+                                                    Pat. Neto        •43
+
+===== PAGINA 44 =====
+
+ Análisis DuPont
+ Descomposición del ROE en sus factores determinantes
+
+
+                                                                                         ROE
+
+                                                                                0.47% FY2024: 7.7%
+
+
+                                                                                          =
+     Margen Neto                                              Rotacion Activos                                         Multiplicador Capital
+
+
+
+                0.48%                                   x               0.555x                                    x              1.775x
+     RN / Ventas                                              Ventas / AT                                              AT / PN
+     7.513 / 1.562.412                                        1.562.412 / 2.815.723                                    2.815.723 / 1.586.320
+     FY2024: 7.1%                                             FY2024: 0.627x                                           FY2024: 1.737x
+
+
+       Verificación DuPont:
+       ROE = 0.481% × 0.555 × 1.775 = 0.474% ✓
+       El bajo ROE se explica principalmente por el colapso del Margen Neto (0.48% vs 7.1%). La rotación y el apalancamiento son estables — el problema es la rentabilidad
+       operativa.
+
+
+
+
+Fuente: ALUAR SAIC — EECC FY2025 (12M jun-2025) | Elaboración propia                                                                                          ITBA · GF 61.12 · Jun 2026
+
+===== PAGINA 45 =====
+
+                                      Maximizar Valor
+Analisis                                Acciones
+DuPont
+
+
+       Crecimiento (g)                  Rntabilidad                  Riesgo (r)
+                                          (ROE)
+                         Efic.Econ.        Efic.Oper.         Apalanc.
+
+
+
+Decisiones Operativas                 Decisiones Inversión          Decisiones
+Clientes Proveedores               Mix Activos       Liquidez       Financiamiento
+Productos     Precios                                               Mix Deuda-PN
+                                          Ciclo de Caja
+Marketing Distribución
+Control de Gastos               Utilización de Planta, Fabricar o   Política de Estructura de
+                                            comprar                 Capital
+                                                                    Política de Dividendos      •45
+
+===== PAGINA 46 =====
+
+GESTIÓN FINANCIERA · ITBA
+
+
+
+
+JUN                         Contexto
+2026                        Económico
+Actualización de Mercados
+                            Actual
+                            Argentina & Mercados Globales
+
+===== PAGINA 47 =====
+
+Indicadores Macroeconómicos — Argentina                                                        ARG
+
+Datos y proyecciones al 24 de junio de 2026
+
+     INFLACIÓN                                        TIPO DE CAMBIO
+
+
+
+ ~30.5%                                           $1.479
+ Proyección acumulada 2026 (REM-BCRA)             Dólar mayorista (24-jun) | BNA $1.495
+
+
+
+ Ene 2.9% · Feb 2.9% · Mar 3.4% · May est. 2.3%   Proyección dic-2026: $1.658 · Blue: $1.530
+
+
+
+     CRECIMIENTO PBI                                  RESERVAS BCRA
+
+
+
+ +2.9%                                            USD 46.9 MM
+ Var. real anual proyectada 2026 (REM)            Al 24/06/2026 — mínimo desde 22-may
+
+
+
+ OCDE: 2.8% · FMI: 3.5% · Gobierno: 5%            Compras BCRA en jornada: +USD 70M
+
+===== PAGINA 48 =====
+
+Mercados Financieros — Argentina                                                          ARG
+
+Jornada 24 de junio de 2026
+
+
+     S&P MERVAL
+                                                   HITO DEL TRIMESTRE
+
+ 3.110.490 pts                                 S&P Global eleva calificación soberana
+ ▼ 4.3% — corrección técnica (decisión MSCI)
+
+
+
+                                               CCC+/C                         → B-/B
+    RIESGO PAÍS
+                                               10 de junio de 2026 · Outlook ESTABLE
+ 437 bps
+                                                  Superávits fiscales consecutivos
+ ▲ 4 bps · Mínimo en 8 años: 420 bps
+
+
+                                                  Desaceleración sostenida de inflación
+
+
+     DÓLAR BLUE / OFICIAL
+                                                  Reducción de desequilibrios macro
+
+
+ $1.530 / $1.495                                  Mejora en liquidez externa y reservas
+ Brecha: 3.4% · Mayor desde noviembre 2025
+                                               PBI proyectado 2026: +2.7% · S&P Global
+
+===== PAGINA 49 =====
+
+Contexto Internacional — Mercados Globales                                          USA
+
+Junio 2026 · Reserva Federal · Wall Street
+
+
+     RESERVA FEDERAL (FED) — EE.UU.              ÍNDICES BURSÁTILES — WALL STREET
+
+  Tasa de referencia                         S&P 500
+
+
+  3.50 – 3.75%                               7.420 pts
+  Sin cambios · reunión junio 2026           ▼ 1.2% en la jornada (17-jun)
+
+  Nuevo presidente                           Dow Jones
+
+
+  Kevin Warsh                                51.493 pts
+  Primera reunión como Chair del Fed         ▼ 1.0% en la jornada
+
+  Inflación EE.UU. (mayo)                    Nasdaq Composite
+
+  4.2%                                       26.021 pts
+  Por encima del objetivo 2%                 ▼ 1.3% en la jornada
+
+  Treasury 10 años                           Treasury 2 años
+
+
+  4.469%                                     4.216%
+  Yield al alza tras la decisión             Al alza · spread con 10y: 25bp
+
+===== PAGINA 50 =====
+
+ Proyecciones 2026 — Implicancias para el Análisis Financiero
+ Conectando el contexto macro con las herramientas del análisis
+
+
+ Variable                       Dato / Proyección              Fuente                 Implicancia para el Análisis Financiero
+
+
+
+ Inflación                      ~30.5% acum.                   REM-BCRA               Deflactar estados; comparaciones interanuales requieren ajuste por inflación
+
+
+
+ Tipo de cambio                 $1.658 dic-2026                REM-BCRA               Sensibilidad cambiaria en activos/pasivos dolarizados; ajuste de balances
+
+
+
+ PBI Real                       +2.9%                          OCDE / REM             Crecimiento moderado; ventas y demanda en expansión; ROA/ROE en mejora
+
+
+
+ Riesgo País                    ~437 bps                       JP Morgan              Costo del capital (ke) elevado; descuento en valuación DCF de activos
+
+
+
+ Tasa Fed                       3.50 – 3.75%                   Fed EEUU               Presión sobre EM; eleva hurdle rate; referencia global para costo de deuda
+
+
+
+ Rating Arg.                    B-/B (S&P)                     S&P jun-2026           Mejora acceso al financiamiento externo; menor spread soberano; WACC↓
+
+
+Fuentes: BCRA · REM jun-2026 · OCDE · FMI · S&P Global · JP Morgan EMBI · Fed EEUU — Datos al 24-jun-2026
+

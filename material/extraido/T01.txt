@@ -1,0 +1,1085 @@
+FUENTE: T01
+TITULO: La empresa y la información contable
+ORIGINAL: material/catedra/teoria/2_LA EMPRESA Y LA INFORMACION CONTABLE (actualizado).pdf
+PAGINAS: 56
+
+===== PAGINA 1 =====
+
+ECONOMÍA EMPRESARIA · CURSO INTRODUCTORIO
+
+
+
+La Empresa y la
+Información Contable
+Cómo las empresas generan, registran y comunican su información económico-financiera
+
+
+
+
+Material actualizado · Agosto 2026
+
+===== PAGINA 2 =====
+
+               HOJA DE RUTA
+
+
+               Contenidos del curso
+                     Módulo 1                                     Módulo 2
+
+                     La empresa y el sistema de información       La contabilidad y los estados contables
+
+
+
+
+                     Módulo 3                                     Módulo 4
+
+                     El modelo contable: cuentas y registración   Estado de resultados y flujo de caja
+
+
+
+
+                     Módulo 5                                     Módulo 6
+
+                     Anexo: el detalle de las cuentas             Síntesis y recursos para seguir aprendiendo
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                      2
+
+===== PAGINA 3 =====
+
+MÓDULO 1
+
+
+
+             La Empresa y el Sistema de Información
+
+Qué es una empresa, cómo decide y por qué necesita información contable
+
+===== PAGINA 4 =====
+
+               CONCEPTO CLAVE
+
+
+               ¿Qué es una empresa?
+
+        “Organismo que coordina factores productivos, destinados a producir e intercambiar bienes y servicios
+        para la sociedad.”
+
+
+
+• Usa recursos – capital, trabajo, tecnología e insumos – para funcionar.
+• Realiza transacciones compras, pagos, ventas y cobros, de forma continua.
+• Persigue un objetivo obtener nuevos bienes o servicios y, en general, generar valor económico.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                      4
+
+===== PAGINA 5 =====
+
+               EL CICLO ECONÓMICO
+
+
+               Cómo circula el valor dentro de la empresa
+La empresa transforma recursos en bienes y servicios, y esa transformación deja huellas contables en cada etapa.
+
+
+
+
+   1                                                     2                                     3                                      4
+    Usa Recursos                                             Realiza Compras y                 Obtiene Nuevos Bienes                  Genera Ventas y Cobros
+                                                             Pagos
+                                                →                                          →                                      →
+    Capital, trabajo, insumos y                              Adquiere bienes/servicios y       Produce o transforma productos y       Intercambia esos bienes con la
+    tecnología disponibles.                                  cancela obligaciones.             servicios.                             sociedad y recauda fondos.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                             5
+
+===== PAGINA 6 =====
+
+               DATO DE ACTUALIDAD
+
+
+               El contexto argentino en el que operan hoy las empresas
+
+
+                       1,9%                                                        33,5%                                             $1.520
+              Inflación mensual (junio 2026)                                 Inflación interanual (jun. 2026)                      Dólar oficial (venta, BNA)
+
+
+
+
+Estas cifras no son un dato de color: son el motivo por el cual varios supuestos "clásicos" de la contabilidad —como usar la moneda nominal
+sin ajustes— deben revisarse en la Argentina actual. Lo vamos a retomar más adelante, al ver "moneda de cuenta" y el "principio de lo
+devengado".
+
+
+
+
+Fuentes: INDEC, Índice de Precios al Consumidor, informe de junio 2026 · Banco Nación / cotización oficial, 5 de agosto de 2026.
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                      6
+
+===== PAGINA 7 =====
+
+               GESTIÓN EMPRESARIAL
+
+
+               La administración y el proceso decisorio
+•    Planificar definir objetivos y los caminos para alcanzarlos.
+•    Organizar asignar recursos, tareas y responsabilidades.
+•    Dirigir conducir a las personas hacia los objetivos fijados.
+•    Controlar comparar lo realizado contra lo planificado y corregir desvíos.
+
+
+
+
+     Cada una de estas etapas requiere información confiable. Sin datos de calidad, no hay buena decisión posible.
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                           7
+
+===== PAGINA 8 =====
+
+               SISTEMA DE INFORMACIÓN
+
+
+               La información como base de la decisión
+
+        “La toma de decisiones requiere contar con información consistente, oportuna y presentada bajo una
+        forma comunicable.”
+
+
+
+•    Consistente coherente entre sí y a lo largo del tiempo.
+•    Oportuna disponible en el momento en que se necesita decidir.
+•    Comunicable expresada de forma clara y comprensible para quien la recibe.
+•    Fuente esa información se completa, principalmente, con los Estados Contables que provee la Contabilidad.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                       8
+
+===== PAGINA 9 =====
+
+               CONCEPTO CLAVE
+
+
+               ¿Qué es la Contabilidad?
+
+        Técnica que registra sistemáticamente —clasificando, ordenando, procesando, analizando e
+        interpretando— toda la información referida a las transacciones económicas de una empresa.
+
+
+
+• Objetivo informar sobre el estado patrimonial del ente a una fecha y su evolución económica y financiera en el período, para
+  facilitar la toma de decisiones y el control de gestión.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                       9
+
+===== PAGINA 10 =====
+
+               STAKEHOLDERS
+
+
+               ¿Quiénes usan la información contable?
+     Usuarios internos                                                Usuarios externos
+
+      • Accionistas actuales evalúan el resultado de su inversión y   • Inversores potenciales deciden si invertir o prestar fondos
+        controlan la gestión de sus representantes.                     a la empresa.
+      • Dirección y gerencia necesitan información para decidir,      • Estado utiliza la información para la recaudación de
+        gestionar y controlar el negocio.                               impuestos.
+                                                                      • Bancos deciden si otorgar préstamos o no.
+                                                                      • Proveedores y clientes evalúan si financiar una operación
+                                                                        o confiar en la solvencia de la empresa.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                            10
+
+===== PAGINA 11 =====
+
+MÓDULO 2
+
+
+
+             La Contabilidad y los Estados Contables
+
+Funciones, atributos, supuestos básicos y principio de lo devengado
+
+===== PAGINA 12 =====
+
+               DOS FUNCIONES, UN MISMO SISTEMA
+
+
+               Contabilidad Financiera vs. Gerencial
+     Contabilidad Financiera                                     Contabilidad Gerencial
+
+      • Función custodia y determinación de utilidades.          • Función planificación de la gestión.
+      • Objetivos control interno y medición del resultado del   • Objetivos pronósticos, presupuestos, costos, rendimiento
+        período.                                                   por área.
+      • Mirada hacia atrás — informa lo ya ocurrido.             • Mirada hacia adelante — apoya decisiones futuras.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                    12
+
+===== PAGINA 13 =====
+
+               LOS CUATRO PILARES
+
+
+               Los Estados Contables básicos
+
+
+     Balance General                                         Estado de Resultados        Evolución del                   Origen y Aplicación
+                                                                                         Patrimonio Neto                 de Fondos
+     Enunciación ordenada de                                 Describe los hechos que     Refleja los cambios ocurridos   Muestra de dónde surgieron
+     bienes, derechos y                                      generaron la variación de   en la composición del           los fondos y en qué se
+     obligaciones a una fecha                                recursos económicos en el   Patrimonio Neto durante el      utilizaron.
+     determinada.                                            período.                    ejercicio.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                            13
+
+===== PAGINA 14 =====
+
+               CALIDAD DE LA INFORMACIÓN
+
+
+               Requisitos de los Estados Contables
+     Atributos deseados                                      Restricciones que las condicionan
+
+      • Pertinencia (atingencia)                             • Oportunidad un dato perfecto pero tardío pierde utilidad.
+                                                             • Equilibrio costo–beneficio el costo de producir la
+      • Confiabilidad (credibilidad)
+                                                               información no debe superar su utilidad.
+      • Sistematicidad
+      • Comparabilidad
+      • Claridad (comprensibilidad)
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                 14
+
+===== PAGINA 15 =====
+
+               SUPUESTOS BÁSICOS
+
+
+               Presupuestos generados en el medio económico
+
+
+     Ente en marcha                                          Bienes económicos              Ejercicio                        Moneda de cuenta
+
+     La empresa es distinta de su                            Bienes útiles, escasos y con   Período en que se fracciona la   Unidad de medida homogénea
+     dueño y se proyecta hacia el                            valor de cambio.               vida del ente para exponer sus   de los valores contables.
+     futuro.                                                                                Estados Contables.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                15
+
+===== PAGINA 16 =====
+
+               DATO DE ACTUALIDAD
+
+               ¿Sigue siendo válida la "moneda nominal" en la Argentina de
+               hoy?
+
+                   +100%                                                         16,8%                                           2018
+    Inflación acumulada en 3 años: gatilla el ajuste                   Inflación acumulada en lo que va de 2026   Año en que se reactivó el ajuste por inflación
+                      contable                                                                                                   en Argentina
+
+
+
+
+El original supone que "en un contexto de estabilidad monetaria, la moneda de cuenta es la moneda nominal". Argentina no cumple esa
+condición: por eso rige el "ajuste por inflación contable" (RT 6 de la FACPCE, alineada con la NIC 29 internacional), que consiste en
+reexpresar todos los rubros no monetarios de los Estados Contables a moneda homogénea de cierre. La FACPCE continúa publicando
+mensualmente el índice para aplicarlo (última publicación disponible: junio 2026).
+
+
+
+
+Fuentes: INDEC (IPC) · FACPCE, índices de ajuste por inflación 2026.
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                         16
+
+===== PAGINA 17 =====
+
+               PRINCIPIO CONTABLE
+
+
+               Principio de lo Devengado
+
+        Los efectos patrimoniales de las transacciones deben reconocerse en el período en que ocurren, con
+        independencia del momento en que se producen los ingresos y egresos de fondos.
+
+
+
+•    Ingresos se computan cuando se facturan (ventas), no cuando se cobran.
+•    Costos vinculados a ingresos se imputan al mismo período que esos ingresos (ej. comisiones por ventas).
+•    Costos vinculados a períodos se imputan al período correspondiente (ej. sueldos de administración).
+•    Pérdidas se cargan al período en que ocurre el hecho que las genera (ej. un siniestro).
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                     17
+
+===== PAGINA 18 =====
+
+               EJEMPLO REAL · DEVENGADO VS. CAJA
+
+
+               Ganar en el papel, cobrar en la caja: el caso YPF 2025
+
+     YPF S.A. — Resultados del ejercicio 2025
+
+
+
+               US$ 18.448 M                                                      US$ 5.009 M                                           – US$ 649 M
+                  Ingresos del año (–4% i.a.)                                EBITDA ajustado — récord en 10 años                   Resultado neto del ejercicio (pérdida)
+
+
+
+
+      Pese a lograr el mayor EBITDA operativo en una década, YPF cerró 2025 con una pérdida contable de US$ 649 millones, explicada casi en
+      su totalidad por un cargo por Impuesto a las Ganancias de unos US$ 1.709 millones vinculado a un plan de pago de impuestos diferidos.
+      La propia compañía aclaró que este cargo es un "impacto contable único", con prácticamente ningún efecto en el flujo de caja del año. Es
+      el principio de lo devengado en acción: el resultado del ejercicio (ganancia o pérdida "en libros") puede diferir enormemente de lo
+      efectivamente cobrado o pagado.
+
+
+
+Fuente: Bloomberg Línea, "YPF vuelve a reportar resultado neto negativo, pero cerró 2025 con el mayor EBITDA en 10 años" (2026).
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                                  18
+
+===== PAGINA 19 =====
+
+               RECONOCIMIENTO CONTABLE
+
+
+               Activo y Pasivo: las dos caras del negocio
+     Activo                                                          Pasivo
+
+      • Definición recursos (bienes y derechos) de propiedad de la   • Definición obligación de entregar activos o prestar
+        empresa.                                                       servicios a un tercero.
+      • Valor de cambio puede canjearse por efectivo, usarse para    • Condición la cancelación es ineludible (o altamente
+        cancelar deudas o distribuirse a los propietarios.             probable) en una fecha determinada o determinable.
+      • Valor de uso se utiliza en actividades que producen          • Patrimonio Neto surge del aporte de los propietarios más
+        ingresos.                                                      la acumulación de resultados.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                        19
+
+===== PAGINA 20 =====
+
+               LA ECUACIÓN FUNDAMENTAL
+
+
+               Balance y ecuación contable
+
+Todo lo que la empresa posee (Activo) está financiado por terceros (Pasivo) o por sus propios dueños (Patrimonio Neto).
+
+
+
+
+                        ACTIVO                                        PASIVO                            PATRIMONIO NETO
+                                                             =                                +
+                       Bienes y derechos                         Obligaciones con terceros                     Aportes + resultados
+
+
+
+
+      Toda operación mantiene la igualdad: el aumento de un Activo se financia con un aumento de Pasivo, un aumento de Patrimonio Neto, o
+      la disminución de otro Activo — y viceversa para las disminuciones. ΔA + ΔP + ΔPN siempre se compensan entre sí.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                  20
+
+===== PAGINA 21 =====
+
+MÓDULO 3
+
+
+
+              El Modelo Contable: Cuentas y Registración
+
+Plan de cuentas, clasificación, partida doble y libros contables
+
+===== PAGINA 22 =====
+
+               UNIDAD DE REGISTRO
+
+
+               Cuentas y Plan de Cuentas
+
+
+        Una Cuenta es un conjunto de anotaciones relacionadas con el mismo objeto.
+
+
+
+
+• Plan de Cuentas el conjunto de todos los rubros, cuentas y subcuentas —patrimoniales y de resultado— de una empresa.
+• Función es la base para registrar contablemente todos los movimientos del ente.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                               22
+
+===== PAGINA 23 =====
+
+               CLASIFICACIÓN
+
+
+               Los dos grandes grupos de cuentas
+
+
+     Cuentas Patrimoniales (Reales)                          Cuentas de Resultado                             Cuentas de Producción
+
+     Activo, Pasivo y Patrimonio Neto. Su saldo se           Ingresos (R+) y Egresos (R–), transitorias. Se   Acumulan costos de fabricación durante el
+     traslada al ejercicio siguiente.                        cancelan al cierre de cada ejercicio.            proceso productivo. También transitorias.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                23
+
+===== PAGINA 24 =====
+
+               RUBROS DEL ACTIVO
+
+
+               Cuentas de Activo: corriente y no corriente
+     Activo Corriente                                        Activo No Corriente
+
+      • Disponibilidades                                     • Inversiones no corrientes
+      • Inversiones corrientes                               • Créditos no corrientes
+      • Créditos por venta                                   • Bienes de uso
+      • Bienes de cambio                                     • Bienes inmateriales
+      • Otros créditos corrientes                            • Cargos diferidos
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                 24
+
+===== PAGINA 25 =====
+
+               RUBROS DEL PASIVO
+
+
+               Cuentas de Pasivo: corriente y no corriente
+     Pasivo Corriente                                        Pasivo No Corriente
+
+      • Deudas comerciales                                   • Deudas bancarias no corrientes
+      • Deudas bancarias corrientes                          • Deudas documentadas no corrientes
+      • Cargas sociales y salarios a pagar                   • Previsiones
+      • Deudas fiscales                                      • Otras obligaciones no corrientes
+      • Provisiones
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                         25
+
+===== PAGINA 26 =====
+
+               RUBROS DEL PATRIMONIO NETO
+
+
+               Cuentas de Patrimonio Neto
+
+
+     Capital Social                                          Aportes a suscribir      Reservas                        Resultados
+
+     Aporte comprometido por los                             Compromisos de futuros   Utilidades retenidas para       Acumulados (no asignados) y
+     socios o accionistas.                                   aumentos de capital.     reforzar el capital o cumplir   del ejercicio en curso.
+                                                                                      una obligación legal.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                          26
+
+===== PAGINA 27 =====
+
+               CUENTAS DE RESULTADO
+
+
+               Ingresos y Egresos del período
+     Cuentas de Ingreso (R+)                                 Cuentas de Egreso (R–)
+
+      • Ventas de mercaderías                                • Sueldos e impuestos
+      • Ventas de bienes de uso                              • Amortizaciones
+      • Alquileres ganados                                   • Gastos generales y servicios
+      • Intereses ganados                                    • Costo de venta
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                    27
+
+===== PAGINA 28 =====
+
+               REGISTRACIÓN CRONOLÓGICA Y SISTEMÁTICA
+
+
+               Partida Doble y Registración Contable
+Toda la contabilidad se apoya en una regla simple: por cada anotación en el Debe existe una contrapartida equivalente en el Haber.
+
+
+
+
+   1                                                     2                                    3                                   4
+    Debe                                                     Haber                            Libro Diario                        Libro Mayor
+
+                                                →                                         →                                   →
+    Aumentos de Activo,                                      Disminuciones de Activo,         Registro cronológico de cada        Registro sistemático: agrupa los
+    disminuciones de Pasivo y PN, y                          aumentos de Pasivo y PN, e       operación, en el orden en que       movimientos por cuenta.
+    Egresos.                                                 Ingresos.                        ocurre.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                           28
+
+===== PAGINA 29 =====
+
+               LA REGLA DE ORO
+
+
+               El equilibrio permanente de la partida doble
+•    Cuentas de Activo y Egresos inician con el Debe; su saldo final es deudor (las de egreso terminan en cero al cierre).
+•    Cuentas de Pasivo, PN e Ingresos inician con el Haber; su saldo final es acreedor (las de ingreso también cierran en cero).
+•    En cada operación el total de débitos debe igualar al total de créditos: DÉBITOS = CRÉDITOS.
+•    En todo momento la suma de saldos deudores debe igualar a la de saldos acreedores.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                         29
+
+===== PAGINA 30 =====
+
+MÓDULO 4
+
+
+
+             Estado de Resultados y Flujo de Caja
+
+Cómo se mide la rentabilidad y cómo se sigue el efectivo del negocio
+
+===== PAGINA 31 =====
+
+               RENTABILIDAD DEL PERÍODO
+
+
+               Estado de Resultados: qué informa
+• Objetivo suministra información sobre las causas que generaron el resultado del período.
+• Clasificación las partidas se dividen en resultados ordinarios y extraordinarios.
+• Alcance temporal solo se computan los resultados devengados en el período (no lo cobrado ni lo pagado).
+
+
+
+
+     Recordemos el caso de YPF: "ganar" o "perder" contablemente no siempre coincide con lo efectivamente cobrado o pagado en el año — ese es, precisamente, el
+     principio de lo devengado.
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                        31
+
+===== PAGINA 32 =====
+
+               ESQUEMA ELEMENTAL
+
+
+               De las Ventas a la Utilidad Neta
+
+
+
+   1                                                     2                               3                                   4
+    Ingresos                                                 – Costos del negocio        ± Intereses e                       – Impuesto a las
+                                                                                         inversiones                         Ganancias
+                                                →                                    →                                   →
+    Ventas o servicios prestados.                            = Utilidad Operativa.       ± Resultados extraordinarios.       = Utilidad Neta del Ejercicio.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                    32
+
+===== PAGINA 33 =====
+
+               ESQUEMA FINANCIERO
+
+
+               De EBITDA a EAT: el "camino" del resultado
+Concepto                                                     Sigla    Qué mide
+
+Ventas Brutas                                                —        Ingresos totales por ventas o servicios.
+
+(–) Costos erogables                                         —        Costos que implican salida de efectivo.
+
+Resultado antes de intereses, impuestos y amortizaciones     EBITDA   Rentabilidad puramente operativa, "de caja".
+
+(–) Depreciaciones / Amortizaciones                          —        Consumo contable de bienes de uso e intangibles.
+
+Resultado antes de intereses e impuestos                     EBIT     Rentabilidad operativa total.
+
+(–) Intereses                                                —        Costo de la deuda financiera.
+
+Resultado antes de impuestos                                 EBT      Ganancia antes del Impuesto a las Ganancias.
+
+(–) Impuesto a las Ganancias                                 —        Carga tributaria del período.
+
+Resultado después de impuestos                               EAT      Utilidad neta final del ejercicio.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                               33
+
+===== PAGINA 34 =====
+
+               EJEMPLO REAL · ESTADOS CONTABLES APLICADOS
+
+
+               El Estado de Resultados de YPF, en números reales (2025)
+
+     YPF S.A. — Ejercicio anual 2025 (cifras en dólares)
+
+
+
+               US$ 18.448 M                                     US$ 5.009 M                                        – US$ 649 M
+                   Ventas Brutas / Ingresos                          EBITDA ajustado                                  Resultado neto (EAT)
+
+
+
+
+      Bajar de un EBITDA de US$ 5.009 millones a un resultado neto negativo de US$ 649 millones muestra el "camino" completo del esquema
+      financiero: entre el EBITDA y el EAT se restan amortizaciones, intereses y, sobre todo en este caso, un fuerte cargo por Impuesto a las
+      Ganancias vinculado a un plan de regularización impositiva. El EBITDA cuenta la historia operativa del negocio; el resultado neto cuenta la
+      historia contable completa del ejercicio.
+
+
+
+
+Fuente: Bloomberg Línea (2026), resultados anuales YPF S.A.
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                          34
+
+===== PAGINA 35 =====
+
+               LIQUIDEZ
+
+
+               Capital de Trabajo (Fondo de Maniobra)
+• Definición la diferencia entre el Activo Corriente y el Pasivo Corriente, tal como surgen del balance.
+• Otra mirada es la porción del Activo Corriente que no se financia con Pasivo Corriente, sino a largo plazo.
+• Por qué importa es un valor "libre en el giro": no hace falta usarlo para cubrir obligaciones inmediatas. Se asocia directamente
+  a la liquidez de la empresa.
+
+
+
+
+     Fórmula clave: Capital de Trabajo (KT) = Activo Corriente (AC) – Pasivo Corriente (PC)
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                           35
+
+===== PAGINA 36 =====
+
+               MÁS ALLÁ DE LA UTILIDAD
+
+
+               Estado de Origen y Aplicación de Fondos (Flujo de Caja)
+• Qué muestra el efectivo que entra y sale de la empresa durante el período.
+• Foco se concentra en la situación de Caja, no en el resultado contable.
+• Advertencia clave una empresa puede mostrar buenas utilidades y, al mismo tiempo, tener problemas de caja (y viceversa —
+  como vimos con YPF).
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                   36
+
+===== PAGINA 37 =====
+
+               ORIGEN Y APLICACIÓN
+
+
+               Los tres flujos que explican el cambio en la Caja
+ΔCaja = Flujo de la Operación + Flujo de Inversión + Flujo de Financiación
+
+
+
+
+   1                                                             2                                                      3
+    Flujo de la Operación                                        Flujo de Inversión                                     Flujo de Financiación
+
+                                                             →                                                      →
+    Utilidad + Amortizaciones – variación de créditos y          – Inversiones en bienes de uso + venta de bienes       Variación de deudas financieras + aportes –
+    bienes de cambio + deudas comerciales.                       de uso.                                                dividendos – intereses.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                            37
+
+===== PAGINA 38 =====
+
+               DOS VISIONES DEL FLUJO
+
+
+               FCFF y FCFE: ¿flujo para quién?
+• FCFF — Free Cash Flow to the Firm flujo de caja "del activo": disponible para todos los que financian la empresa (accionistas y
+  acreedores).
+• FCFE — Free Cash Flow to Equity flujo de caja "hacia el accionista": lo que queda luego de pagar intereses y deuda financiera.
+• Nota técnica los intereses (y su escudo impositivo) se reclasifican del resultado operativo hacia el flujo de financiación al
+  construir estos indicadores.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                          38
+
+===== PAGINA 39 =====
+
+MÓDULO 5
+
+
+
+              Anexo: El Detalle de las Cuentas
+
+Un recorrido rubro por rubro por el Activo, el Pasivo y el Patrimonio Neto
+
+===== PAGINA 40 =====
+
+               ACTIVO CORRIENTE
+
+
+               Disponibilidades
+•    Qué incluye efectivo, cheques y giros a la vista, y depósitos bancarios (cuentas corrientes, cajas de ahorro).
+•    Poder cancelatorio activos con poder cancelatorio legal ilimitado y máxima liquidez.
+•    Moneda extranjera se registra convirtiéndola a moneda de curso legal.
+•    Cuenta regularizadora Previsión por Desvalorización de Moneda Extranjera.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                            40
+
+===== PAGINA 41 =====
+
+               ACTIVO CORRIENTE / NO CORRIENTE
+
+
+               Inversiones
+•    Definición colocaciones de capital al margen de la actividad específica de la empresa.
+•    Ejemplos títulos públicos, acciones de otras empresas, inmuebles destinados a renta o venta futura.
+•    Efecto en el balance al invertir en efectivo, aumenta el rubro Inversiones y disminuyen las Disponibilidades.
+•    Cuentas regularizadoras Previsión por Desvalorización de Títulos; Amortizaciones Acumuladas de Inmuebles.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                           41
+
+===== PAGINA 42 =====
+
+               ACTIVO CORRIENTE
+
+
+               Créditos
+• Definición derechos contra terceros para percibir dinero, bienes o servicios.
+• Créditos por ventas deudores comunes, obligaciones a cobrar, deudores con garantía real, deudores morosos o en gestión
+  judicial.
+• Otros créditos accionistas por integrar, anticipos a proveedores, IVA Crédito Fiscal, entre otros.
+• Cuentas regularizadoras Previsión para Descuentos y Previsión para Deudores Incobrables.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                 42
+
+===== PAGINA 43 =====
+
+               ACTIVO CORRIENTE
+
+
+               Bienes de Cambio
+• Definición bienes tangibles destinados a la venta, en proceso de producción para ella, o consumidos en producir/comercializar
+  lo que se vende.
+• Empresas comerciales se agrupan en la cuenta Mercaderías, valuada al precio de factura más gastos hasta ponerla en depósito.
+• Empresas industriales se distinguen Materias Primas, Producción en Proceso y Producción Terminada.
+• Cuenta regularizadora Previsión para Desvalorización de Existencias.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                        43
+
+===== PAGINA 44 =====
+
+               ACTIVO NO CORRIENTE
+
+
+               Bienes de Uso
+•    Definición bienes tangibles usados en la actividad de la empresa, con vida útil mayor a un año y no destinados a la venta.
+•    Ejemplos terrenos, edificios, maquinarias, instalaciones y rodados.
+•    Valor de origen valor de compra neto más todos los gastos necesarios para dejarlo en condiciones operativas.
+•    Cuenta regularizadora Amortizaciones Acumuladas de Bienes de Uso, que reflejan la pérdida de valor por uso o desgaste.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                        44
+
+===== PAGINA 45 =====
+
+               CÓMO SE CALCULA
+
+
+               Amortización y Valor de Libros
+La amortización convierte gradualmente el valor de un bien de uso en gasto, reflejando su desgaste, uso u obsolescencia. Los terrenos
+son la única excepción: no se amortizan.
+
+
+
+
+                        ACTIVO                                         PASIVO                                 PATRIMONIO NETO
+                                                             =                                      +
+                       Bienes y derechos                          Obligaciones con terceros                           Aportes + resultados
+
+
+
+
+      Amortización anual = (Valor Original – Valor Residual) / Vida Útil      Valor de Libros = Valor Original – Amortizaciones Acumuladas
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                   45
+
+===== PAGINA 46 =====
+
+               ACTIVO NO CORRIENTE
+
+
+               Bienes Inmateriales (Intangibles)
+• Definición derechos y valores con plazo limitado por ley o contrato, o bienes abstractos con valor económico explotable.
+• Ejemplos llave de negocio, marcas, patentes, concesiones, derechos de autor.
+• Valuación figuran por su costo de adquisición menos las amortizaciones que correspondan.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                   46
+
+===== PAGINA 47 =====
+
+               PASIVO
+
+
+               Las Deudas y sus clasificaciones
+Criterio                                                     Categorías
+
+Por su plazo                                                 Hasta un año / a más de un año
+
+Por su origen                                                Comerciales, bancarias, financieras, otras deudas (impuestos, cargas sociales, dividendos)
+
+Por su naturaleza                                            Con garantía / sin garantía
+
+Provisiones                                                  Obligaciones ciertas que inciden en el resultado del ejercicio, aunque no sean aún exigibles
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                  47
+
+===== PAGINA 48 =====
+
+               PASIVO
+
+
+               Provisiones vs. Previsiones
+     Provisiones                                             Previsiones
+
+      • Ocurrencia hechos económicos de ocurrencia cierta.   • Ocurrencia hechos económicos de ocurrencia eventual (ej.
+                                                               despidos, siniestros sin seguro).
+                                                             • Cálculo se estima con un porcentaje que representa la
+                                                               probabilidad de ocurrencia en el ejercicio.
+                                                             • Registro se constituyen cargando el resultado del ejercicio.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                    48
+
+===== PAGINA 49 =====
+
+               PATRIMONIO NETO
+
+
+               Composición del Patrimonio Neto
+
+
+     Capital                                                 Reservas de Capital         Reservas de                      Resultados
+                                                                                         utilidades
+     Capital suscripto por los                               Refuerzan el capital sin    Ej. Reserva Legal: mínimo 5%     Acumulados y del ejercicio en
+     dueños de la empresa.                                   modificar su monto legal.   de utilidades hasta el 20% del   curso.
+                                                                                         capital (Ley 19.550).
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                49
+
+===== PAGINA 50 =====
+
+               PATRIMONIO NETO
+
+
+               Resultados Acumulados y distribución de utilidades
+• Qué muestra el saldo de ganancias o pérdidas acumuladas sin asignación específica.
+• Su evolución se detalla en el Estado de Resultados Acumulados, según resultados del ejercicio y decisiones de la asamblea.
+
+
+
+
+     Dividendo en efectivo → se convierte en Deuda · Dividendo en Acciones → se convierte en Capital · Honorarios a Directores → se convierten en Deuda
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                50
+
+===== PAGINA 51 =====
+
+               CIERRE DEL EJERCICIO
+
+
+               Determinación del Resultado del Ejercicio
+• Asiento de cierre al finalizar el ejercicio, las cuentas de Ingreso y Egreso se cancelan contra la cuenta "Utilidades".
+• Saldo acreedor si la cuenta Utilidades queda con saldo positivo, el ejercicio arrojó ganancia.
+• Saldo deudor si queda con saldo negativo, el ejercicio arrojó pérdida.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                  51
+
+===== PAGINA 52 =====
+
+               EMPRESAS INDUSTRIALES
+
+
+               Cuentas Transitorias de Producción
+• Función acumulan los costos de fabricación a medida que avanza la transformación del producto.
+• Ejemplos Materia Prima en Proceso, Mano de Obra Directa en Proceso, Gastos Generales de Fabricación en Proceso.
+• Costo del producto final incluye todos los insumos que lo integran más el costo de transformación (mano de obra y gastos de
+  fabricación).
+• Cierre al finalizar el ejercicio, deben tener saldo nulo tras transferirse a Producción en Proceso.
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                      52
+
+===== PAGINA 53 =====
+
+MÓDULO 6
+
+
+             Síntesis y Recursos para Seguir
+             Aprendiendo
+Repasamos las ideas centrales y dónde seguir esta actualización de datos
+
+===== PAGINA 54 =====
+
+               REPASO
+
+
+               Cinco ideas para llevarse de este módulo
+
+
+     La empresa coordina recursos                            La contabilidad informa para                        Activo = Pasivo + Patrimonio
+                                                             decidir                                             Neto
+     para producir e intercambiar bienes y servicios         a usuarios internos y externos, bajo atributos      la ecuación que nunca se rompe, operación
+     con la sociedad.                                        de calidad.                                         tras operación.
+
+
+
+
+     Lo devengado ≠ lo                                       La moneda de cuenta no es                           La partida doble ordena todo
+     cobrado/pagado                                          neutral
+     como mostró el caso YPF 2025: resultado                 en alta inflación, la Argentina aplica ajuste por   Debe = Haber en cada operación, siempre.
+     contable y caja pueden divergir.                        inflación contable (RT 6 / NIC 29).
+
+
+
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                   54
+
+===== PAGINA 55 =====
+
+               PARA SEGUIR EXPLORANDO
+
+
+               Fuentes de los datos de actualidad citados
+Dato                                                                         Fuente
+
+Inflación mensual e interanual (jun. 2026)                                   INDEC — Índice de Precios al Consumidor
+
+Tipo de cambio oficial (ago. 2026)                                           Banco Nación Argentina / Infobae
+
+Vigencia del ajuste por inflación contable                                   FACPCE — índices de ajuste por inflación 2026
+
+Resultados anuales 2025 de YPF S.A.                                          Bloomberg Línea, en base a estados financieros de YPF
+
+
+
+
+Se recomienda verificar estos datos con la fuente original antes de citarlos, ya que los indicadores económicos y los resultados corporativos se actualizan periódicamente.
+
+Economía Empresaria · La Empresa y la Información Contable                                                                                                                    55
+
+===== PAGINA 56 =====
+
+¡Gracias! Preguntas y próximos pasos
+• Próxima clase aplicaremos la ecuación contable a casos prácticos de registración.
+• Para practicar buscá el último balance publicado de una empresa argentina que cotiza en bolsa y ubicá sus 4 Estados
+  Contables.
+• Para reflexionar ¿cómo cambiaría el análisis de una empresa si no se aplicara el ajuste por inflación en un contexto como
+  el actual?
+

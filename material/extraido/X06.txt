@@ -1,0 +1,73 @@
+FUENTE: X06
+TITULO: Segundo parcial 2C2024 resuelto (no oficial)
+ORIGINAL: material/externo/2P - 2C2024.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+IMAGEN en B3: material/figuras/X06-hoja1-img1.png
+B2: Ejercicio 1
+B20: Respuestas
+B21: k) Verdadero, porque si caen las ventas al contado entra menos efectivo, lo que disminuye la caja.
+B22: l) Falso, la depreciación es un gasto no monetario, ya que no involucra una salida de efectivo.
+B23: m) Falso, porque si compramos un bien de uso 100% al contado, solo estamos cambiando la composición del activo: baja Caja/Bancos y sube Activo Fijo por el mismo monto. El total del Activo no aumenta.
+B25: n) Falso, porque un aumento en los costos variables implica un aumento en el margen de contribución (MC=Precio - CV), lo que genera a su vez una disminución en el punto de equilibrio (Q=CF/MC).
+B27: o) Verdadero, porque el balance prioriza evaluar liquidez y solvencia: ordena activos por rapidez de conversión en efectivo y pasivos por vencimiento, lo que permite ver si los recursos cercanos cubren las obligaciones inmediatas.
+B29: p) Falso, porque puede haber un incremento en la inversión de BU, lo que hace que el FCLP sea negativo.
+B30: q) Falso, porque en el flujo de caja libre se restan al FEO las inversiones en BU y la variación del Kt.
+B31: r) Verdadero, porque según el principio de lo devengado, los efectos económicos de las transacciones deben reconocerse en el momento en que ocurren, sin importar cuándo se cobre o se pague el dinero asociado.
+B33: s) Verdadero, porque al aumentar el plazo promedio de cobranza, más se tarda en recuperar el efectivo invertido en operación, lo que aumenta el ciclo de caja de la empresa.
+B35: t) Falso, no son un gasto en el cuadro de resultados, son distribuciones de utilidades (patrimonio).
+
+===== HOJA 2: Ejercicio 2 =====
+
+IMAGEN en B3: material/figuras/X06-hoja2-img1.png
+IMAGEN en U25: material/figuras/X06-hoja2-img2.png
+B2: Ejercicio 2
+B18: Datos | E18: Opción A
+B19: Monto | C19: 3e+07 | E19: Mes | F19: 0 | G19: 1 | H19: 2 | I19: 3
+B20: Desuento (A) | C20: 0.1 | E20: Pago | F20: 9000000 [=C27/C28] | G20: 9000000 [=C27/C28] | H20: 9000000 [=C27/C28] | I20: 0
+B21: TEA (Inv) | C21: 0.42 | E21: VP | F21: 9000000 [=F20/((1+C26)^F19)] | G21: 8.74081e+06 [=G20/((1+C26)^G19)] | H21: 8.48909e+06 [=H20/((1+C26)^H19)] | I21: 0 [=I20/((1+C26)^I19)]
+B22: TNA (B) | C22: 0.28 | E22: VP Total | F22: 2.62299e+07 [=SUM(F21:H21)] | G22: → Comparando los VPs, conviene este.
+B23: TNA (C) | C23: 0.31
+B25: Auxiliar | E25: Opción B | R25: → Viene de esta fórmula (Ej 5 de la Guía 6)→ | U25: Fórmula
+B26: TEM (Inv) | C26: 0.0296525 [=(1+C21)^(1/12)-1] | E26: Mes | F26: 1 | G26: 2 | H26: 3 | I26: 4 | J26: 5 | K26: 6 | L26: 7 | M26: 8 | N26: 9 | O26: 10 | P26: 11 | Q26: 12
+B27: Monto (A) | C27: 27000000 [=C19*(1-C20)] | E27: Pago | F27: X | G27: X | H27: X | I27: 3X | J27: X | K27: X | L27: X | M27: 3X | N27: X | O27: X | P27: X | Q27: 3X
+B28: Cuotas (A) | C28: 3 | E28: Factor | F28: 0.977199 [=1/((1+C30)^F26)] | G28: 0.954917 [=1/((1+C30)^G26)] | H28: 0.933144 [=1/((1+C30)^H26)] | I28: 0.911867 [=1/((1+C30)^I26)] | J28: 0.891075 [=1/((1+C30)^J26)] | K28: 0.870758 [=1/((1+C30)^K26)] | L28: 0.850903 [=1/((1+C30)^L26)] | M28: 0.831501 [=1/((1+C30)^M26)] | N28: 0.812542 [=1/((1+C30)^N26)] | O28: 0.794015 [=1/((1+C30)^O26)] | P28: 0.775911 [=1/((1+C30)^P26)] | Q28: 0.758219 [=1/((1+C30)^Q26)]
+B29: TEA (B) | C29: 0.318881 [=(1+C22/12)^12-1] | E29: Suma | F29: 10.3621 [=SUM(F28:Q28)]
+B30: TEM (B) | C30: 0.0233333 [=(1+C29)^(1/12)-1] | E30: Suma (Extra) | F30: 5.00317 [=2*(I28+M28+Q28)]
+B31: Cuotas (B) | C31: 12 | E31: Factor Total | F31: 15.3652 [=SUM(F29:F30)]
+B32: TEA (C) | C32: 0.358069 [=(1+C23/12)^12-1] | E32: Cuota | F32: 1.95246e+06 [=C19/F31] | G32: 1.95246e+06 [=F32] | H32: 1.95246e+06 [=G32] | I32: 5.85738e+06 [=3*H32] | J32: 1.95246e+06 [=G32] | K32: 1.95246e+06 [=G32] | L32: 1.95246e+06 [=G32] | M32: 5.85738e+06 [=3*H32] | N32: 1.95246e+06 [=G32] | O32: 1.95246e+06 [=G32] | P32: 1.95246e+06 [=G32] | Q32: 5.85738e+06 [=3*H32]
+B33: TEM (C) | C33: 0.0258333 [=(1+C32)^(1/12)-1] | E33: Factor (VP) | F33: 0.971201 [=1/((1+C26)^F26)] | G33: 0.943232 [=1/((1+C26)^G26)] | H33: 0.916068 [=1/((1+C26)^H26)] | I33: 0.889687 [=1/((1+C26)^I26)] | J33: 0.864065 [=1/((1+C26)^J26)] | K33: 0.839181 [=1/((1+C26)^K26)] | L33: 0.815014 [=1/((1+C26)^L26)] | M33: 0.791543 [=1/((1+C26)^M26)] | N33: 0.768748 [=1/((1+C26)^N26)] | O33: 0.746609 [=1/((1+C26)^O26)] | P33: 0.725107 [=1/((1+C26)^P26)] | Q33: 0.704225 [=1/((1+C26)^Q26)]
+B34: Cuotas (C) | C34: 4 | E34: VP (Cuota) | F34: 1.89623e+06 [=F32*F33] | G34: 1.84162e+06 [=G32*G33] | H34: 1.78859e+06 [=H32*H33] | I34: 5.21124e+06 [=I32*I33] | J34: 1.68705e+06 [=J32*J33] | K34: 1.63847e+06 [=K32*K33] | L34: 1.59128e+06 [=L32*L33] | M34: 4.63637e+06 [=M32*M33] | N34: 1.50095e+06 [=N32*N33] | O34: 1.45772e+06 [=O32*O33] | P34: 1.41574e+06 [=P32*P33] | Q34: 4.12492e+06 [=Q32*Q33]
+E35: VP Total | F35: 2.87902e+07 [=SUM(F34:Q34)]
+E38: Opción C
+E39: Mes | F39: 1 | G39: 2 | H39: 3 | I39: 4
+E40: Cuota | F40: 8275000 [=F41+F42] | G40: 8081250 [=G41+G42] | H40: 7887500 [=H41+H42] | I40: 7693750 [=I41+I42]
+E41: Amortización | F41: 7500000 [=C19/C34] | G41: 7500000 [=C19/C34] | H41: 7500000 [=C19/C34] | I41: 7500000 [=C19/C34]
+E42: Interés | F42: 775000 [=C19*C33] | G42: 581250 [=F43*C33] | H42: 387500 [=G43*C33] | I42: 193750 [=H43*C33]
+E43: Saldo | F43: 22500000 [=C19-SUM(F41)] | G43: 15000000 [=C19-SUM(F41:G41)] | H43: 7500000 [=C19-SUM(F41:H41)] | I43: 0 [=C19-SUM(F41:I41)]
+E44: VP Cuota | F44: 8.03669e+06 [=F40/((1+C26)^F39)] | G44: 7.6225e+06 [=G40/((1+C26)^G39)] | H44: 7.22549e+06 [=H40/((1+C26)^H39)] | I44: 6.84503e+06 [=I40/((1+C26)^I39)]
+E45: VP Total | F45: 2.97297e+07 [=SUM(F44:I44)]
+
+===== HOJA 3: Ejercicio 3 =====
+
+IMAGEN en B3: material/figuras/X06-hoja3-img1.png
+B2: Ejercicio 3
+B16: Datos | E16: Cuadro de Resultados
+B17: Inversión BU | C17: 2600 [=2000+500+100] | E17: Años | F17: 0 | G17: 1 | H17: 2 | I17: 3 | J17: 4 | K17: 5 | L17: 6
+B18: Nuevas Per. | C18: 3000 | E18: EBITDA | F18: 0 | G18: 2500 [=C29] | H18: 2500 [=C29] | I18: 2500 [=C29] | J18: 2500 [=C29] | K18: 2500 [=C29] | L18: 2500 [=C29]
+B19: Precio N (x P) | C19: 1 | E19: Result. Venta | F19: 0 | G19: 0 | H19: 0 | I19: 0 | J19: 0 | K19: 0 | L19: -740 [=C33]
+B20: Viejas Per. | C20: 1000 | E20: Amortizaciones | F20: 0 | G20: -260 [=-C32] | H20: -260 [=-C32] | I20: -260 [=-C32] | J20: -260 [=-C32] | K20: -260 [=-C32] | L20: -260 [=-C32]
+B21: Precio V (x P) | C21: 0.5 | E21: EBIT | F21: 0 [=F18+SUM(F19:F20)] | G21: 2240 [=G18+SUM(G19:G20)] | H21: 2240 [=H18+SUM(H19:H20)] | I21: 2240 [=I18+SUM(I19:I20)] | J21: 2240 [=J18+SUM(J19:J20)] | K21: 2240 [=K18+SUM(K19:K20)] | L21: 1500 [=L18+SUM(L19:L20)]
+B22: VRC (10 años) | C22: 0 | E22: I.G. | F22: 0 [=-F21*C26] | G22: -784 [=-G21*C26] | H22: -784 [=-H21*C26] | I22: -784 [=-I21*C26] | J22: -784 [=-J21*C26] | K22: -784 [=-K21*C26] | L22: -525 [=-L21*C26]
+B23: Período (años) | C23: 6 | E23: U. Neta | F23: 0 [=F21+F22] | G23: 1456 [=G21+G22] | H23: 1456 [=H21+H22] | I23: 1456 [=I21+I22] | J23: 1456 [=J21+J22] | K23: 1456 [=K21+K22] | L23: 975 [=L21+L22]
+B24: VRM | C24: 300
+B25: TREMA | C25: 0.2 | E25: Flujo de Fondos
+B26: I.G. | C26: 0.35 | E26: Años | F26: 0 | G26: 1 | H26: 2 | I26: 3 | J26: 4 | K26: 5 | L26: 6
+E27: EBITDA | F27: 0 [=F18] | G27: 2500 [=G18] | H27: 2500 [=H18] | I27: 2500 [=I18] | J27: 2500 [=J18] | K27: 2500 [=K18] | L27: 2500 [=L18]
+B28: Auxiliar | E28: Inverisón BU | F28: -2600 [=-C17] | G28: 0 | H28: 0 | I28: 0 | J28: 0 | K28: 0 | L28: 0
+B29: Diferencia Total | C29: 2500 [=C18*C19-C20*C21] | E29: Venta BU | F29: 0 | G29: 0 | H29: 0 | I29: 0 | J29: 0 | K29: 0 | L29: 300 [=C24]
+B30: Base Amort. | C30: 2600 [=C17-C22] | E30: I.G. | F30: 0 [=F22] | G30: -784 [=G22] | H30: -784 [=H22] | I30: -784 [=I22] | J30: -784 [=J22] | K30: -784 [=K22] | L30: -525 [=L22]
+B31: Tiempo (años) | C31: 10 | E31: FF | F31: -2600 [=SUM(F27:F30)] | G31: 1716 [=SUM(G27:G30)] | H31: 1716 [=SUM(H27:H30)] | I31: 1716 [=SUM(I27:I30)] | J31: 1716 [=SUM(J27:J30)] | K31: 1716 [=SUM(K27:K30)] | L31: 2275 [=SUM(L27:L30)]
+B32: Amortizaciones | C32: 260 [=C30/C31] | E32: VAN | F32: 3293.78 [=NPV(C25,G31:L31)+F31] | G32: → Se acepta
+B33: Result. Venta | C33: -740 [=C24-(C17-C32*C23)]

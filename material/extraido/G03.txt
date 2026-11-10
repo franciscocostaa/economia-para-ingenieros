@@ -1,0 +1,51 @@
+FUENTE: G03
+TITULO: Guía valor tiempo del dinero: resultados numéricos
+ORIGINAL: material/catedra/practica/guía VTD - resultados.pdf
+PAGINAS: 1
+
+===== PAGINA 1 =====
+
+                                ECONOMÍA PARA INGENIEROS
+
+                   Guía VALOR TIEMPO DEL DINERO – resultados numéricos
+
+Ejercicio 1
+a)
+Banco A:      TEM 1,17% TEA 14,93%
+Banco B:      TEM 1,48% TEA 19,25%
+
+b)
+Banco A:      cuota $240,10
+Banco B:      cuota $249,00
+
+Ejercicio 2
+a) $62.700
+b) $78.400
+c) $53.400
+
+Ejercicio 3
+- durante 3 años: conviene vender ahora (VP alquilar = $94.640 < $100.000)
+- durante 4 años: conviene alquilar (VP alquilar = $105.270 > $100.000)
+
+Ejercicio 4
+Lo hicimos en clase. Quedó pendiente el punto e
+e) 46 < n < 47
+
+Ejercicio 5
+En el cuarto trimestre se pagará $57,90
+
+Ejercicio 6
+Suma algebraica de intereses pagados = $126.489
+Ahorro de intereses = $35.862
+
+Ejercicio 7
+Costo de la deuda (CFT) = 10,83% semestral = 22,80% annual
+
+Ejercicio 8
+a) TE(80d) = 5,42%
+b) Tasa Real anual = 4,004%         Real 30 días = 0,323%
+
+Ejercicio 9
+El equipo costó $703.661 con el financiamiento
+Conviene financiar, porque al contado costaba $710.000
+

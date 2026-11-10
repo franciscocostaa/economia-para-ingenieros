@@ -1,0 +1,392 @@
+FUENTE: T05
+TITULO: La empresa y los costos
+ORIGINAL: material/catedra/teoria/epi09_costos_09.pdf
+PAGINAS: 23
+
+===== PAGINA 1 =====
+
+LA EMPRESA Y LOS COSTOS
+
+===== PAGINA 2 =====
+
+   Costos de Fabricación --
+   Conceptos
+
+
+
+ Contabilidad de         Contabilidad de
+  Presentación              Gestión
+Costos:una medida de    Costos del Producto:
+los recursos usados o   Los asignados por la
+ sacrificados para un      empresa a los
+     determinado        productos fabricados
+       propósito.
+
+===== PAGINA 3 =====
+
+Costos de Fabricación
+MP
+MP         MOD
+           MOD          GGF
+                        GGF
+
+
+
+
+        Producto
+
+===== PAGINA 4 =====
+
+   Materias Primas
+   Materiales Directos
+Son aquellos materiales que se convierten en
+   parte integral del producto. Pueden ser
+rastreados, identificados convenientemente y
+               facilmente en él.
+
+
+
+
+     Ejemplo:
+     Ejemplo: Una
+              Una radio
+                  radio instalada
+                        instalada en
+                                  en un
+                                     un auto
+                                        auto
+
+===== PAGINA 5 =====
+
+     Mano de Obra Directa
+
+Aquellos Costos de Mano de Obra que pueden
+ ser fácilmente rastreados, identificados en el
+                   producto.
+
+
+
+
+  Ejemplo:
+  Ejemplo: Salarios
+           Salarios pagados
+                    pagados aa los
+                               los obreros
+                                   obreros de
+                                           de la
+                                              la línea
+                                                 línea de
+                                                       de
+                    montaje
+                    montaje de
+                            de autos
+                                 autos
+
+===== PAGINA 6 =====
+
+    Gastos Generales de
+    Fabricación
+    Costos de Fabricación que no pueden ser
+      directamente rastreados,individualizados
+directamente a las unidades específicas producidas
+
+Ejemplos:
+Ejemplos: Mano
+          Mano de
+               de Obra
+                  Obra Indirecta
+                       Indirecta Materiales
+                                 Materiales Indirectos
+                                            Indirectos
+
+
+    Salarios pagados a        Materiales para sostener
+trabajadoreS que no están    el proceso de producción.
+directamente vinculados a
+       la producción           Ejemplos: lubricantes y
+ Ejemplos: Trabajadores de     elementos de limpieza
+  mantenimiento,porteros y     usados en la planta de
+        vigiladores               montaje de autos
+
+===== PAGINA 7 =====
+
+Costos no relacionados con la
+fabricación
+Gastos de Comercialización y Ventas . . .
+      Necesarios para obtener el pedido y
+      despachar el producto.
+Gastos Administrativos . . .
+     Gerenciales, Organizacionales, Empleados.
+
+===== PAGINA 8 =====
+
+ Costos del Producto y Costos
+ del Período
+     Costos del Producto:             Costos del Período: No
+         incluye materiales               se incluyen en el
+         directos, mano de               costo del producto
+      obra directa, y gastos
+         gen. deCosto
+Inventarios
+                  fabricación
+                      Merc. Vendida         Gastos
+
+           Venta
+
+
+
+
+Hoja de            Cuadro de              Cuadro de
+Balance            Resultados             Resultados
+
+===== PAGINA 9 =====
+
+  Flujo del Costo de Materiales
+                           Cuadro
+
+                  Inventarios      De
+                                Resultados
+                      MP
+   Compras
+
+    MOD               PP
+
+     GGF
+                                  Costo
+                      PT
+                                  Merc.
+                                 Vendida
+
+Gastos de Adm.   Costos del        GAV
+   Y Ventas      Período
+
+===== PAGINA 10 =====
+
+Clasificaciones de Costos para
+predecir el comportamiento de
+los costos               Rango
+                        Relevante?
+             Comportamiento del costo dentro de un rango relevante
+
+ Costo                Total                         Unitario
+
+Variable       CVT cambia cuando              CVU permanece igual
+           el nivel de actividad cambia   en grandes rangos de nivel de
+                                                   actividad
+  Fijo            CFT permanece                  CFU disminuye
+              igual cuando cambia                a medida que
+               el nivel de actividad            el nivel aumenta
+
+===== PAGINA 11 =====
+
+       Costos Clasificación
+       • Costos recurrentes y no recurrentes
+
+       • Costo directo y costo indirecto
+
+       • Costo estándar
+
+       • Costo contable y costo efectivo
+
+       • Costo hundido
+
+       • Costo de oportunidad
+
+Gastos vs inversión
+
+Sistema de costeo: Directo; Absorción; por actividades
+
+===== PAGINA 12 =====
+
+     Costos Directos e Indirectos
+
+Costos directos             Costos Indirectos
+                                Costos que no pueden
+    Costos que
+                            
+
+                                ser facilmente
+    fácil y sencillamente       rastreados identificados
+    se pueden rastrear a        con una unidad de
+    una unidad de               producto.
+    producto u otro            Ejemplo: GGF
+    objeto de costo.
+   Ejemplos: MD, MOD
+
+===== PAGINA 13 =====
+
+Costeo por Absorción y
+    Costeo Directo
+
+===== PAGINA 14 =====
+
+ Costo por Absorción
+                 COSTO TOTAL
+
+
+
+          Mano de Gastos grles. Gastos grles. Gastos de
+Materia
+           Obra     de Fab.       de Fab.    Adm., Com.
+Prima
+          Directa  Variables       Fijos      y Finanzas
+
+
+
+      COSTO por ABSORCIÓN
+
+===== PAGINA 15 =====
+
+ Costo Directo
+                 COSTO TOTAL
+
+
+
+          Mano de Gastos grles. Gastos grles. Gastos de
+Materia
+           Obra     de Fab.       de Fab.    Adm., Com.
+Prima
+          Directa  Variables       Fijos      Y Finanzas
+
+
+
+          COSTO DIRECTO
+
+===== PAGINA 16 =====
+
+Costos Estándar
+Conceptos
+ Técnica para llevar adelante el control
+  de costos y presupuestario en la
+  empresa.
+ La técnica se basa en anticipar o
+
+  predeterminar cuánto deberían valer los
+  factores que concurren a la fabricación
+  de un producto, basándose en estudios
+  técnico – económicos.
+
+===== PAGINA 17 =====
+
+   Activity-Based Costing (ABC)
+                            COSTOS
+                            COSTOS
+Varias bases de
+ distribución se
+    usan para
+                    Consumo
+                    Consumo de
+                            de recursos
+                               recursos
+asignar gastos a
+   productos
+                          Actividades
+                          Actividades
+
+
+                        Objetos
+                         Objetos de
+                                 de costos
+                                     costos
+                   (ej.,
+                    (ej., productos
+                          productos yy clientes
+                                       clientes))
+
+===== PAGINA 18 =====
+
+       Activity-Based Costing (ABC)
+•Es un modelo gerencial y no un modelo contable.
+•Los recursos son consumidos por las actividades y
+estos a su vez son consumidos por los objetos de costos
+(resultados).
+•Considera todos los costos y gastos como recursos.
+•Muestra la empresa como conjunto de actividades y/o
+procesos más que como una jerarquía departamental.
+•Es una metodología que asigna costos a los productos
+oservicios con base en el consumo de actividades.
+
+===== PAGINA 19 =====
+
+                            Costos
+                       Punto de equilibrio
+El punto de equilibrio se determina cuando IT = CT
+                                                            IT
+
+                       Punto de equilibrio
+                                                             CT
+
+         $ - IT / CT
+
+
+                                                             CF
+
+
+                                              q - Volumen
+                                         q*
+
+
+Obtengo el volumen q* para el cual el beneficio es nulo
+
+===== PAGINA 20 =====
+
+
+===== PAGINA 21 =====
+
+                               Costos
+                        Costo del ciclo de vida
+
+Incremento del costo por cambio de diseño tardío
+
+
+
+
+        $ - COSTOS
+
+
+
+                     Evaluación  Diseño       Diseño      Producción / Operación
+                     necesidades Conceptual   Detallado   Construcción
+                                       Etapa del ciclo de vida
+
+===== PAGINA 22 =====
+
+                      Costos
+              Optimización del diseño
+
+
+Objetivo: optimizar el diseño enfocado a una minimización del costo
+
+
+Procedimiento para minimizar el costo:
+
+1. Identificar la variable de diseño que es la guía principal del costo.
+
+1. Escribir una expresión matemática del costo en términos de la variable de
+   diseño. Costo = a X + b / X + +k
+
+2. Obtener la primera derivada de la ecuación anterior en función de la variable de
+   diseño e iguale a cero. Despejar x.
+
+3. Realizar la segunda derivada del modelo de costo y remplazar x por el valor
+   obtenido en el punto anterior `para conocer si el punto encontrado es un mínimo.
+
+===== PAGINA 23 =====
+
+                   Costos
+           Optimización del diseño
+
+Objetivo: Minimizar el costo de operar un avión comercial
+
+                          CT = 0.04 * n * v 3/2 + 300000 * n / v
+
+Resolución:
+
+•   dCt / dv = 3/2 * 0.04 * n * v 1/2 - 300000 * n / v 2 = 0
+
+•   Despejamos v = 490.68 mph
+
+•   Comprobamos que es un mínimo: dCt2 / dv2 = 0.028 / v 1/2 - 300000 / v 3
+
+•   Para V = 490.68 mph dCt2 / dv2 > 0 , entonces el punto hallado es un mínimo
+

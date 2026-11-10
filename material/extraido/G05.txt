@@ -1,0 +1,260 @@
+FUENTE: G05
+TITULO: Respuestas a algunas preguntas frecuentes
+ORIGINAL: material/catedra/practica/Respuestas a algunas preguntas frecuentes.pdf
+PAGINAS: 5
+
+===== PAGINA 1 =====
+
+                           Respuestas a algunas preguntas frecuentes
+
+
+
+• Fórmula de VP de una perpetuidad (guía 6, ej. 2b): “Consultando la sección 3.6 del apunte
+  de Economía Empresaria, no me quedó claro a qué se refiere cuando dice 'el valor presente
+  se obtiene un periodo antes del primer flujo' ”
+
+    Significa que si el flujo comienza en t=1, el valor presente se obtiene en t=0. En este caso el
+flujo de la perpetuidad comienza en t=11, por lo tanto aplicando la fórmula obtenemos VP en
+t=10.
+
+   Si el flujo comenzara en (por ejemplo) t=35, el VP estaría calculado con esa fórmula en t=34.
+Luego para traerlo a t=0 habría que DIVIDIRLO por (1+i)34
+
+
+
+• Fórmula de VP de una perpetuidad con crecimiento (guía 6, ej. 2b): “Para el ejercicio 2.b, en
+  el que pide calcular los ahorros para obtener una perpetuidad que rinda $100000 al final del
+  año 11, donde esta crece al 2% anual, ¿en que cálculo deberíamos manifestar dicho
+  crecimiento?”
+
+   Lo que aumenta 2% es el monto de la perpetuidad cada año, respecto del año anterior. Es
+decir, en el año 11 vale $100.000, en el año 12 vale $102.000, en el año 13 vale $104.040, y así
+siguiendo de manera infinita. Eso en cuanto a interpretación del enunciado.
+
+   Veamos la resolución. Cuando la perpetuidad es constante F, y la tasa de interés es i, el valor
+presente vimos que se calculaba como VP = F/i. Ahora bien, cuando F no es constante sino que
+crece porcentualmente por ejemplo g, la fórmula se transforma en VP = F/(i-g). En el apunte de
+Economía Empresaria, la parte "3.6 Perpetuidades", encontrarán las fórmulas de cálculo y un
+ejemplo numérico.
+
+
+
+• Concepto del Costo Financiero Total (guía 6, ej. 7): “Por lo que entendí, se busca calcular la
+  tasa de interés, que al tener la inversión inicial (el préstamo) y los distintos flujos de fondos la
+  calculaste en el resuelto como la TIR. Lo que no termino de entender es que sería esa tasa de
+  interés que estamos buscando. En un momento pensaba que era la tasa efectiva semestral
+  (TES), pero ésa la calculamos como TNA/2. Con lo cual, no entiendo que tasa será dicha
+  incógnita "i". Por otro lado, lo que calcula después (o sea, lo que denomina como CFT), ¿no
+  sería la TEA? Y si es ésa, ¿no se podría calcular con la fórmula (1+TEA) = (1+TES)^2, con TES =
+  TNA/2 ? ¿Por qué se necesita saber dicha incógnita "i"?”
+
+    Primero un poco de nomenclatura: CFT significa "Costo Financiero Total". Esa incógnita "i" es
+el CFT semestral, que luego anualizamos para obtener el CFT anual que nos pide el problema.
+
+   Vean que en el resuelto están calculadas todas las tasas mencionadas: TES, TEA y CFT. La TEA,
+calculada con la fórmula que correctamente me indican, no coincide con el CFT. ¿Por qué esto
+es así?
+
+   Porque la TEA indica un costo financiero que solo tiene en cuenta los intereses. Puesto en
+fórmula, la TES resuelve la ecuación:
+
+100 = 10/(1+i) + 60/(1+i)^2 + 5/(1+i)^3 + 55/(1+i)^4
+
+===== PAGINA 2 =====
+
+   El CFT indica un costo financiero que, además de los intereses, tiene en cuenta la comisión
+$2 del momento cero. Puesto en fórmula, el CFT semestral resuelve la ecuación:
+
+98 = 10/(1+i) + 60/(1+i)^2 + 5/(1+i)^3 + 55/(1+i)^4
+
+   ¿Entonces es lógico que el CFT anual me termine dando mayor que la TEA? Sí, es razonable.
+Porque tengo un esquema de pago donde mis cuotas se calcularon a partir de $100 prestados,
+pero debido a la comisión, lo que terminé recibiendo en mano fue menos, solo $98.
+
+
+
+• Contado versus financiado (guía 6, ej. 9): “¿Cómo seleccionar cuál método es mejor? ¿Qué
+  se debe elegir, si se consigue el monto requerido por 4 medios diferentes?”
+
+   Si bien el monto a financiar se consigue, lo que importa son las condiciones. En ese sentido,
+hay que entender que el "costo de oportunidad del capital de la empresa" es el costo (%) del
+dinero propio, y las tasas de interés son el costo (%) del dinero prestado.
+
+   Conceptualmente, la empresa debería financiarse con plata prestada siempre y cuando ese
+dinero sea más barato de conseguir que usar el dinero propio. La inversa también vale: si la plata
+prestada es demasiado cara, convendría usar fondos propios de la empresa.
+
+   Numéricamente, eso se puede determinar calculando el valor presente de cada una de las
+financiaciones otorgadas: primero estimando el flujo de fondos de la misma, y luego
+descontando a VP con el costo del capital propio. Ese VP será mayor o menor que pagarlo al
+contado. La pregunta clave es: ¿qué decisión tomar en uno u otro escenario?
+
+
+
+• Resultado guía 6, ej. 10
+
+   En la hoja de resultados falta el ej. 10 de la guía 6 (VTD). Es $1282,53
+
+
+
+• Errata resultado guía 7, ej. 3
+
+   En la hoja de resultados hay un error en el ej. 3 de la guía 7. La diferencia entre los VAN es
+$1984, en lugar de $1994.
+
+
+
+• Valor del escudo impositivo de amortizaciones (guía 7, ej. 3): “¿Cómo puedo calcular la
+  diferencia en el VAN entre ambos países, si no tengo toda la información para evaluar el
+  proyecto?”
+
+   Notar que fuera de las diferentes amortizaciones, el enunciado plantea realizar un análisis
+"ceteris paribus", es decir, todo lo demás constante.
+
+   Si el VAN se calcula como: VAN = Valor Presente del FFO + Valor Presente de los FFE
+
+   y siendo: FFO = (V - C - G)*(1-tax) + A*tax
+
+   Resulta que el único término donde van a diferir ambos países es en el valor presente de
+A*tax (escudo impositivo).
+
+===== PAGINA 3 =====
+
+   Es decir, alcanzaría con calcular el escudo en cada país y descontarlo a valor presente, para
+calcular la diferencia entre ambos. El resto de los términos, si tuviéramos los datos y los
+descontáramos a valor presente, no generarían diferencia entre los VAN, por enunciado "ceteris
+paribus".
+
+   Probar armar un cuadro de amortizaciones para cada país, luego calcular el A*tax que
+generan año a año, descontar a VP con la tasa indicada, y al restar un país versus el otro será la
+diferencia entre los VAN.
+
+
+
+• Costos prorrateados (guía 7, ej. 4)
+
+   La premisa que hay que tomar siempre para saber si un costo (o un ingreso) va al flujo de
+fondos (FF) es contestar las preguntas:
+
+- "si hago el proyecto, estará presente este costo en la empresa?" (o este ingreso)
+
+- "si NO hago el proyecto, estará presente en la empresa?"
+
+   Si la respuesta es "Sí" en ambos casos, significa que ese costo (o ese ingreso) no está
+supeditado al proyecto, y por lo tanto no lo mandamos al FF.
+
+   Si en un caso respondemos "Sí" y en el otro "No", significa que depende de la ejecución del
+proyecto, y por lo tanto sí corresponde considerarlo.
+
+    Con los costos prorrateados, ocurre que son erogaciones que la empresa tiene
+(normalmente, de estructura o administrativa) que se asignan a un determinado
+producto/proyecto/unidad de negocio a los fines del costeo, según un coeficiente (con algún
+sistema, por ej costeo directo o por absorción). Pero ocurre que si un proyecto NO SE hace, ese
+costo no desaparece de la empresa: simplemente se reasigna de otra manera en los productos
+o unidades de negocio. Es por eso que no los consideramos en el análisis.
+
+
+
+• Enfoque marginal (guía 7, ej. 7)
+
+   El enfoque debería ser "Marginal", que es uno de los puntos clave que mencionamos en el
+video de "Construcción de flujo de fondos" (ver también p. 61 y 62 del Apunte de Economía
+Empresaria).
+
+    Entonces al construir el FF del proyecto (vs situación sin proyecto), las ventas de botellas no
+se deben incluir en la evaluación (van a ocurrir independientemente del proyecto, por
+enunciado). Por el mismo concepto, no incluimos ninguno de los costos que no cambian
+(insumos y energía)
+
+    Bajo esa premisa, sí debemos incluir como ingresos del proyecto la reducción de costos por
+tapitas. Ver que hay una reducción en el unitario de $0,50 a $0,40; sin embargo la cantidad sigue
+siendo siempre la misma, 5 millones de botellas, ya que si bien la máquina tiene más capacidad,
+la cantidad vendida no varía.
+
+   En cuanto a salarios, sólo deberían entrar los $12.000 del nuevo ingeniero. Los $10.000
+prorrateados, mencionamos en otro posteo que no corresponde incluirlos por no ser realmente
+nuevos gastos asociados a la realización del proyecto (sólo es una reasignación de los mismos,
+ver también ejercicio resuelto del apunte, p. 76)
+
+===== PAGINA 4 =====
+
+  Por último, recordar hacer un solo FF, correspondiente al escenario "con proyecto" (tomando
+como base la situación "sin proyecto")
+
+
+
+• Desfasaje entre “Ventas” (devengado) y “Cobranzas” (incurrido): “Sabemos que en el
+  cuadro de resultados se reflejan cuantas ventas se hicieron en ese periodo (ya sea que se
+  cobren o no en ese periodo, por principio de devengado). Entonces la duda es la siguiente, al
+  evaluar un proyecto, sí tenemos la venta de un producto, y una parte se cobra en ese mismo
+  año y otra al año siguiente, siguiendo la teoría, ¿cómo deberíamos computar los ingresos?”
+
+    El concepto que rige para el armado del flujo de fondos es siempre el "cash". Es decir, en el
+flujo de fondos ponemos no el devengado, sino el realizado. En el caso de una venta sería lo
+cobrado. En el caso de un costo sería lo pagado.
+
+   Ahora bien, ¿en el Cuadro de Resultados qué ponemos? El CR es un instrumento contable y
+sobre cuya base se calculan los impuestos. Entonces seguimos la norma contable y en el CR
+ponemos el devengado siempre, y de ahí se calcularán los impuestos correspondientes.
+
+   Una vez que hayamos elaborado el CR y debamos pasar al flujo de fondos, ¿cómo tenemos
+en cuenta el desfasaje entre ventas y cobranzas, si armé el CR con el devengado? Es muy simple,
+y son dos las opciones:
+
+- colocar las Cobranzas en lugar de Ventas
+
+- colocar las Ventas tal cual vienen del CR, y agregar una inversión en Capital de Trabajo (WK)
+
+   El WK es ese desfasaje entre las ventas y su cobranza, compensado parcialmente con el
+desfasaje entre los costos y su pago. Cuando existe ese desfasaje, debemos contemplar una
+inversión en WK. Hay un video específico dedicado a WK que pueden consultar, como así
+también el apunte de Economía Empresaria (1.5 El Cash Flow, 4.1.2. Estructura típica de un
+proyecto, 4.2.1. Inversiones)
+
+   ¿Cuál usar? El que les resulte más cómodo. Si les dan los plazos de pago como dato, pueden
+poner la Cobranza directamente. Si no les dicen los plazos, el problema les dirá normalmente
+cuál es esa inversión en WK que hacen al inicio, y con eso ya saben que pueden usar las Ventas
+del CR.
+
+
+
+• Análisis de reemplazos (guía 7, ej 2.8): “Lo que entiendo hasta el momento es que estamos
+  tratando de evaluar cuándo conviene vender una máquina, que no siempre implica vender en
+  el último año de su vida útil técnica. A simple vista, sin haber cursado EPI por ejemplo, hubiese
+  dicho que en el ejercicio convenía vender en el 5to año, pero en realidad te puede convenir
+  venderla antes, porque podrías ganar más”.
+
+    A veces tenemos que hacer una inversión sí o sí (una máquina, una instalación), necesaria
+para la operación, que no traerá nuevas ventas de producto ni ahorro de costos; entonces lo
+que nos queda en ese caso es elegir la opción que nos dé el menor costo. Ahora bien, debemos
+analizar el costo total, es decir teniendo en cuenta (i) la inversión, (ii) los costos operativos, y (iii)
+la reventa del bien usado.
+
+   En muchas situaciones podemos suponer que haremos esa inversión repetidamente en el
+tiempo (hipótesis de repetibilidad), es decir, invertimos, usamos, y finalmente descartamos el
+
+===== PAGINA 5 =====
+
+equipo, y volvemos a comprar uno nuevo, repitiendo el ciclo. Imaginemos por ejemplo, alguna
+operación unitaria donde se utilizan bombas o motores que tienen una vida útil determinada, y
+sabemos que se reemplazan con cierta frecuencia (motores o bombas). La pregunta entonces
+es: ¿usamos hasta el final de su vida útil (hasta que "no sirve más"), o hay un punto en el tiempo
+anterior al fin de la vida útil, donde nos conviene reemplazar? Esto pasa porque cualquier activo,
+a medida que se desgasta con el uso, sus gastos operativos se incrementan, y su valor de reventa
+usado cae. ¿Cuál es el punto óptimo de reemplazo?
+
+   El problema se reduce entonces a evaluar varios proyectos y ver cuál es mejor, siendo dichos
+proyectos: (i) reemplazo el Bien de Uso luego de 1 año; (ii) reemplazo el BU luego de 2 años; (iii)
+reemplazo el BU luego de 3 años; etc. Sabemos que la herramienta por excelencia para evaluar
+proyectos es el VAN, entonces podría pensar en calcular los VAN de cada uno de ellos y elegir el
+mayor valor (menor costo). Surge un inconveniente: cuando los proyectos tienen distinta
+duración, no puedo comparar sus VAN; la solución es recurrir al VAE, que convierte el VAN en
+una anualidad equivalente (ver detalles de cálculo en el video 9 "método del Valor Anual
+Equivalente VAE" y el apunte de Economía Empresaria “4.9. Aplicaciones de la Evaluación de
+Proyectos – Minimización de Costos y cálculo de la Vida Económica”).
+
+   De ahí entonces que planteamos los Flujos de Fondos para cada proyecto i, ii, iii, etc (hasta
+N=vida útil técnica del BU), calculamos el VAN, y convertimos el VAN a VAE (o CAE – costo anual
+equivalente –, porque son en definitiva flujos negativos). Elegimos el mayor (o el menor valor
+absoluto, porque son costos).
+

@@ -1,0 +1,94 @@
+FUENTE: R01
+TITULO: Resolución de la guía práctica N° 5
+ORIGINAL: material/catedra/practica/Respuestas gp5 2020.xls
+
+===== HOJA 1: P1 =====
+
+A1: La empresa CONTA dedicada a la fabricación de artículos de limpieza cierra balances mensualmente. A continuación se transcriben el balance al 28/2/19 y los movimientos realizados durante marzo del mismo año.
+A3: Balance
+A5: ACTIVO | F5: PASIVO
+A6: Disponibilidades | C6: 200 | E6: Proveedores | H6: 550
+A7: Inversiones | C7: 600 | E7: Sueldos y cargas soc. a pagar | H7: 170
+A8: Créditos por ventas | C8: 300 | E8: Gastos Varios a pagar | H8: 80
+A9: Bienes de Cambio(200uds) | C9: 550 | D9: (F.I.F.O.) | E9: Deuda Bancaria | H9: 400
+F10: PATRIMONIO NETO
+A11: Bienes de uso (V.O.) | C11: 3500 | E11: Capital | H11: 3300
+A12: Amortizaciones Acum. | C12: -250 | E12: Resultados acumulados | H12: 400
+A13: Bienes de uso neto | C13: 3250
+B15: TOTAL | D15: 4900 | G15: TOTAL | I15: 4900
+A17: Movimientos de marzo/19:
+A19: 1) Compra de 100 unidades de Producto -a $ 2,5 c/u- a pagar a 30 días.
+A20: 2) Se registra el cobro de $ 200 de créditos por ventas.
+A21: 3) Se pagan deudas por compra de Materia Prima. El importe asciende a $ 500.
+A22: 4) Se cancela el 50% de las deudas bancarias a corto plazo.
+A23: 5) Se venden 100 unidades de producto a $ 4 c/u, siendo $ 50 al contado y el resto a crédito.
+A24: 6) Se pagan los Salarios/Cargas sociales adeudados del mes de Febrero.
+A25: 7) Se venden Bonos a $ 500. El valor de adquisición es de $ 400.
+A26: 8) Los gastos cargados al mes son de:
+B27: Salarios(aportes 30%) | C27: 100
+B28: Alquileres, energía, etc. | C28: 60
+A29: 9) Se cargan las amortizaciones del mes: $80
+A30: Se pide confeccionar el balance al 31/3/19 y el cuadro de resultados de marzo/19
+C35: 43524 | D35: ↑A   ↓P    ↓PN | H35: ↓A    ↑P      ↑PN | L35: 43555
+A36: Disponibilidades | C36: 200 | D36: 200 | E36: 50 | F36: 500 | H36: 500 | I36: 200 | J36: 170 | L36: 80
+A37: Inversiones | C37: 600 | H37: 400 | L37: 200
+A38: Créditos por ventas | C38: 300 | D38: 350 | H38: 200 | L38: 450
+A39: Bienes de Cambio(200uds) | C39: 550 | D39: 250 | H39: 275 | L39: 525
+A40: Bienes de uso (V.O.) | C40: 3500 | L40: 3500
+A41: Amortizaciones Acum. | C41: -250 | H41: 80 | L41: -330
+B42: ACTIVO | C42: 4900 | L42: 4425
+A43: Proveedores | C43: 550 | D43: 500 | H43: 250 | L43: 300
+A44: Sueldos y cargas soc. a pagar | C44: 170 | D44: 170 | H44: 100 | L44: 100
+A45: Gastos Varios a pagar | C45: 80 | H45: 60 | L45: 140
+A46: Deuda Bancaria | C46: 400 | D46: 200 | L46: 200
+A47: Capital | C47: 3300 | L47: 3300
+A48: Resultados acumulados | C48: 400 | D48: 275 | E48: 100 | F48: 60 | G48: 80 | H48: 400 | I48: 100 | L48: 385
+B49: PAS+PN | C49: 4900 | L49: 4425
+C51: C.Resultados  Marzo 2019
+C53: Ventas | E53: 400
+C54: Costo Ventas | E54: -275
+C55: U.Bruta | E55: 125
+C57: Sueldos y C.S. | E57: -100
+C58: Gastos Vs. | E58: -60
+C59: Amortizaciones | E59: -80
+C60: U.Operativa | E60: -115
+C62: U.Extraordinaria | E62: 100
+C63: U.Neta | E63: -15
+
+===== HOJA 2: P2 =====
+
+B2: 2) Al liquidarse una empresa se venden 60% al contado y 40% a crédito:
+B3: 1)    Muebles por $80 cuyo valor original fue de $80 hace 5 años y cuya vida útil fue fijada en 5 años.
+B4: 2)    Equipos por $120 cuyo valor original fue de $80 hace 5 años y cuya vida útil fue fijada en 10 años.
+B5: 3)    Terrenos por $300 cuyo valor original fue de $240 hace 10 años.
+A8: 2-1) | B8: Valor Mercado | D8: 80
+B9: Valor Original | D9: 80
+B10: Amortizaciones Acumuladas | D10: 80
+B12: Resultado x venta | D12: 80
+A14: 2-2) | B14: Valor Mercado | D14: 120
+B15: Valor Original | D15: 80
+B16: Amortizaciones Acumuladas | D16: 40
+B18: Resultado x venta | D18: 80
+A20: 2-2) | B20: Valor Mercado | D20: 300
+B21: Valor Original | D21: 240
+B22: Amortizaciones Acumuladas | D22: 0
+B24: Resultado x venta | D24: 60
+
+===== HOJA 3: P4 P6 =====
+
+A1: Guía de Problemas 5
+A2: Problema 4
+E4: 31/12/X | F4: 31/12/X+1 | G4: 2/1/X+2 | H4: 2/1/X+3
+A5: Ingreso Préstamo | E5: 2e+06
+A6: Devolución | G6: -200000 | H6: -2.2e+06
+E8: Año X | F8: Año X+1 | G8: Año X+2 | H8: Año X+3
+A9: Intereses devengados | C9: 0.1 | E9: 0 | F9: -200000 | G9: -200000 | H9: 0
+A11: Utilidad para la Empresa | E11: 0 | F11: -200000 | G11: -200000 | H11: 0
+A12: Utilidad para el Banco Mar | E12: 0 | F12: 200000 | G12: 200000 | H12: 0
+A14: Problema 6
+C15: TIE = EBIT/INT, so find EBIT and INT.
+C16: Interest = $500,000 ´ 0.1 = $50,000.
+C17: Net income = $2,000,000 ´ 0.05 = $100,000.
+C18: Pre-tax income = $100,000/(1 - T) = $100,000/0.7 = $142,857.
+C19: EBIT = $142,857 + $50,000 = $192,857.
+C20: TIE = $192,857/$50,000 = 3.86´.

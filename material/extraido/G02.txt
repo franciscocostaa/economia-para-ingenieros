@@ -1,0 +1,123 @@
+FUENTE: G02
+TITULO: Guía práctica N° 5: la información contable
+ORIGINAL: material/catedra/practica/GP5_ePI_0209.doc
+
+Economía para Ingenieros
+GPN°5: La información Contable
+1)
+La empresa CONTA dedicada a la comercialización de artículos de limpieza cierra balances mensualmente. A continuación se transcriben el balance al 28/2/19 y los movimientos realizados durante marzo del mismo año.
+
+Balance
+
+ACTIVO					PASIVO
+Disponibilidades		200		Proveedores				550
+Inversiones			600		Sueldos y cargas soc. a pagar		170
+Créditos por ventas		300		Gastos Varios a pagar			  80
+Bienes de Cambio(200uds)	550		Deuda Bancaria		                          400
+					PATRIMONIO NETO
+Bienes de uso (V.O.) 		3500		Capital				           3300	
+     Amortizaciones Acum.  	(250)		Resultados acumulados			400
+Bienes de uso neto		3250
+
+	TOTAL		4900			TOTAL		    	           4900
+
+Movimientos de marzo/19:
+
+1) Compra de 100 unidades de Producto -a $ 2,5 c/u- a pagar a 30 días.
+2) Se registra el cobro de $ 200 de créditos por ventas. 
+3) Se pagan deudas por compra de Materia Prima. El importe asciende a $ 500.
+4) Se cancela el 50% de las deudas bancarias a corto plazo.
+5) Se venden 100 unidades de producto a $ 4 c/u, siendo $ 50 al contado y el resto a crédito.
+6) Se pagan los Salarios/Cargas sociales adeudados del mes de Febrero.
+7) Se venden Bonos a $ 500. El valor de adquisición es de $ 400.
+8) Los gastos cargados al mes son de:
+	Salarios(aportes 30%)	$ 100
+	Alquileres, energía, etc. 	 $ 60
+9) Se cargan las amortizaciones del mes: $80
+Se pide confeccionar el balance al 31/3/19 y el cuadro de resultados de marzo/19
+.
+
+
+2) Al liquidarse una empresa se venden 60% al contado y 40% a crédito:
+Muebles por $80 cuyo valor original fue de $80 hace 5 años y cuya vida útil fue fijada en 5 años.
+Equipos por $120 cuyo valor original fue de $80 hace 5 años y cuya vida útil fue fijada en 10 años.
+Terrenos por $300 cuyo valor original fue de $240 hace 10 años.
+
+
+3) Una empresa que cierra ejercicios anuales está analizando la posibilidad de adquirir maquinaria para su estructura comercial.
+El costo de la maquinaria es de $ 1 millón y se amortiza linealmente en 10 años con el 10% de valor residual.
+Para fomentar la compra de estos bienes, el gobierno ha sancionado una norma que permite deducir (a los efectos del impuesto a las ganancias) el 100% de la compra en el año de adquisición como si se tratara de un gasto.
+Se pide: determine las variaciones de impuesto a las ganancias devengado  de cada uno de los años (año 0 – compra -  al año 10) entre las situaciones I (compra del bien sin beneficio fiscal) y II (compra del bien con beneficio fiscal).
+Tasa impuesto a las ganancias: 35%
+
+4) Una empresa que cierra ejercicios anuales, recibió el 31/12/X un préstamo del Banco Mar por $ 2 millones. El préstamo devengaba un interés del 10% anual durante dos años, y los pagos realizados por la empresa fueron los siguientes:
+
+2/1/X+2: $ 200.000 (intereses)
+2/1/X+3: $ 2.200.000 (intereses y devolución del principal)
+
+Se pide: determinar la utilidad que en los años X, X+1, X+2 y X+3 esta operación les generó a la empresa y al Banco Mar (también cierra ejercicios anuales).
+
+
+5) Un accidente informático borró varios registros de un balance y cuadro de resultados de una empresa, 
+que quedó así:
+Disponibilidades
+..............
+Deudas comerciales
+30
+Créditos por venta
+..............
+Deudas bancarias
+25
+Bienes de cambio
+..............
+                Total pasivo corriente
+..............
+                    Total activo corriente
+..............
+Deuda a largo plazo
+..............
+Activo fijo neto
+..............
+Capital
+.............
+                                       TOTAL
+..............
+                       TOTAL
+115
+
+Ventas
+...........
+Costo de la mercadería vendida
+...........
+Gastos de  comercialización y administración
+10
+Amortización
+20
+                     Utilidad operativa  ( EBIT )
+...........
+Intereses
+..........
+                     Utilidad antes de I.G.
+..........
+Impuesto a las ganancias
+........
+                     Utilidad neta
+...........
+
+Para intentar su reconstrucción se cuenta con la siguiente información de otros archivos:
+
+Índice de cobertura de intereses		8
+Indice de liquidez corriente			1,4
+Indice seco de liquidez				1
+Indice absoluto de liquidez			0,2
+Relación  Deuda a largo plazo/ Capital		0,5			
+Rentabilidad sobre patrimonio neto		40%
+Indice de existencias				72 días     (1 año = 360 días)
+Plazo promedio de crédito			90 días  
+
+Completar en las planillas anteriores los datos susceptibles de ser reconstruidos
+
+
+6)La empresa de Raúl Capablanca y Alejandro Alekhine tiene una deuda pendiente de 500.000$ y paga un 10% de interés anual. Las ventas anuales son de 2.000.000$, la tasa de impuesto a las ganancias es del 30%, y el margen de utilidades sobre ventas 5%. Si no mantiene una cobertura de intereses  de por lo menos 5, el banco no le renovará el préstamo y quebrará. ¿Lo hará?
+
+7) Dado el siguiente balance (en miles de $): Caja 400, Créditos 1200, BC 900, BU 4500, Dbanc. 800, Dcom 1100, Deuda no Corriente 2200, Patrimonio Neto 2900. Determinar a) Capital de trabajo, b) Si se pronostica que las ventas para el próximo período  serán de 6 millones de pesos y que Créditos será un 24% de las Ventas, así como BC un 18% de las mismas, ¿cuánto financiamiento adicional será necesario? c) Si las compras representarán un 22% de las ventas ¿cuánta deuda Comercial adicional se generará? (se sabe que la empresa no compra nada al contado) d) Considerando b y c, ¿sigue necesitando financiamiento?, ¿cuánto?, e) ¿qué fuente seleccionaría para dicho financiamiento ( a CP o a LP?) si sospecha que este nivel de ventas no logrará mantenerse?

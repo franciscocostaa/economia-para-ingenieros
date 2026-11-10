@@ -1,0 +1,71 @@
+FUENTE: X03
+TITULO: Segundo parcial 1C2018 resuelto (no oficial)
+ORIGINAL: material/externo/2P - 1C2018.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+IMAGEN en B2: material/figuras/X03-hoja1-img1.png
+B2: Ejercicio 1 | I2: Respuestas
+I3: a) Verdadero, porque si caen las ventas al contado entra menos efectivo, lo que disminuye la caja.
+I4: b) Verdadero, el KT operativo es el activo operativo corriente que no se financia con pasivos espontáneos (pasivos corrientes), y requiere financiación permanente (pasivos no corrientes).
+I6: c) Falso, los costos fijos de estructura prorrateados son comunes (no varían con la eliminación) y, por tanto, irrelevantes para la decisión.
+I8: d) Falso, porque el dinero que entra por el capital se gasta en la adquisición, por lo que no varía la liquidez.
+I10: e) Falso, porque por el principio de lo devengado se deben incluir en el momento que ocurren, no en el momento que se cobran.
+I12: f) Falso, porque al no haber pagos (vencimientos) por el próximo año, no sube la liquidez corriente (es un pasivo no corriente).
+I14: g) Falso, pues se paga el 50% del bien (disminución de disponibilidades) pero se suma la totalidad de su valor, lo que genera un aumento en el activo total.
+I16: h) Falso, pues el payback ignora el valor del dinero y los flujos post-payback, lo que podría generar una decisión incorrecta.
+I18: i) Falso, porque además del margen se debe contemplar la rotación de activos para comparar la situación de ambas empresas, ya que ROA = Margen x Rot. Activos.
+I20: j) Falso, los costos hundidos son gastos ya incurridos e irrecuperables, irrelevantes para decidir.
+
+===== HOJA 2: Ejercicio 2 =====
+
+IMAGEN en B3: material/figuras/X03-hoja2-img1.png
+B2: Ejercicio 2
+B13: Datos | E13: Flujo de Fondos
+B14: Monto | C14: 1790 | E14: Mes | F14: Pagos | G14: Refuerzos | H14: Pago Total | I14: Factor | J14: VP | K14: VP (Total) | L14: Descuento
+B15: TNA (Cap. M) | C15: 0.08 | E15: 0 | F15: 360 | G15: 0 | H15: 360 [=SUM(F15:G15)] | I15: 1 [=1/((1+C23)^E15)] | J15: 360 [=I15*H15] | K15: 2034.16 [=SUM(J15:J27)] | L15: 244.16 [=K15-C14]
+B16: Monto(b) | C16: 20300 | E16: 1 | F16: 180 | G16: 0 | H16: 180 [=SUM(F16:G16)] | I16: 0.993377 [=1/((1+C23)^E16)] | J16: 178.808 [=I16*H16]
+B17: Plazo (b - meses) | C17: 6 | E17: 2 | F17: 180 | G17: 0 | H17: 180 [=SUM(F17:G17)] | I17: 0.986799 [=1/((1+C23)^E17)] | J17: 177.624 [=I17*H17]
+B18: TEM (b) | C18: 0.02 | E18: 3 | F18: 180 | G18: 0 | H18: 180 [=SUM(F18:G18)] | I18: 0.980264 [=1/((1+C23)^E18)] | J18: 176.447 [=I18*H18]
+B19: Sistema (b) | C19: Francés | E19: 4 | F19: 180 | G19: 0 | H19: 180 [=SUM(F19:G19)] | I19: 0.973772 [=1/((1+C23)^E19)] | J19: 175.279 [=I19*H19]
+E20: 5 | F20: 180 | G20: 0 | H20: 180 [=SUM(F20:G20)] | I20: 0.967323 [=1/((1+C23)^E20)] | J20: 174.118 [=I20*H20]
+B21: Auxiliar | E21: 6 | F21: 180 | G21: 0 | H21: 180 [=SUM(F21:G21)] | I21: 0.960917 [=1/((1+C23)^E21)] | J21: 172.965 [=I21*H21]
+B22: TEA | C22: 0.0829995 [=(1+C15/12)^12-1] | E22: 7 | F22: 90 | G22: 0 | H22: 90 [=SUM(F22:G22)] | I22: 0.954553 [=1/((1+C23)^E22)] | J22: 85.9098 [=I22*H22]
+B23: TEM | C23: 0.00666667 [=(1+C22)^(1/12)-1] | E23: 8 | F23: 90 | G23: 0 | H23: 90 [=SUM(F23:G23)] | I23: 0.948232 [=1/((1+C23)^E23)] | J23: 85.3409 [=I23*H23]
+E24: 9 | F24: 90 | G24: 60 | H24: 150 [=SUM(F24:G24)] | I24: 0.941952 [=1/((1+C23)^E24)] | J24: 141.293 [=I24*H24]
+E25: 10 | F25: 90 | G25: 0 | H25: 90 [=SUM(F25:G25)] | I25: 0.935714 [=1/((1+C23)^E25)] | J25: 84.2143 [=I25*H25]
+E26: 11 | F26: 90 | G26: 0 | H26: 90 [=SUM(F26:G26)] | I26: 0.929517 [=1/((1+C23)^E26)] | J26: 83.6565 [=I26*H26]
+E27: 12 | F27: 90 | G27: 60 | H27: 150 [=SUM(F27:G27)] | I27: 0.923361 [=1/((1+C23)^E27)] | J27: 138.504 [=I27*H27]
+E30: Préstamo Francés
+E31: Período | F31: 1 | G31: 2 | H31: Total Amort.
+E32: Cuota | F32: 3624.07 [=C16/(((1+C18)^C17-1)/((1+C18)^C17*C18))] | G32: 3624.07 [=C16/(((1+C18)^C17-1)/((1+C18)^C17*C18))] | H32: 6500.51 [=SUM(F33:G33)]
+E33: Amortización | F33: 3218.07 [=F32-F34] | G33: 3282.44 [=G32-G34]
+E34: Interés | F34: 406 [=C16*C18] | G34: 341.639 [=F35*C18]
+E35: Saldo | F35: 17081.9 [=C16-F33] | G35: 13799.5 [=C16-SUM(F33:G33)]
+
+===== HOJA 3: Ejercicio 3 =====
+
+IMAGEN en B3: material/figuras/X03-hoja3-img1.png
+B2: Ejercicio 3
+B16: Datos | E16: Cuadro de Resultados
+B17: Plazo (años) | C17: 5 | E17: Año | F17: 0 | G17: 1 | H17: 2 | I17: 3 | J17: 4 | K17: 5
+B18: Inv. BU | C18: 210000 | E18: Ventas | F18: 0 | G18: 200000 [=C22*C23] | H18: 200000 [=C22*C23] | I18: 200000 [=C22*C23] | J18: 200000 [=C22*C23] | K18: 200000 [=C22*C23]
+B19: VUC | C19: 3 | E19: Cost. Var. | F19: 0 | G19: -80000 [=-C22*C24] | H19: -80000 [=-C22*C24] | I19: -80000 [=-C22*C24] | J19: -80000 [=-C22*C24] | K19: -80000 [=-C22*C24]
+B20: VRC | C20: 0 | E20: Cost. Fij. | F20: 0 | G20: -40000 [=-C25] | H20: -40000 [=-C25] | I20: -40000 [=-C25] | J20: -40000 [=-C25] | K20: -40000 [=-C25]
+B21: VRM | C21: 0.1 | E21: EBITDA | F21: 0 [=SUM(F18:F20)] | G21: 80000 [=SUM(G18:G20)] | H21: 80000 [=SUM(H18:H20)] | I21: 80000 [=SUM(I18:I20)] | J21: 80000 [=SUM(J18:J20)] | K21: 80000 [=SUM(K18:K20)]
+B22: Ventas (x año) | C22: 16000 | E22: Res. Vta. Maq | F22: 0 | G22: 0 | H22: 0 | I22: 0 | J22: 0 | K22: 21000 [=C35]
+B23: Precio (x U) | C23: 12.5 | E23: Pérdida Kt. | F23: 0 | G23: 0 | H23: 0 | I23: 0 | J23: 0 | K23: -6000 [=-C36]
+B24: Costo (x U) | C24: 5 | E24: Amort. | F24: 0 | G24: -70000 [=-C34] | H24: -70000 [=-C34] | I24: -70000 [=-C34] | J24: 0 | K24: 0
+B25: Cst. Fij. (x año) | C25: 40000 | E25: EBIT | F25: 0 [=F21+SUM(F22:F24)] | G25: 10000 [=G21+SUM(G22:G24)] | H25: 10000 [=H21+SUM(H22:H24)] | I25: 10000 [=I21+SUM(I22:I24)] | J25: 80000 [=J21+SUM(J22:J24)] | K25: 95000 [=K21+SUM(K22:K24)]
+B26: Cst. Pro. (x año) | C26: 10000 | E26: I.G. | F26: 0 [=F25*C30] | G26: -3500 [=-G25*C30] | H26: -3500 [=-H25*C30] | I26: -3500 [=-I25*C30] | J26: -28000 [=-J25*C30] | K26: -33250 [=-K25*C30]
+B27: Kt. | C27: 20000 | E27: U. Neta | F27: 0 [=F25+F26] | G27: 6500 [=G25+G26] | H27: 6500 [=H25+H26] | I27: 6500 [=I25+I26] | J27: 52000 [=J25+J26] | K27: 61750 [=K25+K26]
+B28: Recup. Kt. | C28: 0.7
+B29: TREMA | C29: 0.15 | E29: Flujo de Fondos
+B30: I.G. | C30: 0.35 | E30: Año | F30: 0 | G30: 1 | H30: 2 | I30: 3 | J30: 4 | K30: 5
+E31: EBITDA | F31: 0 [=F21] | G31: 80000 [=G21] | H31: 80000 [=H21] | I31: 80000 [=I21] | J31: 80000 [=J21] | K31: 80000 [=K21]
+B32: Auxiliar | E32: Inv. BU | F32: -210000 [=-C18] | G32: 0 | H32: 0 | I32: 0 | J32: 0 | K32: 0
+B33: Base Amort. | C33: 210000 [=C18-C20] | E33: Venta BU | F33: 0 | G33: 0 | H33: 0 | I33: 0 | J33: 0 | K33: 21000 [=C18*C21]
+B34: Amort. Fisc. An. | C34: 70000 [=C33/C19] | E34: Kt. | F34: -20000 [=-C27] | G34: 0 | H34: 0 | I34: 0 | J34: 0 | K34: 14000 [=C27*C28]
+B35: Res. Vta. Maq. | C35: 21000 [=(C18*C21)-(C18-C19*C34)] | E35: I.G. | F35: 0 [=F26] | G35: -3500 [=G26] | H35: -3500 [=H26] | I35: -3500 [=I26] | J35: -28000 [=J26] | K35: -33250 [=K26]
+B36: Pérdida Kt. | C36: 6000 [=C27*(1-C28)] | E36: FF | F36: -230000 [=SUM(F31:F35)] | G36: 76500 [=SUM(G31:G35)] | H36: 76500 [=SUM(H31:H35)] | I36: 76500 [=SUM(I31:I35)] | J36: 52000 [=SUM(J31:J35)] | K36: 81750 [=SUM(K31:K35)]
+E37: VAN | F37: 15042.1 [=NPV(C29,G36:K36)+F36] | G37: → Se acepta

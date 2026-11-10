@@ -1,0 +1,1592 @@
+FUENTE: T04
+TITULO: Evaluación de proyectos
+ORIGINAL: material/catedra/teoria/9_Eval Proy - C2 2026.pdf
+PAGINAS: 79
+
+===== PAGINA 1 =====
+
+Evaluación de
+  Proyectos
+
+===== PAGINA 2 =====
+
+QUÉ ES UN PROYECTO DE INVERSIÓN
+
+
+
+
+  "Cualquier sacrificio de recursos hoy, con la esperanza
+                  de recibir algún beneficio en el futuro"
+
+
+
+
+     Sacrificio             Tiempo            Esperanza               Beneficio
+  POSPONER CONSUMO        HOY VS FUTURO   RIESGO / INCERTIDUMBRE   RECUPERO + RETORNO
+
+===== PAGINA 3 =====
+
+Proyecto: alcance del estudio
+
+  Viabilidad comercial (mercado)
+  Viabilidad técnica
+  Viabilidad legal
+  Viabilidad operativa y de gestión
+  Viabilidad económica
+  Estudio financiero
+  Impacto ambiental y evaluación social
+                                3
+
+===== PAGINA 4 =====
+
+EL ROL DE LA EVALUACIÓN FINANCIERA
+
+
+          100 IDEAS
+
+
+                                 Evitar malos proyectos
+                             Impedir la destrucción de valor.
+     20 PROYECTOS VIABLES
+
+                                 No rechazar los buenos
+                             Asegurar la creación de valor futuro.
+
+        5 APROBADOS
+                                  Medir Riesgos
+                             Entender la magnitud de la incertidumbre.
+
+
+               2
+           CREAN VALOR      Determinar la consistencia entre viabilidad técnica, comercial y
+                            económica.
+
+===== PAGINA 5 =====
+
+  INSUMOS BÁSICOS PARA LA EVALUACIÓN
+FINANCIERA DE UN PROYECTO DE INVERSIÓN
+               CONSTRUCCIÓN DEL FLUJO DE
+               CAJA LIBRE DEL PROYECTO
+                                    $           $
+                       $       $
+
+
+       0                                            tiempo
+                   1       2       3            N
+                               K   Se busca determinar el
+                                   comportamiento más probable de los
+           $                       ingresos y egresos de un proyecto
+                                   en el tiempo.
+
+                  CRITERIOS de DECISIÓN
+
+
+
+           MEDICIÓN DE LA VIABILIDAD
+           FINANCIERA DE UN PROYECTO
+
+===== PAGINA 6 =====
+
+Tasa de descuento
+
+
+ La tasa de descuento es aquella tasa de
+ interés que establece las relaciones de
+ equivalencia de un decisor cuando se
+ enfrenta ante varias alternativas para su
+ evaluación. O sea, la tasa de interés, i,
+ que hace al decisor indiferente entre $1
+ hoy y $(1+i) al final de un período.
+
+===== PAGINA 7 =====
+
+ Tasa de descuento hoy: datos de
+ actualidad (oct-2026)
+
+                                                                                                          Bono del Tesoro EE.UU. 10 años
+      Inflación (INDEC, ago-2026)                           Riesgo país (7-oct-2026)
+
+     1,7% mensual                                                 586 pb                                            5,28%
+                                                                                                        7-oct-2026 · la Fed subió tasas el 16-
+  33,5% interanual · 21,3% acum. 2026                    JP Morgan; subió 9 pb en el día
+                                                                                                                         sep
+
+
+
+
+                                                               Plazo fijo a 30 días                        Rendimiento real aproximado
+     Dólar mayorista (7-oct-2026)
+
+              $1.517                                         ≈ 21% TNA                                               ≈ −8%
+                                                      TEA ≈ 23% · promedio BCRA, 2-sep-                     TEA del plazo fijo vs. inflación
+      tipo de cambio de referencia
+                                                                     2026                                             interanual
+
+
+
+
+  Para pensar: la tasa de descuento depende de la moneda del flujo, de la inflación y del riesgo país.
+  Con un “piso” en dólares superior al 5% y un riesgo país de casi 6 puntos, la TREMA de un proyecto
+  argentino en US$ parte de un nivel alto.
+
+
+Fuentes: INDEC (vía El Economista, 10-sep-2026); Infobae (7-oct-2026); iProUP (2-sep-2026); GBM (17-sep-2026).
+Cálculo propio de TEA y tasa real.
+
+===== PAGINA 8 =====
+
+LA TASA DE DESCUENTO (TREMA)
+
+
+                    Tasa de Retorno Esperada Mínima Aceptable
+
+
+                                                       ■   ¿De dónde vienen los fondos?
+
+                                                       ■   ¿Cuánto cuesta la deuda? (Acreedores)
+
+     Porcentaje de ganancia mínimo que un              ■   ¿Cuánto exigen los accionistas? (Capital Propio)
+  inversionista exige a un proyecto para aceptar       ■   ¿Qué riesgo tiene el proyecto?
+ financiarlo, considerando la inflación y el riesgo.   ■   ¿Cuál es el horizonte del proyecto?
+
+===== PAGINA 9 =====
+
+ Tasa nominal o real: el flujo y la tasa
+ deben ser coherentes
+
+                               (1 + i nominal) = (1 + i real) × (1 + inflación)
+
+                       Flujo del proyecto                                          Año 0                       Año 1             Año 2
+
+ Reales (pesos de hoy)                                                            −100,0                       60,0               60,0
+
+ Nominales (inflación 33,5%)                                                      −100,0                       80,1               106,9
+
+
+
+               Flujos reales                                   Flujos nominales con                               Flujos nominales con
+              con tasa real 8%                                  tasa nominal 44,2%                                 tasa real 8% (error)
+
+            VAN = 7,0                                            VAN = 7,0                                        VAN = 65,8
+
+  Regla: flujos nominales   tasa nominal; flujos reales                              tasa real; flujos en US$           tasa en US$.
+  Mezclarlos cuenta dos veces la inflación.
+
+Ejemplo ilustrativo; la inflación de 33,5% es el dato interanual de agosto 2026 (INDEC), supuesta constante.
+
+===== PAGINA 10 =====
+
+Tasa de descuento: Costo
+Promedio Ponderado del Capital
+
+La tasa de descuento apropiada para usar
+en la determinación del VAN es el costo
+promedio ponderado del capital(Wacc).
+Este costo es el promedio ponderado de los
+rendimientos que esperan las partes que
+contribuyen fondos.      Los pesos de
+ponderación son determinados por las
+proporciones de fondos que provee cada
+fuente .
+
+===== PAGINA 11 =====
+
+WACC
+
+
+
+
+Costo de la Deuda (Kd)
+Préstamos bancarios, obligaciones. Se calcula
+                                                  Costo Promedio Ponderado
+después de impuestos (escudo fiscal).
+
+
+
+
+Costo del Capital Propio (Ke)
+Retorno exigido por accionistas. Modelos: CAPM,
+Gordon, ROE.
+
+===== PAGINA 12 =====
+
+Tasa de descuento: Costo
+Promedio Ponderado del Capital
+Ejemplo: Una empresa planea financiar un proyecto tomando
+prestados $10,000 y obteniendo $20,000 emitiendo acciones. El
+costo neto de tomar prestado es del 6% por año. Las acciones
+tienen un rendimiento esperado del 9%. Las fuentes de capital
+para este proyecto y sus costos están en igual proporción a las que
+la empresa habitualmente acostumbra para todas sus inversiones.
+Cálculo del costo del capital..
+   Fuente          Monto         Costo      Peso     Costo x Peso
+   Deuda         $10,000          6%*       1/3           2%
+   Acciones        20,000         9%        2/3           6%
+   Costo promedio ponderado del Capital                   8%
+   *= Después de Impuesto a las ganancias
+
+===== PAGINA 13 =====
+
+Tasa de descuento: Costo
+Promedio Ponderado del
+Capital.Componentes
+                               Promedios
+           Costo de la Deuda   Ponderados
+                               Combinación de Flujos
+            Después de
+            impuestos
+Costo de
+Capital
+(CPC)
+                               ROE: Return on Equity
+WACC
+           Costo de los        Gordon
+           recursos propios    CAPM: Capital Asset
+                               Pricing Model
+                               C.Q.G.P. – 5 dígitos
+                               oscilantes
+
+===== PAGINA 14 =====
+
+ Ejemplo: WACC en dólares para un
+ proyecto en Argentina
+
+                            Componente                                             Valor
+                                                                                                                   WACC en US$
+ Tasa libre de riesgo (bono EE.UU. 10 años)                                       5,28%
+
+ Prima de riesgo de mercado (EE.UU.)                                              4,23%                         11,8%
+ Beta del proyecto (supuesto)                                                      1,10                 tasa para descontar flujos en dólares
+
+ Riesgo país de Argentina                                                         5,86%
+
+ Ke = 5,28 + 1,10 × 4,23 + 5,86                                                  15,79%                 Sensibilidad
+                                                                                                        +100 pb de riesgo país → +0,6 pp de
+ Kd antes de impuestos (supuesto)                                                 9,00%                 WACC
+                                                                                                        Hoy el bono de EE.UU. aporta más
+ Kd después de impuestos (35%)                                                    5,85%                 de 5 puntos: el piso de la tasa es
+                                                                                                        alto.
+ Estructura: capital propio / deuda                                             60% / 40%
+
+
+
+                             WACC = 0,60 × 15,79% + 0,40 × 5,85% = 11,82%
+
+
+Datos: bono EE.UU. y riesgo país al 7-oct-2026 (Infobae); prima de riesgo EE.UU. 4,23% (Damodaran, ene-2026).
+Beta, Kd y estructura: supuestos ilustrativos.
+
+===== PAGINA 15 =====
+
+FLUJO DE CAJA VS BENEFICIO CONTABLE
+
+
+
+        Beneficio Contable                               Flujo de Caja Libre
+ ■   Incluye devengamientos y depreciaciones.    ■   Dinero real que entra y sale.
+ ■   Depende de criterios y métodos contables.   ■   Elimina diferencias de criterio contable.
+                                                 ■   Considera el valor tiempo del dinero.
+
+
+      Representa una opinión o criterio                      Representa un “Hecho”
+
+===== PAGINA 16 =====
+
+         DIFERENTES CASOS PARA LA
+      CONSTRUCCIÓN DE UN FLUJO DE
+        CAJA LIBRE DE UN PROYECTO
+
+      Instalación de una empresa totalmente
+       nueva: Se deben considerar todos los
+       egresos e ingresos que implique la inversión.
+      Proyecto de inversión en una empresa
+       existente: Se debe construir sobre una base
+       incremental, de modo que solo se analice el
+       impacto financiero del proyecto.
+
+
+Flujo incremental: Diferencia entre los flujos de
+   efectivo de la empresa con y sin el proyecto.
+
+===== PAGINA 17 =====
+
+ Proyecto nuevo o ampliación: casos
+ reales de inversión
+
+
+              Proyecto nuevo                                        Ampliación                                Petróleo no convencional
+            Rincón (Salta)                               Fénix 1B (Catamarca)                                  Los Toldos II Este
+      US$ 2.744 M · 60.000 t/año                          US$ 251,3 M · +9.500 t/año                          US$ 6.400 M · 70.000 bpd
+      US$ 45.733 por t/año                               US$ 26.453 por t/año                                 US$ 91.429 por bpd
+
+
+
+
+   Qué enseña para el flujo de caja
+   • Flujo incremental: la ampliación de Fénix cuesta 42% menos por tonelada que el proyecto nuevo y se
+     evalúa por lo que agrega (+9.500 t), no por el total.
+   • Pero ojo: menor inversión por unidad no implica mayor VAN; falta comparar con los ingresos y la tasa de
+     descuento.
+
+
+
+
+Fuentes: Reporte Minero (27-jul-2026); El Economista (ago-2026). Inversión por unidad de capacidad: cálculo
+propio.
+
+===== PAGINA 18 =====
+
+Flujo de Caja del Proyecto
+   Se construye a partir de los movimientos de caja del Proyecto:
+     refleja los ingresos y egresos de fondos.
+
+   Requiere de una cuidadosa elaboración de proyecciones:
+     Ventas, precios, costos, inversiones, etc.
+
+     Elaboración del programa de producción
+
+   Recoge todos los componentes que hace al “valor” de un
+    Proyecto:
+     inversión inicial, re-inversiones, etc
+
+   Requiere un profundo conocimiento del Proyecto.
+   Requiere un conocimiento de los riesgos involucrados para la
+    correcta determinación del costo de oportunidad del Capital.
+                    “Garbage In       Garbage Out”
+
+===== PAGINA 19 =====
+
+ Ejemplo: del beneficio contable al flujo
+ de caja libre
+
+                            Concepto       $ millones   Utilidad vs. caja
+ Ventas                                      1.000      NOPAT: 195
+ − Costos operativos                         −600       Flujo libre: 215
+                                                        No coinciden: la amortización, el
+ − Amortización (no es caja)                 −100       capital de trabajo y las inversiones
+                                                        mueven la caja.
+ = Resultado operativo (EBIT)                 300
+
+ − Impuesto a las ganancias (35%)            −105
+
+ = Utilidad operativa neta (NOPAT)            195       Sin intereses
+                                                        El costo del financiamiento ya está en
+ + Amortización                               100       la tasa de descuento (WACC); restarlo
+                                                        en el flujo sería contarlo dos veces.
+ − Aumento de capital de trabajo              −30
+
+ − Inversión en bienes de capital             −50
+
+ = Flujo de caja libre                        215
+
+
+
+
+Ejemplo ilustrativo en pesos constantes.
+
+===== PAGINA 20 =====
+
+ ¿Qué entra y qué no entra en el flujo
+ de caja?
+                      Partida                                  ¿Entra?                              Motivo
+
+
+ Estudio de mercado ya pagado                                     NO        Costo hundido: no cambia con la decisión
+
+                                                                            Costo de oportunidad: lo que se obtendría
+ Terreno propio hoy ocioso                                         SÍ
+                                                                            alquilándolo o vendiéndolo
+
+ Capital de trabajo (stocks, clientes)                             SÍ       Es una inversión; se recupera al final del proyecto
+
+                                                                            El costo del financiamiento está en la tasa de
+ Intereses del préstamo                                           NO
+                                                                            descuento
+
+ Ventas que se quitan a otro producto                              SÍ       Canibalización: forma parte del flujo incremental
+
+                                                          Solo su efecto
+ Amortización contable                                                      No es un egreso de caja, pero reduce el impuesto
+                                                              fiscal
+
+ Impuesto a las ganancias del proyecto                             SÍ       El flujo se calcula después de impuestos
+
+
+
+Criterios de la teoría de flujo de caja incremental (con y sin proyecto).
+
+===== PAGINA 21 =====
+
+    Preparación y Evaluación de
+             Proyectos
+    Máxima prioridad antes de preparar o evaluar un
+    proyecto:
+
+
+      DETECTAR LAS ALTERNATIVAS DISPONIBLES
+          (Cada una puede ser un proyecto)
+
+===== PAGINA 22 =====
+
+TIPOS DE PROYECTOS / ALTERNATIVAS
+
+
+
+
+ Dependientes                        Independientes                     Mutuamente
+                                                                        Excluyentes
+ Se aceptan ambos o ninguno. La      La ejecución de uno no afecta al
+ decisión de uno arrastra al otro.   otro. Si hay fondos, se aprueban   Si se acepta A, automáticamente
+
+                                     todos los rentables.               se rechaza B
+
+
+
+
+  Ej: Sistema ERP +                   Ej: Abrir sucursal Córdoba y       Ej: Comprar máquina alemana o
+  Infra Servidores                    sucursal Mendoza                   china
+
+===== PAGINA 23 =====
+
+Métodos para evaluar alternativas
+
+ Valor Actual Neto (VAN ó VPN)
+ Tasa Interna de Retorno (TIR)
+ Tasa Externa de Retorno(TER), TIRM
+ Período de Recupero
+ Valor Anual - Costo Anual Equivalente
+ Máxima Exposición
+ Profitability Index (PI)
+
+===== PAGINA 24 =====
+
+Valor Actual Neto
+
+
+Es el valor de los flujos de fondos generados
+  por el proyecto por arriba de los costos de
+             financiar el proyecto.
+Estos costos de financiar el proyecto deben
+    ser considerados ya sean explícitos o de
+                  oportunidad.
+
+===== PAGINA 25 =====
+
+Valor Actual Neto (VAN)
+Definición
+                                      VAN = P - I
+donde:
+      P = el valor presente de los futuros flujos de caja netos del
+          proyecto.
+      I = el valor presente del costo del proyecto (usualmente la
+          inversión inicial)
+VAN es una medida del beneficio de una inversión expresada en
+pesos de hoy.
+
+                                            n       FC j
+                                  VAN =                   j
+                                           j=0 1+ i 
+Donde:                                                
+                                                      
+FCj      = Flujo de Caja en el período j
+i        = Tasa de descuento
+j        = Período
+
+===== PAGINA 26 =====
+
+  Valor Actual Neto (VAN).
+  Ejemplo
+Un proyecto promete dar un efectivo neto de $10,000 dentro de
+un año y $20,000 dentro de dos años. El proyecto requiere
+también una inversión al inicio de $22,000. Calcular el VAN
+asumiendo una tasa de descuento del 12%.
+                                     Factor de         Valor
+     Año          Flujo Caja        Descuento       Presente
+      0            $(22,000)            1.000       $(22,000)
+      1              10,000             0.893          8,930
+      2              20,000             0.797        15,940
+                                                     $2,870
+                                                          →
+
+===== PAGINA 27 =====
+
+ PROYECTO LOMAS
+
+Año        0         1        2         3
+FF     -$100      +$10      +$60     +$80
+
+
+Descuento 1.0    1/1.1      1/1.21 1/1.331
+
+
+PV      -$100   +$9.09   +$49.59      +$60.11
+
+
+VAN   +$18.78
+
+===== PAGINA 28 =====
+
+Valor Actual Neto (VAN).
+Significado
+
+
+ El significado del VAN, se puede ilustrar de la
+    siguiente manera: cuando se hace una inversión
+    se espera recibir un valor igual a la suma
+    invertida y una suma adicional; esas sumas que
+    recibe, las "entrega" el proyecto o inversión a lo
+    largo de su vida. La suma adicional consiste de
+    lo que se ganaría por fuera del proyecto (costo
+    del dinero) más algo extra. Esta suma extra es
+    lo que aumenta el valor de la firma y es el VAN.
+
+===== PAGINA 29 =====
+
+Valor Actual Neto (VAN).
+Significado(cont.)
+
+
+ El VAN es el remanente neto que produce el
+   proyecto, en pesos de hoy, después de
+   descontar los flujos futuros a la tasa de
+   descuento. O también, después de descontar de
+   los ingresos la suma correspondiente a los
+   intereses de la tasa de descuento. Es como si el
+   inversionista "le prestara" al proyecto un dinero
+   que debe ser devuelto con intereses a la tasa de
+   descuento y algo adicional, que es el beneficio
+   que recibe por haber realizado la inversión.
+
+===== PAGINA 30 =====
+
+   Valor Actual Neto (VAN).
+    En nuestro ejemplo:
+Año Préstamo     Cuota      Interés     Amortización Remanente
+  0  $ -22.000
+  1  $ -14.640   $ 10.000     $ 2.640       $ 7.360
+  2         $0   $ 20.000     $ 1.757      $ 14.640     $ 3.603
+      Total      $ 30.000     $ 4.397      $ 22.000     $ 3.603
+   Valor Presente de $ 3.603 = $3.603 / (1+0,12)2 =
+                            $2.872
+
+===== PAGINA 31 =====
+
+Valor Actual Neto
+(VAN).            Cuando se lleva al
+                          período cero, es el
+       Remanente          VAN o la generación
+                          de valor.
+
+                          Es el interés que
+       Costo del dinero
+                          “paga”el proyecto por
+                          el ”préstamo”de la
+                          inversión.
+
+        Inversión         Es la devolución del
+                          dinero, recibido para
+                          la inversión.
+
+===== PAGINA 32 =====
+
+Un comentario
+
+
+ EL VAN aumenta el MVA (Market Value
+  Added: valor de mercado de la firma
+  menos el capital aportado)
+ Todo (o casi todo) el VAN se lo llevan los
+  accionistas a través de aumentos en los
+  precios de las acciones en el mercado,
+  salvo que se asuma deuda y que la misma
+  sea riesgosa, si ese es el caso, aumenta el
+  valor presente de la deuda y el VAN es
+  compartido en parte con los acreedores
+
+===== PAGINA 33 =====
+
+        Otra manera de verlo
+
+
+
+ FLUJO del Proyecto LOMAS
+ Flujo de Financiarlo
+
+Año             0   1      2    3
+Proyecto      -100 +10 +60 + 80 Rinde más que 10%
+Financiar $   +100-10 -10 -110 Me financio al 10%
+Total           0       0 +50 - 30 Por sobre la finan.
+              + 0 .00
+              +41.32
+              -22.54
+Valor Actual Neto +18.78
+Se supuso que el costo de oportunidad del dinero es de 10%
+
+===== PAGINA 34 =====
+
+REGLA DE DECISIÓN DEL VAN
+
+
+
+    VAN > 0                         VAN = 0                        VAN < 0
+ Recupera inversión + Rinde la   Recupera inversión + Rinde     Puede que no recupere el
+  TREMA + Genera excedente.      exactamente la TREMA. Cero   capital, o no alcance a rendir lo
+                                         excedente.                que exige la TREMA.
+
+===== PAGINA 35 =====
+
+ Ejemplo actual: el VAN de un pozo de
+ Vaca Muerta
+
+   Supuestos                                                       Precio realizado (US$/bbl)          45          60           75
+   • Costo del pozo: US$ 14 M
+   • Producción inicial: 1.000 bpd                               VAN al 15% (US$ M)                   0,0          7,8         15,7
+   • Declinación: 60%, 40%, 30% y luego 8%
+     anual
+   • Vida de 20 años ≈ 1,0 millón de barriles                    TIR (US$)                            15,0%       35,6%       59,1%
+
+   • Opex: US$ 5/bbl
+   • Otros costos (regalías, transporte,                         Recupero simple (años)                4,3         1,7         1,0
+     impuestos): US$ 13,3/bbl*
+   • Tasa mínima: 15% anual en US$
+
+                                                                   Lectura: a US$ 45 el pozo apenas cubre el 15% exigido (VAN ≈ 0).
+                                                                   Con Brent en US$ 86–92 en agosto de 2026 hay margen amplio,
+                                                                   aunque el precio realizado puede ser menor.
+
+
+
+* Modelo didáctico propio con insumos del estudio de Aleph Energy; “otros costos” calibrado para
+reproducir su precio de equilibrio de US$ 45. No reemplaza un modelo de reservorio ni fiscal.
+
+
+
+
+Fuentes: El Economista (11-jun-2025, estudio de Aleph Energy); precio del Brent: QNA (10-ago-2026).
+
+===== PAGINA 36 =====
+
+VAN vs Tasa de descuento
+
+                        PERÍODO            0      1
+                          FLUJO          -100    120
+
+                   V.A. (i%)      10%    -100   109,09
+
+                     V.A.N. (i%)        9,09
+                         T.I.R.         20,0%
+
+
+
+
+                                         36
+
+===== PAGINA 37 =====
+
+Hipótesis de Reinversión
+El modelo del VAN asume que todos los flujos de
+caja generados por el proyecto son
+inmediatamente reinvertidos para ganar la tasa
+de rendimiento requerida a lo largo de la vida
+del proyecto
+En nuestro ejemplo:
+
+                           Años
+     Año    Ingresos     Invertidos     Factor        Monto
+        0
+        1     $ 10.000       1                1,120   $ 11.200
+        2     $ 20.000       0                1,000   $ 20.000
+                                      Total           $ 31.200
+A su vez $22.000 colocados durante 2 años al 12% anual, darían
+un monto igual a 22.000(1,12)2 = $ 27.597
+$31.200 - $27.597 = $3.603 que llevado a hoy da $2.872(VAN)
+
+===== PAGINA 38 =====
+
+  TASA INTERNA DE RETORNO (TIR)
+
+La tasa interna de retorno (TIR) es la tasa de
+descuento que hace que el VAN del proyecto
+se haga cero. Entonces, P = I para la TIR.
+            Ejemplo: Un proyecto requiere una inversión
+                     de $10,000 y reintegrará $12,000
+                     después de un año. ¿Cuál es la TIR?
+            $12,000/(1 + i) = $10,000
+            1 + i = 1.2
+            i= TIR = 0.20= 20%
+                                         𝑛
+Donde:                                            𝐹𝐶𝑗
+                                    𝑉𝐴𝑁 = ෍              =0
+FCj=Flujo de Caja en el período j              1 + 𝑇𝐼𝑅 𝑗
+                                         𝑗=0
+i=Tasa interna de Retorno
+J=Período
+
+===== PAGINA 39 =====
+
+   TASA INTERNA DE RETORNO (TIR)
+
+La Tasa    Interna de Retorno es una medida
+porcentual de la magnitud de los beneficios que
+le reporta un proyecto a un inversionista.
+Todo lo que un proyecto produce, por encima
+de la inversión inicial, en términos porcentuales
+y se expresa como una tasa de interés.
+Los ingresos de un proyecto se pueden
+descomponer en tres partes:
+            El valor de la inversión que debe devolver el
+             proyecto.
+            El valor que ya ganaba en su alternativa, que le
+             permitió definir el costo de oportunidad, o lo
+             que paga la firma por haber prestado el dinero.
+            El remanente.
+
+===== PAGINA 40 =====
+
+TASA INTERNA DE RETORNO (TIR)
+ En nuestro ejemplo:            Año Flujo Caja
+                                   0      $ -22.000
+                                   1       $ 10.000
+ Si la tasa de descuento es 12%, entonces
+                                   2       los
+                                           $ 20.000
+  $30.000( 10.000 + 20.000) se descomponen así:
+      Inversión    $22.000
+      Costo del Dinero $ 4.397
+      Remanente        $ 3.603
+La Tir de esta inversión es 20,74%
+En Excel TIR = TIR(Rango:-22.000,10.000,20.000) =
+  20,74%
+
+===== PAGINA 41 =====
+
+ TASA INTERNA DE RETORNO (TIR)
+
+
+   En nuestro ejemplo:
+          Tasa = 20,74%
+
+
+Año Préstamo      Cuota      Interés     Amortización Remanente
+  0  $ -22.000
+  1  $ -16.564    $ 10.000     $ 4.564       $ 5.436
+  2         $0    $ 20.000     $ 3.436      $ 16.564        $0
+      Total       $ 30.000     $ 8.000      $ 22.000        $0
+
+  Valor Presente del Remanente=
+                                $0
+
+===== PAGINA 42 =====
+
+TASA INTERNA DE RETORNO (TIR)
+
+
+
+   Remanente          Todo lo que produce
+                      el proyecto por
+                      encima de la
+   Costo del dinero   inversión y expresado
+                      como un porcentaje
+                      (tasa de interés) es la
+                      TIR.
+    Inversión         Es la devolución del
+                      dinero, recibido para
+                      la inversión.
+
+===== PAGINA 43 =====
+
+REGLA DE DECISIÓN DE LA TIR
+
+
+La TREMA es el costo de oportunidad de los fondos que
+financian el proyecto.
+La TIR es lo que rinde el proyecto.
+En proyectos de inversión, comparamos:
+
+
+  Si TIR > TREMA                                                La Pregunta Clave
+  Aceptar. Rinde más que la alternativa.
+
+
+                                                        ¿Rinde este proyecto más que lo que me cuesta
+  Si TIR < TREMA
+                                                                    conseguir el dinero?
+  Rechazar. Destruye valor frente a la alternativa.
+
+===== PAGINA 44 =====
+
+VAN vs Tasa de descuento
+
+                        PERÍODO            0      1
+                          FLUJO          -100    120
+
+                   V.A. (i%)      10%    -100   109,09
+
+                     V.A.N. (i%)        9,09
+                         T.I.R.         20,0%
+
+
+
+
+                                        44
+
+===== PAGINA 45 =====
+
+ Ejemplo actual: TIR y perfil del VAN del
+ pozo
+
+                       VAN del pozo según la tasa de descuento (US$ 60/bbl)                                              vs. WACC
+                                                                                                    US$/bbl     TIR                   vs. 15%
+                 30                                                                                                        11,8%
+
+
+                 25                                                                                   45       15,0%      Acepta     Indiferente
+
+                 20
+                                                                                                      60       35,6%      Acepta       Acepta
+                 15
+
+
+
+  US$ millones
+                                                                                                      75       59,1%      Acepta       Acepta
+                 10
+
+                  5                                                                                 Criterio de la TIR
+                                                                                                    TIR > costo del capital → aceptar. La TIR
+                  0                                                                                 es la tasa donde la curva corta el eje: el
+                                                                                                    VAN se anula.
+                  -5
+
+                 -10
+                        0%   5%   10%   15%   20%   25%   30%   35%   40%   45%   50%   55%   60%
+
+
+
+
+Modelo propio con insumos del estudio de Aleph Energy (El Economista, 11-jun-2025). WACC: ejemplo CAPM de
+esta presentación.
+
+===== PAGINA 46 =====
+
+TASA INTERNA DE RETORNO (TIR)
+ Hipótesis de Reinversión
+ Los ingresos netos recibidos por el proyecto son
+ inmediatamente reinvertidos para ganar un
+ rendimiento igual a la TIR por la vida
+ remanente del proyecto.
+ En nuestro ejemplo:
+
+
+                           Años
+     Año    Ingresos     Invertidos     Factor        Monto
+        0
+        1     $ 10.000       1                1,207   $ 12.074
+        2     $ 20.000       0                1,000   $ 20.000
+                                      Total           $ 32.074
+
+    A su vez $22.000 colocados durante 2 años al 20,74% anual,
+    darían un monto igual a 22.000(1,2074)2 = $ 32.074
+
+===== PAGINA 47 =====
+
+VAN vs TIR
+
+
+Hay dos grandes diferencias entre los dos
+métodos
+      El VAN asume que los flujos netos que se van
+       obteniendo son inmediatamente
+       reinvertidos a la tasa requerida de
+       rendimiento,mientras que el método de la
+       TIR asume esa reinversión a la misma TIR.
+      El VAN mide la ganancia del proyecto en
+       pesos absolutos, mientras que la TIR la mide
+       en % referido a período de proyecto.
+
+===== PAGINA 48 =====
+
+VAN vs TIR
+
+         150                              150
+  VAN =           − 100            VAN =           − 100 = 0
+        (1 + i )1                        (1 + i )1
+
+
+
+
+ Es propia del                 Es propia de la inversión
+ inversionista                 El inversionista no“sesga” el
+ El inversionista “sesga” el   resultado
+ resultado                     La TIR no cambia
+ El VAN cambia                 dependiendo de cada
+ dependiendo de cada           inversionista
+ inversionista
+
+===== PAGINA 49 =====
+
+TIR: consideraciones
+
+
+ Tasas múltiples
+ Criterios distintos en decisiones de
+  inversión / desinversión
+ Reinversión de flujos intermedios
+ Análisis incremental de proyectos
+  mutuamente excluyentes
+
+
+
+                                         49
+
+===== PAGINA 50 =====
+
+           Cambios de Signo en el flujo
+
+ Cuando los flujos de caja cambian más de una vez de signo, se
+ pueden encontrar múltiples “TIR”. Ninguna de ellas se puede
+ desechar fácilmente.             Gráfico
+Diagrama del flujo
+                                            VAN = f (tasa)
+                                                     VPN
+
+
+                            $1.000
+
+                              $500
+
+                                $0
+                      VPN              0%   100%   200%       300%     400%   500%
+                             ($500)
+
+                            ($1.000)
+
+                            ($1.500)
+                                                   TASA DE DESCUENTO
+
+
+ La dificultad se puede obviar usando la TER
+
+===== PAGINA 51 =====
+
+VAN-TIR Inversión / Desinversión
+
+$ 1.200,00
+                                                                                        VAN Invers.
+$ 1.000,00                                                                              VAN I (10%) =
+
+                                                                                        VAN Desinvers.
+ $ 800,00
+                                                                                        VAN D (10%) =
+
+ $ 600,00
+                                             VAN I (10%) =
+ $ 400,00                                      $ 444,34
+
+
+ $ 200,00
+                  TIR D = 6,7%               VAN D (10%) =
+                                                                                     TIR I = 23,3%
+                                                $ 77,83
+    $ 0,00
+             0%   2%   4%    6%   8%   10%      12%   14%    16%   18%   20%   22%     24%   26%      28%   30%
+ $ -200,00
+
+ $ -400,00
+
+
+                                                                                      51
+
+===== PAGINA 52 =====
+
+VAN-TIR Inversión / Desinversión
+
+       PERÍODO             0       1        2         3         4         5
+
+ Proyecto de Inversión
+        FLUJO            -1000    200      300       400       500       600
+
+ V.A. (i%)      10%      -1000   181,82   247,93    300,53    341,51    372,55
+
+    V.A.N. (i%)       444,34
+       T.I.R.            23,3%
+       PERÍODO             0       1        2         3         4         5
+
+ Proyecto de DesInversión
+        FLUJO           800       -100     -150      -200      -250      -300
+
+ V.A. (i%)      10%       800    -90,91   -123,97   -150,26   -170,75   -186,28
+
+    V.A.N. (i%)          77,83
+       T.I.R.            6,7%
+                                                               52
+
+===== PAGINA 53 =====
+
+VAN-TIR Inversión / Desinversión
+
+       PERÍODO             0       1        2         3         4         5
+
+ Proyecto de Inversión
+        FLUJO            -1000    200      300       400       500       600
+
+ V.A. (i%)      10%      -1000   181,82   247,93    300,53    341,51    372,55
+
+    V.A.N. (i%)       444,34
+       T.I.R.            23,3%
+       PERÍODO             0       1        2         3         4         5
+
+ Proyecto de DesInversión
+        FLUJO           800       -100     -150      -200      -250      -300
+
+ V.A. (i%)      10%       800    -90,91   -123,97   -150,26   -170,75   -186,28
+
+    V.A.N. (i%)          77,83
+       T.I.R.            6,7%
+                                                               53
+
+===== PAGINA 54 =====
+
+ TIR-VAN
+
+
+               Inversión   Desinversión
+
+
+VAN a Trema
+
+
+TIR vs Trema
+
+
+                             54
+
+===== PAGINA 55 =====
+
+ TIR-VAN
+
+
+               Inversión   Desinversión
+
+
+VAN a Trema      >0               >0
+
+
+TIR vs Trema      >               <
+
+                             55
+
+===== PAGINA 56 =====
+
+ TIR y proyectos excluyentes: el análisis
+ incremental
+
+                                               Inversión     Flujo año 1           TIR           VAN al 10%
+
+ Proyecto A (línea chica)                        100             130              30,0%             18,18
+
+ Proyecto B (planta nueva)                      1.000           1.250             25,0%            136,36
+
+ Incremental (B − A)                             900            1.120             24,4%            118,18
+
+
+  El conflicto                                             La solución
+  • La TIR ordena A (30%) > B (25%).                       • Evaluar el proyecto incremental B − A: TIR 24,4% >
+  • El VAN ordena B (136) > A (18).                          10%.
+  • La TIR ignora la escala de la inversión.               • La inversión adicional de 900 rinde más que el
+                                                             costo del capital.
+                                                           • Se elige B, igual que con el VAN.
+
+
+
+
+Ejemplo ilustrativo (montos en millones).
+
+===== PAGINA 57 =====
+
+ Índice de Rentabilidad (IR / PI) y
+ racionamiento de capital
+
+                       IR = VP de los flujos futuros / Inversión = 1 + VAN / I
+
+              Proyecto               Inversión            VP flujos                VAN                IR
+
+ P1                                     40                    55                    15               1,38
+
+ P2                                     60                    75                    15               1,25
+
+ P3                                     30                    36                    6                1,20
+
+ P4                                     50                    62                    12               1,24
+
+
+   Presupuesto limitado a US$ 100 millones (cifras en US$ millones)
+   • Se ordena por IR y se completa el presupuesto: P1 (1,38) y P2 (1,25) usan 100 y suman VAN 30.
+   • Límite: con proyectos indivisibles o excluyentes conviene comparar todas las combinaciones.
+
+
+
+
+Ejemplo ilustrativo.
+
+===== PAGINA 58 =====
+
+TIR MODIFICADA
+
+Corrige problema de la reinversión de la TIR tradicional y
+asegura un valor único ante cambios de signos del FC.
+
+■   Lleva todos los Egresos al momento 0 usando la tasa de
+    financiamiento.                                                          TIRM es más realista
+■   Lleva todos los Ingresos al momento final usando la TREMA.         Siempre será menor a la TIR (si TIR > TREMA) y
+■   Calcula la tasa que iguala ese valor presente con ese valor               mayor si el proyecto era malo.
+    futuro.
+
+         EGRESOS                                                                                          INGRESOS
+                                  Descuento a Costo Financiamiento
+
+        Momento 0                                                 Capitalización a la TREMA             Momento Final
+
+===== PAGINA 59 =====
+
+Reinversión de flujos intermedios
+Alternativa I
+Compro Bono en el momento 0 por $ 100, que paga $ 250 dentro de 5 años
+
+Alternativa II
+Compro Bono en el momento 0 por $ 100, que paga $ 40 en forma anual durante 5 años
+
+Año                     0          1          2          3          4           5
+FF (I)              -100           0          0          0          0        250
+
+VAN (10%)          55,23
+TIR (I)           20,1%
+
+FF (II)             -100          40        40          40         40         40
+
+VAN (10%)          51,63
+TIR (II)          28,6%
+TIRM (II)         19,6%
+                                                              59
+
+Considerando reinversión al 10%
+
+===== PAGINA 60 =====
+
+         LOMAS
+
+
+    Ejemplo de TER (TREMA 10%)
+     La TiR es 18% y el VAN 19$>0
+
+   0             1             2           3
+         10%
+
+-100.0         10.0         60.0          80.0
+                                   10%
+                                          66.0
+                      10%
+                                          12.1
+                 TER = 16.5%
+                                         158.1
+
+===== PAGINA 61 =====
+
+PERÍODO DE RECUPERO (SIMPLE)
+
+Mide riesgo y liquidez. ¿Cuándo dejo de estar expuesto?
+                                                          Año    Flujo Neto        Flujo Acumulado
+
+
+
+  Concepto                                                 0        - $100               - $100
+
+
+  Tiempo que le toma al proyecto devolver la
+                                                           1        + $40                - $60
+  inversión original.
+
+  Limitaciones                                             2        + $50                - $10
+
+  ■   Ignora los flujos que ocurren después de
+      recuperar la inversión.                              3        + $30          + $20 (Recupero)
+
+  ■   El "Simple" ignora el valor tiempo del dinero
+                                                           4        + $100        Ignorado por payback
+      (solución: usar Payback Actualizado).
+
+
+                                                           TR = 2 años, 4 meses
+
+===== PAGINA 62 =====
+
+Método del Período de Recupero
+Razones de su uso
+
+
+  Ayuda a controlar los riesgos asociados con la
+   incertidumbre de los flujos de caja futuros.
+  Ayuda a minimizar el impacto de la inversión
+   sobre la liquidez de la empresa.
+  Ayuda a controlar el riesgo de obsolescencia.
+  Ayuda a controlar el efecto de la inversión en
+   relación a las medidas de performance.
+
+===== PAGINA 63 =====
+
+Método del Período de Recupero
+Otro ejemplo
+
+
+       Año     A         B        C
+       0     -1,000    -2,500    -1000
+       1        400       200    1,000
+       2        400       700
+       3        400     1,200
+       4        400     2,000
+       PR        2.5       3.2      1
+
+===== PAGINA 64 =====
+
+Método del Período de Recupero
+Otro ejemplo
+
+
+  ¿Cuál se prefiere?
+  Se prefiere aquella que tenga menor PR. Según
+   esto, la alternativa C debe escogerse por tener
+   un Período de Repago menor y claramente,
+   cualquiera de las otras alternativas es mejor
+   que la seleccionada. Usar el Período de Repago
+   es una forma de protegerse contra el riesgo.
+
+===== PAGINA 65 =====
+
+Método del Período de Recupero
+Deficiencias
+
+   Ignora el valor
+    tiempo del dinero
+   Ignora la
+    performance de la
+    inversión más allá
+    de la fecha de
+    recuperación.
+
+===== PAGINA 66 =====
+
+PERÍODO DE RECUPERO (DESCONTADO)
+
+Mide riesgo y liquidez. ¿Cuándo dejo de estar expuesto?
+                                                                              Flujo Neto Desc       Flujo
+                                                          Año Flujo Neto
+                                                                                    (10%)        Acumulado
+
+
+  Concepto                                                 0        - $100          - $100          - $100
+
+
+  Tiempo que le toma al proyecto devolver la
+                                                           1        + $40           + $36           - $64
+  inversión original, actualizando los valores al VP.
+
+  Limitaciones                                             2        + $50           + $41           - $22
+
+  ■   Ignora los flujos que ocurren después de
+                                                                                                    + $0
+      recuperar la inversión.                              3        + $30           + $23
+                                                                                                 (Recupero)
+
+                                                                                                 Ignorado por
+                                                           4        + $100          + $68
+                                                                                                    payback
+
+
+                                                               TR = 2 años, 11 meses y 26 días
+
+===== PAGINA 67 =====
+
+       Período de Recupero
+
+     PERÍODO           0     1       2       3       4         5       6
+       FLUJO         -100    10      20      30      40        50      60
+
+V.A. (i%)      10%   -100   9,09    16,53   22,54   27,32     31,05   33,87
+
+   F. FONDOS         -100   -90      -70     -40     0         50     110
+  ACUMULADO
+Período de Recupero SIMPLE                           4
+
+F. F. DESCONTADO     -100   -90,9   -74,4   -51,8   -24,5      6,5    40,4
+    ACUMULADO
+Período de Recupero ACTUALIZADO                          67
+                                                               4,8
+
+===== PAGINA 68 =====
+
+Máxima Exposición
+ Indica el máximo endeudamiento de la empresa a
+  causa del proyecto
+ Valor máximo negativo de los flujos de caja
+  acumulados
+ Ejemplo:   Año    Flujo Caja     Acumulado
+                0       ($200,0)      ($200,0)
+                1        ($70,0)      ($270,0)
+                2        $110,0       ($160,0)
+                3        $120,0        ($40,0)
+                4        $150,0        $110,0
+                5        $200,0        $310,0
+
+    Máxima exposición= $270
+
+===== PAGINA 69 =====
+
+ Ejemplo actual: recupero y máxima
+ exposición del pozo
+
+               Flujo acumulado (US$ millones, precio US$ 60/bbl)                               Recupero simple
+  20
+                                                                                              1,69 años
+  15
+
+  10
+
+   5                                                                                      Recupero descontado (15%)
+   0                                                                                          2,52 años
+  -5
+
+ -10
+
+ -15                                                                                          Máxima exposición
+
+ -20
+           0        1        2        3        4         5        6        7          8
+                                                                                               US$ 14 M
+                                                                                          el costo del pozo, en el año 0
+                                              Año
+
+               Flujo acumulado simple           Flujo acumulado descontado (15%)
+
+
+
+
+Modelo propio con insumos del estudio de Aleph Energy (El Economista, 11-jun-2025).
+
+===== PAGINA 70 =====
+
+Valor Anual Equivalente
+          Renta Anual de flujos de caja que es equivalente a todos los
+           ingresos y egresos evaluados a la tasa de descuento
+          VA = VAN/ factor vp(a,i)
+
+                      $      $
+                 $
+           $
+                                                             VAN
+   0       1    2     3
+                              tie
+                             Nm     equivalente
+                 i            po
+
+
+
+   $
+
+
+
+
+                                                    VA
+           equivalente
+                                    0   1   2   3        n
+
+===== PAGINA 71 =====
+
+Valor Anual Equivalente
+
+
+ Decisión:
+   La inversión es aceptable si VA     $0
+ Proyectos de Costos; VA= Costo Anual
+  Equivalente
+ Ejemplo: VAN= $2.872
+
+
+                        VAN     $2.872
+                VA =          =        =
+                     f (2;12%) 1,690
+   Valor Anual =   $1.699,6
+
+===== PAGINA 72 =====
+
+ Ejemplo: comparar equipos con vidas
+ distintas (costo anual equivalente)
+
+                                                            Equipo A                   Equipo B
+
+ Inversión inicial ($)                                      100.000                    150.000
+
+ Costo operativo anual ($)                                   20.000                     12.000
+
+ Vida útil (años)                                              3                           5
+
+ VP de los costos al 12% ($)                                148.037                    193.257
+
+ Costo anual equivalente ($/año)                            61.635                      53.611
+
+
+
+   Lectura: el equipo B tiene mayor VP de costos (193.257 contra 148.037), pero dura más. Por año
+   cuesta menos (53.611 contra 61.635): conviene B.
+   CAE = VP de los costos / factor de anualidad (i, n).
+
+
+
+Ejemplo ilustrativo.
+
+===== PAGINA 73 =====
+
+Tasa Contable de Retorno
+(TCR)
+ TCR = Utilidad Promedio Anual/Inversión Promedio
+
+Tanto la utilidad promedio como la inversión
+promedio se consideran en base incremental
+
+
+   Ejemplo: Un nuevo equipo requiere una inversión inicial
+            de $80,000 y promete economías anuales
+            después de impuestos de $12.000 en cada uno de
+            los próximos 5 años (la vida de la máquina).
+            Cuál es la TCR?
+
+===== PAGINA 74 =====
+
+Tasa Contable de Retorno
+(TCR)(cont.)
+
+ Respuesta: la utilidad media es $12,000 y la inversión
+           media es $80.000/2 = (VO – VR)/2 = $40.000
+
+ TCR        =   $12.000 /$40,000
+            =   30%
+
+===== PAGINA 75 =====
+
+  Tasa Contable de Retorno (TCR)(cont.)
+
+                 Posibles razones de su uso
+     Una medida para tamizar inversiones de manera que
+      no afecten adversamente a la utilidad neta.
+     Para asegurar un efecto favorable en la utilidad neta
+      de manera de cobrar un bonus atado a dicha meta.
+
+                    Inconvenientes
+La mayor deficiencia de la TCR es que no tiene en
+cuenta el valor tiempo del dinero y utiliza criterios
+contables para la evaluación.
+
+===== PAGINA 76 =====
+
+ TCR vs. TIR: el mismo proyecto, dos
+ mensajes
+
+                     Medida                                Resultado                                   Base
+
+
+ TCR = 12.000 / 40.000                                        30,0%              Utilidad contable / inversión promedio
+
+
+ TIR (flujo anual de 28.000)                                  22,1%              Flujos de caja (utilidad + amortización)
+
+
+ VAN al 12%                                                 $ 20.934             Flujos de caja descontados
+
+
+   Cómo leerlo
+   • Supuesto: los $12.000 son utilidad contable, después de amortizar $80.000 / 5 = $16.000 por año; el flujo de
+     caja es $28.000.
+   • La TCR (30%) y la TIR (22,1%) miden cosas distintas: la primera no considera el valor tiempo del dinero.
+   • Solo la TIR (o el VAN) se compara con el costo del capital.
+
+
+
+
+Datos del ejemplo del curso (TCR); interpretación de la utilidad como contable: supuesto.
+
+===== PAGINA 77 =====
+
+ Síntesis: ¿qué criterio usar y cuándo?
+
+
+       Criterio                       Qué mide                                 Regla                             Limitación
+
+
+ VAN                     Valor creado en pesos de hoy           Aceptar si VAN > 0                   Depende de la tasa; no da %
+
+
+ TIR                     Rentabilidad en %                      Aceptar si TIR > costo del capital   Múltiples TIR; escala; reinversión
+
+
+ TIRM / TER              TIR con reinversión explícita          Comparar con TREMA                   Requiere tasa de reinversión
+
+
+ IR (PI)                 VAN por peso invertido                 IR > 1; ordenar con presupuesto      Excluyentes e indivisibles
+
+                                                                                                     Ignora valor tiempo y flujos
+ Recupero                Tiempo de repago                       Menor es mejor
+                                                                                                     posteriores
+
+ VAE / CAE               VAN como renta anual                   Mayor VAE / menor CAE                Supone repetición del proyecto
+
+
+ TCR                     Utilidad contable / inversión          Mayor es mejor                       Base contable; sin valor tiempo
+
+
+Síntesis de los criterios desarrollados en esta presentación.
+
+===== PAGINA 78 =====
+
+ Ejercicios propuestos
+
+
+                  VAN, TIR y recupero
+    1             Un proyecto requiere $500 hoy y devuelve $200, $250 y $300 en los años 1 a 3. Con tasa de
+                  descuento 12%, calcule VAN, TIR y período de recupero. ¿Se acepta?
+
+
+
+
+                  Tasa real y nominal
+    2             Con inflación esperada de 30% anual y tasa real exigida de 8%, ¿cuál es la tasa nominal? Valúe el
+                  flujo −100, +60, +60 en términos reales y nominales y verifique que el VAN coincide.
+
+
+
+
+                  Un pozo de petróleo
+    3             Con el modelo del pozo de Vaca Muerta (US$ 14 M, precio de equilibrio US$ 45): ¿qué pasa con el
+                  VAN al 15% si el precio realizado cae a US$ 40? ¿Qué decisión tomaría?
+
+
+
+Las soluciones están en las notas del orador de esta diapositiva.
+
+===== PAGINA 79 =====
+
+Fuentes de los datos de actualidad
+
+
+Inflación y mercado (2026)
+• INDEC: IPC de agosto 2026 (1,7% m/m; 33,5% i.a.; 21,3% acumulada) vía El Economista, 10-sep-2026.
+• Infobae, 7-oct-2026: riesgo país 586 pb, dólar mayorista $1.517, bono del Tesoro de EE.UU. a 10 años
+  5,28%.
+• GBM, 17-sep-2026: la Fed subió tasas el 16-sep (primera suba desde 2023).
+• iProUP, 2-sep-2026: plazo fijo, TNA promedio ≈ 21% (relevamiento BCRA).
+• Damodaran (vía BVWire, ene-2026): prima de riesgo implícita de EE.UU. 4,23%.
+Casos reales
+• El Economista (11-jun-2025): costos y precio de equilibrio de un pozo en Vaca Muerta (Aleph Energy).
+• El Economista (ago-2026): Tecpetrol, Los Toldos II Este, US$ 6.400 M y 70.000 bpd.
+• Reporte Minero (27-jul-2026): Rio Tinto, Rincón, Fénix 1B y Sal de Vida.
+Nota: los ejemplos marcados “ilustrativo” y los supuestos (beta, costo de la deuda, estructura) son números
+didácticos, no datos de mercado.
+

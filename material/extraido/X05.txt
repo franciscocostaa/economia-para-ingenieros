@@ -1,0 +1,85 @@
+FUENTE: X05
+TITULO: Segundo parcial 1C2023 resuelto (no oficial)
+ORIGINAL: material/externo/2P - 1C2023.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+IMAGEN en B3: material/figuras/X05-hoja1-img1.png
+B2: Ejercicio 1 | I2: Respuesas
+I3: a) Verdadero, porque se obtiene de Kt=AC-PC, lo que equivale a la parte del activo corriente financiada con recursos permanentes (patrimonio + pasivo de largo plazo), no con deudas de corto plazo.
+I6: b) Falso, porque las ventas se registran como ingresos al momento de realizarse la acción por el principio de lo devengado.
+I8: c) Falso, porque al vender a crédito no le ingresa efectivo, por lo que por más que aumente sus ventas no cambiará su nivel de caja.
+I10: d) Falso. La compra a 45 días no impacta el resultado en el momento, solo cambia el balance. En devengado, el gasto se reconoce cuando se vende la mercadería, no cuando se compra
+I12: e) Falso, los costos fijos de estructura prorrateados son comunes (no varían con la eliminación) y, por tanto, irrelevantes para la decisión.
+I14: f) Falso, no son ahorros en efectivo, sino una cuenta contable de valuación (restan al activo fijo) que acumula cargos no monetarios.
+I16: g) Verdadero, pues el capital de trabajo es Kt = AC - PC, y al otorgar créditos a los clientes se están incrementando los pasivos corrientes.
+I18: h) Falso, pues comprar un bien de uso financiado a 5 años afecta activo no corriente (aumenta bienes de uso) y pasivo no corriente (aumenta deuda LP), no el activo ni pasivo corrientes.
+
+===== HOJA 2: Ejercicio 2 =====
+
+IMAGEN en B3: material/figuras/X05-hoja2-img1.png
+B2: Ejercicio 2
+B14: Datos | E14: Opción (i) - Bullet | H14: Opción (ii) - Francés | N14: Opción (iii) - Perpetuidad
+B15: Monto | C15: 1.5e+06 | E15: TEA | F15: 0.0312403 [=C26] | H15: Año | I15: 1 | J15: 2 | K15: 3 | L15: 2025-04-15 00:00:00 | N15: Monto | O15: 50000
+B16: TNA (i) | C16: 0.031 | E16: VP (Total) | F16: 1500000 [=C15] | H16: Cuota | I16: 103000 | J16: 103000 | K16: 103000 | L16: 103000 | N16: VP | O16: 1.6005e+06 [=O15/F15]
+B17: Capit. (i) | C17: Semestral | H17: Interés | I17: 46500 [=C15*C28] | J17: 44748.5 [=I19*C28] | K17: 42942.7 [=J19*C28] | L17: -
+B18: Plazo (i - años) | C18: 15 | H18: Amort. | I18: 56500 [=I16-I17] | J18: 58251.5 [=J16-J17] | K18: 60057.3 [=K16-K17] | L18: -
+B19: Plazo (ii - años) | C19: 20 | E19: Respuesta (a) | H19: Saldo | I19: 1443500 [=C15-I18] | J19: 1.38525e+06 [=C15-SUM(I18:J18)] | K19: 1.32519e+06 [=C15-SUM(I18:K18)] | L19: -
+B20: Cuota (ii) | C20: 103000 | E20: Como el VP del Bullet es el más bajo, conviene financiarse con ese. | H20: VP (Total) | I20: 1.51496e+06 [=SUM(J24:J43)]
+B21: TEA (ii) | C21: 0.031
+B22: Perpetuidad (iii) | C22: 50000 | H22: Factores VP
+B23: Inflación (anual) | C23: 0.01 | H23: Año | I23: Factor | J23: VP (Cuota)
+H24: 1 | I24: 0.969706 [=1/((1+0.03124025)^H24)] | J24: 99879.7 [=I24*103000]
+B25: Auxiliar | E25: Tasa Real con Inflación | H25: 2 | I25: 0.94033 [=1/((1+0.03124025)^H25)] | J25: 96854 [=I25*103000]
+B26: TEA (i) | C26: 0.0312403 [=(1+C16/2)^2-1] | E26: Tasa Real | F26: 0.0207921 [=(1+C21)/(1+C23)-1] | H26: 3 | I26: 0.911844 [=1/((1+0.03124025)^H26)] | J26: 93919.9 [=I26*103000]
+B27: TES (i) | C27: 0.0155 [=(1+C26)^(1/2)-1] | H27: 4 | I27: 0.88422 [=1/((1+0.03124025)^H27)] | J27: 91074.7 [=I27*103000]
+B28: TEA (ii) | C28: 0.031 [=C16] | H28: 5 | I28: 0.857434 [=1/((1+0.03124025)^H28)] | J28: 88315.7 [=I28*103000]
+H29: 6 | I29: 0.831459 [=1/((1+0.03124025)^H29)] | J29: 85640.3 [=I29*103000]
+H30: 7 | I30: 0.806271 [=1/((1+0.03124025)^H30)] | J30: 83045.9 [=I30*103000]
+H31: 8 | I31: 0.781846 [=1/((1+0.03124025)^H31)] | J31: 80530.1 [=I31*103000]
+H32: 9 | I32: 0.758161 [=1/((1+0.03124025)^H32)] | J32: 78090.6 [=I32*103000]
+H33: 10 | I33: 0.735193 [=1/((1+0.03124025)^H33)] | J33: 75724.9 [=I33*103000]
+H34: 11 | I34: 0.712921 [=1/((1+0.03124025)^H34)] | J34: 73430.9 [=I34*103000]
+H35: 12 | I35: 0.691324 [=1/((1+0.03124025)^H35)] | J35: 71206.4 [=I35*103000]
+H36: 13 | I36: 0.670381 [=1/((1+0.03124025)^H36)] | J36: 69049.3 [=I36*103000]
+H37: 14 | I37: 0.650073 [=1/((1+0.03124025)^H37)] | J37: 66957.5 [=I37*103000]
+H38: 15 | I38: 0.63038 [=1/((1+0.03124025)^H38)] | J38: 64929.1 [=I38*103000]
+H39: 16 | I39: 0.611283 [=1/((1+0.03124025)^H39)] | J39: 62962.1 [=I39*103000]
+H40: 17 | I40: 0.592765 [=1/((1+0.03124025)^H40)] | J40: 61054.8 [=I40*103000]
+H41: 18 | I41: 0.574808 [=1/((1+0.03124025)^H41)] | J41: 59205.2 [=I41*103000]
+H42: 19 | I42: 0.557395 [=1/((1+0.03124025)^H42)] | J42: 57411.6 [=I42*103000]
+H43: 20 | I43: 0.540509 [=1/((1+0.03124025)^H43)] | J43: 55672.4 [=I43*103000]
+
+===== HOJA 3: Ejercicio 3 =====
+
+IMAGEN en B3: material/figuras/X05-hoja3-img1.png
+B2: Ejercicio 3 | I2: → Repetido 2C2018
+B21: Datos | E21: Cuadro de Resultados
+B22: Prod. (x año) | C22: 10000 | E22: Año | F22: 0 | G22: 1 | H22: 2 | I22: 3 | J22: 4 | K22: 5 | L22: 6 | M22: 7 | N22: 8 | O22: 9 | P22: 10 | Q22: 11 | R22: 12 | S22: 13 | T22: 14 | U22: 15
+B23: Perd. (x Tn) | C23: 2 | E23: Var. Ingresos | F23: 0 | G23: 1300000 [=C44] | H23: 1300000 [=C44] | I23: 1300000 [=C44] | J23: 1300000 [=C44] | K23: 1300000 [=C44] | L23: 1300000 [=C44] | M23: 1300000 [=C44] | N23: 1300000 [=C44] | O23: 1300000 [=C44] | P23: 1300000 [=C44] | Q23: 1300000 [=C44] | R23: 1300000 [=C44] | S23: 1300000 [=C44] | T23: 1300000 [=C44] | U23: 1300000 [=C44]
+B24: Vt. GN (x Mm3) | C24: 200 | E24: Costos Fijos | F24: 0 | G24: -300000 [=-C35] | H24: -300000 [=-C35] | I24: -300000 [=-C35] | J24: -300000 [=-C35] | K24: -300000 [=-C35] | L24: -300000 [=-C35] | M24: -300000 [=-C35] | N24: -300000 [=-C35] | O24: -300000 [=-C35] | P24: -300000 [=-C35] | Q24: -300000 [=-C35] | R24: -300000 [=-C35] | S24: -300000 [=-C35] | T24: -300000 [=-C35] | U24: -300000 [=-C35]
+B25: Vt. L GLP (x Tn) | C25: 500 | E25: Salarios | F25: 0 | G25: -210000 [=-C34] | H25: -210000 [=-C34] | I25: -210000 [=-C34] | J25: -210000 [=-C34] | K25: -210000 [=-C34] | L25: -210000 [=-C34] | M25: -210000 [=-C34] | N25: -210000 [=-C34] | O25: -210000 [=-C34] | P25: -210000 [=-C34] | Q25: -210000 [=-C34] | R25: -210000 [=-C34] | S25: -210000 [=-C34] | T25: -210000 [=-C34] | U25: -210000 [=-C34]
+B26: Vt. E GLP (x Tn) | C26: 600 | E26: EBITDA | F26: 0 [=SUM(F23:F25)] | G26: 790000 [=SUM(G23:G25)] | H26: 790000 [=SUM(H23:H25)] | I26: 790000 [=SUM(I23:I25)] | J26: 790000 [=SUM(J23:J25)] | K26: 790000 [=SUM(K23:K25)] | L26: 790000 [=SUM(L23:L25)] | M26: 790000 [=SUM(M23:M25)] | N26: 790000 [=SUM(N23:N25)] | O26: 790000 [=SUM(O23:O25)] | P26: 790000 [=SUM(P23:P25)] | Q26: 790000 [=SUM(Q23:Q25)] | R26: 790000 [=SUM(R23:R25)] | S26: 790000 [=SUM(S23:S25)] | T26: 790000 [=SUM(T23:T25)] | U26: 790000 [=SUM(U23:U25)]
+B27: Venta Local | C27: 0.7 | E27: Res. Venta | F27: 0 | G27: 0 | H27: 0 | I27: 0 | J27: 0 | K27: 0 | L27: 0 | M27: 0 | N27: 0 | O27: 0 | P27: 0 | Q27: 0 | R27: 0 | S27: 0 | T27: 0 | U27: 500000 [=C48]
+B28: Exportaciones | C28: 0.3 | E28: Perd. Kt. | F28: 0 | G28: 0 | H28: 0 | I28: 0 | J28: 0 | K28: 0 | L28: 0 | M28: 0 | N28: 0 | O28: 0 | P28: 0 | Q28: 0 | R28: 0 | S28: 0 | T28: 0 | U28: -200000 [=-C49]
+B29: Inv. BU | C29: 1800000 [=1000000+5*100000+200000+100000] | E29: Amort. | F29: 0 | G29: -120000 [=-C47] | H29: -120000 [=-C47] | I29: -120000 [=-C47] | J29: -120000 [=-C47] | K29: -120000 [=-C47] | L29: -120000 [=-C47] | M29: -120000 [=-C47] | N29: -120000 [=-C47] | O29: -120000 [=-C47] | P29: -120000 [=-C47] | Q29: -120000 [=-C47] | R29: -120000 [=-C47] | S29: -120000 [=-C47] | T29: -120000 [=-C47] | U29: -120000 [=-C47]
+B30: VRC (15 años) | C30: 0 | E30: EBIT | F30: 0 [=F26+SUM(F27:F29)] | G30: 670000 [=G26+SUM(G27:G29)] | H30: 670000 [=H26+SUM(H27:H29)] | I30: 670000 [=I26+SUM(I27:I29)] | J30: 670000 [=J26+SUM(J27:J29)] | K30: 670000 [=K26+SUM(K27:K29)] | L30: 670000 [=L26+SUM(L27:L29)] | M30: 670000 [=M26+SUM(M27:M29)] | N30: 670000 [=N26+SUM(N27:N29)] | O30: 670000 [=O26+SUM(O27:O29)] | P30: 670000 [=P26+SUM(P27:P29)] | Q30: 670000 [=Q26+SUM(Q27:Q29)] | R30: 670000 [=R26+SUM(R27:R29)] | S30: 670000 [=S26+SUM(S27:S29)] | T30: 670000 [=T26+SUM(T27:T29)] | U30: 970000 [=U26+SUM(U27:U29)]
+B31: VRM | C31: 500000 | E31: I.G. | F31: 0 [=F30*C37] | G31: -234500 [=-G30*C37] | H31: -234500 [=-H30*C37] | I31: -234500 [=-I30*C37] | J31: -234500 [=-J30*C37] | K31: -234500 [=-K30*C37] | L31: -234500 [=-L30*C37] | M31: -234500 [=-M30*C37] | N31: -234500 [=-N30*C37] | O31: -234500 [=-O30*C37] | P31: -234500 [=-P30*C37] | Q31: -234500 [=-Q30*C37] | R31: -234500 [=-R30*C37] | S31: -234500 [=-S30*C37] | T31: -234500 [=-T30*C37] | U31: -339500 [=-U30*C37]
+B32: Kt. | C32: 500000 | E32: U. Neta | F32: 0 [=SUM(F30:F31)] | G32: 435500 [=SUM(G30:G31)] | H32: 435500 [=SUM(H30:H31)] | I32: 435500 [=SUM(I30:I31)] | J32: 435500 [=SUM(J30:J31)] | K32: 435500 [=SUM(K30:K31)] | L32: 435500 [=SUM(L30:L31)] | M32: 435500 [=SUM(M30:M31)] | N32: 435500 [=SUM(N30:N31)] | O32: 435500 [=SUM(O30:O31)] | P32: 435500 [=SUM(P30:P31)] | Q32: 435500 [=SUM(Q30:Q31)] | R32: 435500 [=SUM(R30:R31)] | S32: 435500 [=SUM(S30:S31)] | T32: 435500 [=SUM(T30:T31)] | U32: 630500 [=SUM(U30:U31)]
+B33: Recup. Kt. | C33: 0.6
+B34: Salarios (anual) | C34: 210000 | E34: Flujo de Fondos
+B35: Cost. Fijo (anual) | C35: 300000 | E35: Año | F35: 0 | G35: 1 | H35: 2 | I35: 3 | J35: 4 | K35: 5 | L35: 6 | M35: 7 | N35: 8 | O35: 9 | P35: 10 | Q35: 11 | R35: 12 | S35: 13 | T35: 14 | U35: 15
+B36: TREMA | C36: 0.15 | E36: EBITDA | F36: 0 | G36: 790000 [=G26] | H36: 790000 [=H26] | I36: 790000 [=I26] | J36: 790000 [=J26] | K36: 790000 [=K26] | L36: 790000 [=L26] | M36: 790000 [=M26] | N36: 790000 [=N26] | O36: 790000 [=O26] | P36: 790000 [=P26] | Q36: 790000 [=Q26] | R36: 790000 [=R26] | S36: 790000 [=S26] | T36: 790000 [=T26] | U36: 790000 [=U26]
+B37: I.G. | C37: 0.35 | E37: Inv. BU | F37: -1800000 [=-C29] | G37: 0 | H37: 0 | I37: 0 | J37: 0 | K37: 0 | L37: 0 | M37: 0 | N37: 0 | O37: 0 | P37: 0 | Q37: 0 | R37: 0 | S37: 0 | T37: 0 | U37: 0
+E38: Venta. BU | F38: 0 | G38: 0 | H38: 0 | I38: 0 | J38: 0 | K38: 0 | L38: 0 | M38: 0 | N38: 0 | O38: 0 | P38: 0 | Q38: 0 | R38: 0 | S38: 0 | T38: 0 | U38: 500000 [=C31]
+B39: Auxiliar | E39: Kt. | F39: -500000 [=-C32] | G39: 0 | H39: 0 | I39: 0 | J39: 0 | K39: 0 | L39: 0 | M39: 0 | N39: 0 | O39: 0 | P39: 0 | Q39: 0 | R39: 0 | S39: 0 | T39: 0 | U39: 300000 [=C32*C33]
+B40: GN No Vendido | C40: 20000 [=C22*C23] | E40: I.G. | F40: 0 [=F31] | G40: -234500 [=G31] | H40: -234500 [=H31] | I40: -234500 [=I31] | J40: -234500 [=J31] | K40: -234500 [=K31] | L40: -234500 [=L31] | M40: -234500 [=M31] | N40: -234500 [=N31] | O40: -234500 [=O31] | P40: -234500 [=P31] | Q40: -234500 [=Q31] | R40: -234500 [=R31] | S40: -234500 [=S31] | T40: -234500 [=T31] | U40: -339500 [=U31]
+B41: Monto x GNNV | C41: 4000000 [=C40*C24] | E41: FF | F41: -2300000 [=SUM(F36:F40)] | G41: 555500 [=SUM(G36:G40)] | H41: 555500 [=SUM(H36:H40)] | I41: 555500 [=SUM(I36:I40)] | J41: 555500 [=SUM(J36:J40)] | K41: 555500 [=SUM(K36:K40)] | L41: 555500 [=SUM(L36:L40)] | M41: 555500 [=SUM(M36:M40)] | N41: 555500 [=SUM(N36:N40)] | O41: 555500 [=SUM(O36:O40)] | P41: 555500 [=SUM(P36:P40)] | Q41: 555500 [=SUM(Q36:Q40)] | R41: 555500 [=SUM(R36:R40)] | S41: 555500 [=SUM(S36:S40)] | T41: 555500 [=SUM(T36:T40)] | U41: 1250500 [=SUM(U36:U40)]
+B42: Vt. Loc GLP | C42: 3500000 [=C22*C27*C25] | E42: VAN | F42: 1.03363e+06 [=NPV(C36,G41:U41)+F41] | G42: → Se acepta
+B43: Vt. Exp GLP | C43: 1800000 [=C22*C28*C26]
+B44: Var. Ingresos | C44: 1300000 [=C42+C43-C41]
+B45: Base Amort | C45: 1800000 [=C29-C30]
+B46: Años | C46: 15
+B47: Amort. Fisc. An. | C47: 120000 [=C45/C46]
+B48: Res. Venta Maq. | C48: 500000 [=C31-(C29-C47*C46)]
+B49: Pérdida Kt. | C49: 200000 [=C32-(C32*C33)]

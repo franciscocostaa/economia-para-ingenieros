@@ -1,0 +1,125 @@
+FUENTE: P02
+TITULO: Segundo parcial 16/06/2026 (tema 1)
+ORIGINAL: material/catedra/practica/P2 16062026.pdf
+PAGINAS: 2
+
+===== PAGINA 1 =====
+
+Economía para Ingenieros          -          2° PARCIAL                       16/06/2026                    Tema 1
+Tener presente lo siguiente:
+a) No podrán prestarse calculadoras.
+b) No se contestara ninguna pregunta. Ante cualquier duda haga una suposición y justifíquela por escrito.
+
+Preguntas Teóricas
+1)Indique si los siguientes enunciados son Verdaderos o Falsos justificando su respuesta (sin justificación se
+invalidará la misma)
+    a) Ante un aumento de los costos variables unitarios si una empresa incrementa sus costos fijos y, al mismo
+        tiempo, aumenta el precio de venta unitario en una proporción que mantiene el margen de contribución
+        unitario constante, el punto de equilibrio en unidades siempre aumentará.
+    b) Un aumento del apalancamiento financiero incrementa el riesgo del accionista.
+
+    c) Un aumento en la rotación de activos siempre implica una mejora en la rentabilidad operativa
+
+    d) El ROE puede aumentar aun cuando la Rentabilidad operativa disminuye.
+
+    e) Una empresa puede tener utilidad positiva y flujo de caja negativo.
+
+    f) El valor de la empresa depende más de los flujos de caja futuros que de los resultados contables actuales.
+    g) Si una empresa activa un gasto en lugar de reconocerlo como gasto corriente, aumenta su utilidad en el
+       corto plazo.
+
+    h) El índice de liquidez corriente puede mejorar si la empresa toma deuda de largo plazo para cancelar deuda
+       de corto plazo.
+
+    i)   El capital de trabajo operativo puede ser negativo en empresas financieramente saludables.
+
+    j)   Un aumento en la amortización reduce el flujo de caja operativo de la empresa.
+
+Problema 1
+Usted ingresa a inicio de junio 2026 a su nuevo trabajo como ingeniero de una Pyme. Analizando la situación financiera llega a la
+conclusión de que la misma posee actualmente dos préstamos con el mismo banco:
+         i. Préstamo sistema alemán: Monto emitido $1.000.000 a fin de diciembre 2025. 48 cuotas mensuales y TNA 12,5%
+              con capitalización trimestral.
+         ii. Préstamo sistema bullet: Monto emitido $500.000 a fin de diciembre 2025. Cuotas semestrales. Tasa semestral del
+              6% a pagar en 4 años.
+    a) ¿Cuánto pagará de interés con cada opción a fin del mes de diciembre 2026? ¿Cuál de los dos sistemas de préstamos
+         actuales es el más conveniente? Justifique numéricamente.
+    b) El banco le ofrece refinanciación bajo sistema francés en 25 cuotas a una tasa del 0.5% mensual. A concretarse a fin de
+         diciembre 2026 por el total adeudado entre los dos préstamos. ¿Cuál es el saldo deudor total a fin de diciembre 2026?
+         ¿Cuál es la nueva cuota de pago?
+
+
+Problema 2
+Ud. acaba de regresar de un intercambio académico en Francia, con la idea de instalar un emprendimiento para
+fabricación y venta de croissants. Para ello, creó la empresa MAXIMILIEN y contrató a una conocida consultora, la
+cual cobró $200 y le entregó el siguiente informe.
+ Su producto se podrá vender durante 5 años a un precio de $10 (100 unidades el 1er año; luego 200 unidades por
+año). MAXIMILIEN deberá invertir $1.000 en maquinarias, con vida técnica 10 años, y valor de mercado de $300 en
+los años 1 a 3, y $0 del año 4 en adelante. Los costos variables unitarios serán de $5. Los costos fijos nuevos serán de
+$200/año. La nueva línea será atendida por los 3 supervisores actuales, que deberán dedicar el 20% de su tiempo a
+la misma (sueldo anual de un supervisor: $1.000). Al cierre de cada año, tendrá Créditos con clientes por el 30% de
+las ventas de ese año, y Deudas con proveedores por el 20% de los costos variables de ese año. Los costos fijos se
+pagarán al contado. La maquinaria se amortiza en 10 años con valor de rezago contable nulo. El capital de trabajo se
+recupera completamente al finalizar el proyecto. IG 50%. Trema 10%.
+a) Evalúe el proyecto, y diga cuál es su recomendación de invertir o no
+
+===== PAGINA 2 =====
+
+Economía para Ingenieros          -          2° PARCIAL                       16/06/2026               Tema 2
+Tener presente lo siguiente:
+a) No podrán prestarse calculadoras.
+b) No se contestara ninguna pregunta. Ante cualquier duda haga una suposición y justifíquela por escrito.
+
+Preguntas Teóricas
+1)Indique si los siguientes enunciados son Verdaderos o Falsos justificando su respuesta (sin justificación se
+invalidará la misma)
+    a) Un aumento en la amortización reduce el flujo de caja operativo de la empresa.
+
+    b) Ante un aumento de los costos variables unitarios si una empresa incrementa sus costos fijos y, al mismo
+       tiempo, aumenta el precio de venta unitario en una proporción que mantiene el margen de contribución
+       unitario constante, el punto de equilibrio en unidades siempre aumentará.
+    c) Una empresa puede tener utilidad positiva y flujo de caja negativo.
+
+    d) Un aumento en la rotación de activos siempre implica una mejora en la rentabilidad operativa
+
+    e) El ROE puede aumentar aun cuando la Rentabilidad operativa disminuye.
+
+    f)   El índice de liquidez corriente puede mejorar si la empresa toma deuda de largo plazo para cancelar deuda
+         de corto plazo.
+
+    g) El valor de la empresa depende más de los flujos de caja futuros que de los resultados contables actuales.
+    h) Si una empresa activa un gasto en lugar de reconocerlo como gasto corriente, aumenta su utilidad en el
+       corto plazo.
+
+    i)   El capital de trabajo operativo puede ser negativo en empresas financieramente saludables.
+
+    j)   Un aumento del apalancamiento financiero incrementa el riesgo del accionista.
+
+Problema 1
+Usted ingresa a inicio de junio 2026 a su nuevo trabajo como ingeniero de una Pyme. Analizando la situación financiera llega a la
+conclusión de que la misma posee actualmente dos préstamos con el mismo banco:
+         iii. Préstamo sistema alemán: Monto emitido $10.000.000 a fin de diciembre 2025. 48 cuotas mensuales y TNA 12,5%
+              con capitalización trimestral.
+         iv. Préstamo sistema bullet: Monto emitido $5.000.000 a fin de diciembre 2025. Cuotas semestrales. Tasa semestral
+              del 6% a pagar en 4 años.
+    c) ¿Cuánto pagará de interés con cada opción a fin del mes de diciembre 2026? ¿Cuál de los dos sistemas de préstamos
+         actuales es el más conveniente? Justifique numéricamente.
+    d) El banco le ofrece refinanciación bajo sistema francés en 25 cuotas a una tasa del 0.7% mensual. A concretarse a fin de
+         diciembre 2026 por el total adeudado entre los dos préstamos. ¿Cuál es el saldo deudor total a fin de diciembre 2026?
+         ¿Cuál es la nueva cuota de pago?
+
+
+Problema 2
+Ud. acaba de regresar de un intercambio académico en Francia, con la idea de instalar un emprendimiento para
+fabricación y venta de croissants. Para ello, creó la empresa MAXIMILIEN y contrató a una conocida consultora, la
+cual cobró $100 y le entregó el siguiente informe.
+ Su producto se podrá vender durante 5 años a un precio de $10 (50 unidades el 1er año; luego 200 unidades por
+año). MAXIMILIEN deberá invertir $1.000 en maquinarias, con vida técnica 10 años, y valor de mercado de $300 en
+los años 1 a 3, y $0 del año 4 en adelante. Los costos variables unitarios serán de $5. Los costos fijos nuevos serán de
+$200/año. La nueva línea será atendida por los 3 supervisores actuales, que deberán dedicar el 20% de su tiempo a
+la misma (sueldo anual de un supervisor: $1.000). Al cierre de cada año, tendrá Créditos con clientes por el 20% de
+las ventas de ese año, y Deudas con proveedores por el 30% de los costos variables de ese año. Los costos fijos se
+pagarán al contado. La maquinaria se amortiza en 10 años con valor de rezago contable nulo. El capital de trabajo se
+recupera completamente al finalizar el proyecto. IG 50%. Trema 10%.
+a) Evalúe el proyecto, y diga cuál es su recomendación de invertir o no
+

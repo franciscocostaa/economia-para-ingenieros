@@ -1,0 +1,406 @@
+FUENTE: G01
+TITULO: Guía práctica (rev. mayo 2012)
+ORIGINAL: material/catedra/practica/12-05-07 GUIA_DE_EJERCICIOS__Economia_para_Ingenieros (rev.1).pdf
+PAGINAS: 10
+
+===== PAGINA 1 =====
+
+                                  OCTUBRE 2010
+
+                                 REV. MAYO 2012
+
+
+
+
+     Economía para Ingenieros
+
+
+                 GUIA PRÁCTICA
+
+
+
+
+AUTORES
+
+Ing. Daniel Dreizzen
+
+Ing. Federico Filgueira
+
+Ing. Julia Ventura
+
+Ing. Esteban Yáñez
+
+===== PAGINA 2 =====
+
+Contabilidad
+
+
+Contenido
+Parte 1. El Valor del Dinero en el Tiempo ..................................................................... 2
+   1.1. EJERCICIO 1 ..................................................................................................... 2
+   1.2. EJERCICIO 2 ..................................................................................................... 2
+   1.3. EJERCICIO 3 ..................................................................................................... 2
+   1.4. EJERCICIO 4 ..................................................................................................... 2
+   1.5. EJRECICIO 5 ..................................................................................................... 3
+   1.6. EJERCICIO 6 ..................................................................................................... 3
+   1.7. EJERCICIO 7 ..................................................................................................... 3
+   1.8. EJERCICIO 8 ..................................................................................................... 3
+   1.9. EJERCICIO 9 ..................................................................................................... 3
+   1.10. EJERCICIO 10 ................................................................................................. 4
+Parte 2. Evaluación de Proyectos ................................................................................. 5
+   2.1. EJERCICIO 1 ..................................................................................................... 5
+   2.2. EJERCICIO 2 ..................................................................................................... 5
+   2.3. EJERCICIO 3 ..................................................................................................... 5
+   2.4. EJERCICIO 4 ..................................................................................................... 6
+   2.5. EJERCICIO 5 ..................................................................................................... 6
+   2.6. EJERCICIO 6 ..................................................................................................... 6
+Parte 3. Análisis de Reemplazo .................................................................................... 9
+   3.1. EJERCICIO 1 ..................................................................................................... 9
+   3.2. EJERCICIO 2 ..................................................................................................... 9
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 3 =====
+
+El Valor del Dinero en el Tiempo
+
+
+Parte 1. El Valor del Dinero en el Tiempo
+1.1. EJERCICIO 1
+Está interesado en tomar un préstamo personal y tiene dos alternativas: en el Banco
+A cuya TNA es del 14% con capitalización mensual o en el Banco B con TNA del
+18% con capitalización trimestral. a) ¿Cuál tiene el mayor costo efectivo mensual y
+cuál el mayor costo efectivo anual? b) Si Ud. necesita $5.000 y lo pagará en 24
+cuotas mensuales iguales, ¿cuál será el monto de la cuota para cada caso?
+                                                                                         2
+1.2. EJERCICIO 2
+2.     Ud quiere llegar a la jubilación con ahorros suficientes. Le faltan 10 años aún
+y se pregunta cuanto tendrá que ahorrar por año, empezando el año que viene, para
+poder contar con las siguientes cantidades:
+
+a. $100.000 al final de cada año a perpetuidad, a partir del año 11
+
+b. Una perpetuidad que rinde $100.000 al final del año 11 y crece al 2% anual
+
+c. $100.000 al final de cada año, durante 20 años, a partir del año 11.
+
+La tasa de interés prevista es de 10%.
+
+1.3. EJERCICIO 3
+Luego del traslado de un depósito, sobra un galpón. El análisis de su destino
+corresponde al área de logística. Puede venderlo ahora en $100.000 o alquilarlo
+durante 3 años en $15.000/año y venderlo al final del cuarto en $80.000 (no se
+podrá alquilar en el año 4), ¿qué conviene más? Tasa de descuento 9% y tasa
+impositiva 0%.
+
+Si se puede alquilar en el año 4, ¿cambia su decisión?
+
+1.4. EJERCICIO 4
+Un préstamo de $3.000.000 se amortiza mediante 60 cuotas mensuales vencidas al
+2% mensual de interés, sistema francés. Determinar: a) Importe de la cuota de
+pago, b) total amortizado al fin del período 2, c) deuda después de pagadas 20
+cuotas, d) refinanciando el saldo al 2,5% en 40 cuotas, determine el importe de cada
+nueva cuota de pago, e) ¿en cuántos períodos se amortizará la deuda sabiendo que
+la tasa de interés aumenta al 2,5% y que no se modifica la cuota de pago?
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 4 =====
+
+El Valor del Dinero en el Tiempo
+
+
+1.5. EJRECICIO 5
+Una máquina se vende al contado en 200$ o financiada con 8 cuotas trimestrales
+iguales y consecutivas más 2 cuotas de refuerzo pagaderas con la 4ta. y la 8va.
+cuota trimestral. Cada cuota de refuerzo es igual a dos cuotas trimestrales. ¿Cuánto
+se pagará en el 4to trimestre? TNA con capitalización trimestral: 12%.
+
+1.6. EJERCICIO 6
+Se ha recibido un cierto préstamo a amortizar con 30 cuotas de $10.000 cada una al           3
+6% de interés. Al pagar la 12ava. cuota se decide efectuar un pago suplementario
+tal que permita cancelar la mitad de la deuda hasta ese momento, prosiguiendo a
+una nueva cuota la operación hasta cancelarla en el plazo convenido. Determinar el
+total de intereses pagados en toda la operación y la economía de intereses
+originada por el pago extraordinario.
+
+1.7. EJERCICIO 7
+Le prestan $100 cobrándole una comisión por $2 en el acto. Debe devolver en dos
+cuotas, una a fin de cada año de $50 c/u, y además paga un interés anual nominal
+del 20% pagadero semestralmente. Cuál es el costo de la deuda (% anual). Dato útil
+para tanteos: 11% semestral.
+
+1.8. EJERCICIO 8
+a) Encuentre la tasa equivalente para 80 días cuando se trabaja con tasas del 2%
+para 30 días. b) Determinar la tasa real anual y real de 30 días, la tasa es del 7 %
+anual con capitalización cada 180 días, tasa de inflación anual 3%. Año de 365 días.
+
+1.9. EJERCICIO 9
+Un industrial necesita comprar un equipo que se vende en 710.000$. Para adquirirlo recurre
+al siguiente financiamiento: a) Un crédito del banco HSBC de 100.000$, a devolver en
+cuatro cuotas mensuales al 3% mensual con el método alemán. b) un crédito de 200.000$
+del banco RIO, amortizable en 6 cuotas mensuales al 2,5% mensual con el método francés.
+c) Un crédito de 30.000$ del propio proveedor pagadero en el período 4 (a partir de un
+"cero" donde invierte). Este crédito devenga un 3,5% de interés simple mensual durante 3
+meses. d) Saldo con financiamiento propio. Si el costo de oportunidad del capital de la
+empresa es del 3,25% mensual, ¿cuánto costó el equipo? ¿Hubiera sido mejor comprar al
+contado?
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 5 =====
+
+El Valor del Dinero en el Tiempo
+
+
+1.10. EJERCICIO 10
+Para liquidar una cierta deuda con intereses al 6% anual con capitalización mensual,
+la empresa VTD S.A. acuerda hacer pagos de $50 al final de cada mes por los
+próximos 17 meses más refuerzos de $80 cada tres meses comenzando el tercer
+mes y hasta el 15 mes inclusive y un pago final de $95,25 un mes después. ¿Cuál
+es el importe de la deuda?
+
+
+                                                                                       4
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 6 =====
+
+Evaluación de Proyectos
+
+
+Parte 2. Evaluación de Proyectos
+
+
+2.1. EJERCICIO 1
+Se planea invertir para la fabricación de un cierto producto. Datos:
+
+Inversión BU                       $ 1.000    Vida comercial Producto            3 años
+VU Contable (fiscal)               10 años    Ingresos netos egresos (cash)   550 $/año
+VU Técnica                          3 años    Inversión Kt (al inicio)            $ 100   5
+Valor Rezago Contable (fiscal)       $ 400    Recupero Kt (al final)               80%
+Valor Rezago Técnico (mercado)       $ 800    Impuesto ganancias                   30%
+
+
+
+
+Determinar el FEO y el FEE. b) Acepte o rechace con VAN (trema =10%).
+
+
+
+2.2. EJERCICIO 2
+
+
+Gatoturro SA considera reemplazar su vieja máquina de producción por una nueva.
+El costo de la máquina nueva es de 48.000 $, los costos de instalación y flete 2.000
+$. Los requerimientos de Capital de Trabajo de la nueva máquina son de 3.000 $
+inmediatamente (la máquina vieja no tenía tales requerimientos) Dicho Kt se
+recuperará 100 %. Se necesitará entrenar al personal con 4.000 $ (gasto en el
+instante cero, no amortizable). La máquina vieja se puede vender en el instante cero
+por 10.000 $ (si siguiera trabajando perdería todo valor de regazo en próximo
+períodos) siendo su valor de libros nulo (totalmente amortizada con VRc= 0). IG =
+40 %. La nueva máquina incrementará las ventas en 5.000$/ año y achicará los
+costos en 8.000$/año, las mismas será usada por 5 años, amortizada totalmente
+también en 5 años (VRc=0) y finalmente vendida en 15.000$. Decida aprobación o
+no del proyecto con VAN (10 %), use enfoque fiscal para los flujos.
+
+
+
+2.3. EJERCICIO 3
+
+
+Suponga que puede amortizar una inversión de $100.000 de dos maneras: en su
+país $25.000 por año durante 4 años, y en otro país con el siguiente esquema:
+$40.000, $30.000, $20.000 y $10.000. La vida del proyecto es de 4 años, no hay
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 7 =====
+
+Evaluación de Proyectos
+
+
+valores de rezago, la trema es del 15% y el IG = 40% en ambos países. Ceteribus
+Paribus, ¿en cuánto diferirá el VAN del proyecto entre los países?.
+
+
+
+2.4. EJERCICIO 4
+Una empresa que cierra ejercicios anuales y paga impuestos a las ganancias en el
+mismo ejercicio en que devenga, está analizando la factibilidad de comercializar un
+nuevo producto. Se estima poder venderlo durante 10 años con un volumen anual
+de 35.000 unidades. La maquinaria para producirlo cuesta $200.000, tiene una vida        6
+útil de 5 años y al fin de la misma se estima que podrá ser vendida en $25.000.
+Contablemente se la amortizará en 4 años con valor residual de $20.000. Para la
+producción se estima necesaria una inversión en capital de trabajo de $80.000 que
+se recuperará en un 80% al fin del proyecto. El precio de venta esperado es de
+20$/u, los costos variables de 8$/u, los fijos erogables propios de 60.000 $/año, y
+los fijos erogables prorrateados de 5.000 $/año. Tasa de impuesto a las ganancias
+30%. Se pide calcular el VAN del proyecto al 15% anual.
+
+
+
+2.5. EJERCICIO 5
+Se está estudiando la automatización de una parte del proceso de producción ya
+existente. Este estudio costó 5.000$, y llegó a la conclusión que comprar e instalar
+el equipo necesario tiene un costo de 80.000$, y brindará ahorros por 22.000$
+anuales al reducir los costos de MOD y MP. El equipo tiene una vida útil de 5 años y
+se amortiza en línea recta hasta cero en 5 años. Al final tendrá un valor de 20.000$
+en el mercado. IG=34%, trema 10%. Se debe realizar el proyecto? Plantear el FEO
+de todas las maneras que sea relevante.
+
+
+
+2.6. EJERCICIO 6
+Un proyecto supone la inversión de 1.000$ hoy en una máquina de vida contable
+(fiscal) de 10 años. Un importante estudio técnico del proyecto (que se pagó hace 5
+minutos) costó 105$. La máquina sirve para producir un producto que se va a
+fabricar y vender durante 5 años, las ventas serán de 700$/año, los Costos de
+100$/año, y los Impuestos a la ganancias del 35%. La máquina puede venderse
+usada en cualquier momento en 100$. Aparte de la inversión en BU, es necesaria
+una inversión en Capital de Trabajo de 200$ al principio del proyecto de los que se
+recuperará el 80% de su valor. a) Determine el FEO con los tres enfoques
+conocidos. 2) Determine el flujo de efectivo de la inversión y el FEE, éste último con
+los tres enfoques. c) Determine el flujo de efectivo de la inversión en capital de
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 8 =====
+
+Evaluación de Proyectos
+
+
+Trabajo y el FEE para el recupero de Kt con los 3 enfoques. d) determine el VAN del
+Proyecto con una Trema del 20% y decida si lo acepta.
+
+
+2.7. EJERCICIO 7
+Cierta empresa se dedica al embotellado de agua mineral. Luego de una
+reingeniería de procesos, surgió la posibilidad de comenzar a fabricarse sus propias
+tapitas de plástico. Actualmente, son compradas a un proveedor especializado. La
+reingeniería fue contratada a una consultora, que cobró 40.000 $ por sus servicios.       7
+La producción actual de la pyme es de 5.000.000 botellas/año; ésta es la máxima
+capacidad productiva actual y se vende en su totalidad. El precio actual es de 10
+$/botella. Los costos variables actuales son los siguientes:
+
+Costo materia prima (agua mineral)                    2 $/botella
+Costo insumos (etiquetas y cajas)                     1 $/botella
+Costo insumos (tapitas)                               0,50 $/botella
+Costo servicios (energía eléctrica y aire comprimido) 0,50 $/botella
+
+Para fabricarse sus propias tapitas, la empresa necesita invertir en una máquina
+inyectora, según el siguiente detalle:
+
+Inversión en inyectora: 200.000 $
+Duración máxima de la inyectora : 20 años
+Capacidad productiva máxima de la inyectora: 10.000.000 tapitas/año
+Valor de reventa de inyectora usada: 40.000 $
+Repuestos necesarios (Capital de trabajo): 20.000 $
+Valor de reventa de los repuestos: 10.000 $
+
+El excedente de Producción de Tapitas se puede vender en el mercado a 0,35 $
+
+Al tener fabricación propia, el costo del insumo tapitas será de 0,40 $/botella. El
+resto de los costos variables unitarios (materia prima, etiquetas y cajas, y servicios)
+se mantendrán constantes.
+
+La Gerencia Comercial estimó que se podría lograr para los próximos años:
+
+Ventas (años 1 a 5) : 5.000.0000 botellas/año
+Precio (años 1 a 5): 12 $/botella
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 9 =====
+
+Evaluación de Proyectos
+
+
+El aumento en el precio de venta no está condicionado a la realización del proyecto,
+es decir, se concretará sí o sí, por decisión comercial.
+
+Será necesario contratar un ingeniero especialista en procesamiento de plásticos,
+con un salario de 12.000 $/año. Asistirá a una capacitación sobre la nueva máquina
+antes de ponerla en marcha, con un costo de 2.000 $; la misma debe considerarse
+un gasto, por lo tanto no es amortizable.
+
+El Departamento Contable informa que, aprovechando la contratación del ingeniero,
+prorrateará el salario de un técnico del área sobre esta línea de producción; este       8
+técnico gana 10.000 $/año, trabaja hace 6 meses en la empresa y continuará
+trabajando independientemente del proyecto de inyectoras.
+
+La Gerencia de Finanzas le solicita evaluar el proyecto a 5 años. La empresa paga
+20% de impuesto a las ganancias. La TREMA es 10%. Las inyectoras se amortizan
+totalmente (VRc = 0) en 10 años.
+
+
+
+(a) Construya FEO y FEE del proyecto con los tres enfoques. (b) Calcule el VAN del
+proyecto, y decida si la inversión es conveniente o no. (c) Si el costo del estudio de
+reingeniería hubiese sido de 100.000 $, ¿cómo se vería afectado el flujo de fondos?
+¿Cómo se vería afectado el VAN del proyecto? Explique, no calcule. (d) Si las
+inyectoras se amortizaran en 6 años en lugar de 10, ¿cómo se vería afectado el flujo
+de fondos? ¿Cómo se vería afectado el VAN del proyecto? Explique, no calcule.
+
+
+
+
+Resueltos Economía para Ingenieros
+
+===== PAGINA 10 =====
+
+Evaluación de Proyectos
+
+
+Análisis de Reemplazo
+2.8. EJERCICIO 1
+
+
+¿Qué es vida económica de una máquina? Calcúlela (trema 20%, IG 50%) para un
+equipo que requiere una inversión de 50.000$, y otros datos en la tabla siguiente
+(hoy es año cero):
+                                                                                         9
+               1             2             3             4              5
+
+Valor Libro    40000         30000         20000         10000          0
+
+Valor Usado    36000         28000         24000         16000          2000
+
+Op Mant Ren    5000          8000          9500          13000          17000
+
+
+
+
+2.9. EJERCICIO 2
+El costo de cierta máquina es de $100.000. Sus gastos de operación y
+mantenimiento son de $30.000 para el primer año y se estima que estos gastos se
+incrementen en lo sucesivo a razón de $10.000 al año. El valor realizable de la
+máquina en los próximos años se espera que se comporte de la siguiente manera:
+VM(n)= 100.000 – 15.000 n.
+
+ Si la vida útil técnica y contable es de 5 años (VRC = 0), la tasa de Impuestos a las
+ganancias es del 50% y la TREMA = 20%. Determine el período óptimo de
+reemplazo de este activo
+
+
+
+
+Resueltos Economía para Ingenieros
+

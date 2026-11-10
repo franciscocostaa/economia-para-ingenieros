@@ -1,0 +1,64 @@
+FUENTE: G04
+TITULO: Guía evaluación de proyectos: resultados numéricos
+ORIGINAL: material/catedra/practica/guía Proyectos - resultados.pdf
+PAGINAS: 2
+
+===== PAGINA 1 =====
+
+                                 ECONOMÍA PARA INGENIEROS
+
+                 Guía EVALUACIÓN DE PROYECTOS – resultados numéricos
+
+Ejercicio 1
+a) FEO = $403              FEE(BU) = $806                     FEE(KT) = $86
+b) VAN(10%) = 572,37 > 0 (acepto)
+
+Ejercicio 2
+Año                       0               1               2             3             4             5
+FFN                 -49.400          11.800       11.800            11.800        11.800     23.800
+
+VAN(10%) = 2.782 > 0 (acepto)
+
+El enunciado no lo pide, pero en clase calculamos PRS y PRD:
+PRS = 4,1 (interpolación lineal sabiendo 4 < PRS < 5)
+PRD = 4,8 (interpolación lineal sabiendo 4 < PRD < 5)
+
+Ejercicio 3
+DVAN = $1.994
+
+Ejercicio 4
+Año                 0              1-4            5               6-9           10
+FFN                -280.000        265.500        75.500           265.500      344.300
+
+VAN(15%) = $977.000 > 0 (acepto)
+
+Ejercicio 5
+Año                 0               1-4            5
+FEO                                  19.960            19.960
+FEE                                                    13.200
+Inv. BU             -80.000
+FFN                 -80.000          19.960            33.160
+
+VAN(10%) = 3.860 > 0 (acepto)
+
+Ejercicio 6
+a) FEO = $425
+b) Inversión (BU) = $1.000        FEE(BU) = $240
+c) Inversión (KT) = $200          FEE(KT) = $174
+d) VAN(20%) = 237,41 > 0 (acepto)
+
+Ejercicio 7
+a) FEO(t=0) = -1.600          FEO(t=1...5) = 394.400          FEE(BU)= 52.000    FEE(KT) = 12.000
+b) VAN(10%) = 1.313.225
+
+===== PAGINA 2 =====
+
+c) El estudio de reingeniería es un costo hundido, es decir, fue comprometido (e incurrido)
+independientemente de la realización o no del proyecto. Su valor no modifica el flujo de fondos del
+proyecto, y por lo tanto, no modifica tampoco el VAN.
+d) Si la amortización se realiza en 6 años en lugar de 10, será mayor el escudo impositivo en los
+primeros 6 años del proyecto, y menor en los últimos 4. Es decir que si bien la suma algebraica de los
+impuestos en uno y otro escenario es la misma, en el segundo caso planteado pagará menos al
+principio, y más al final. Por efecto del VTD, el valor presente del flujo de impuestos también será
+menor, y por lo tanto, aumentará el VAN.
+

@@ -1,0 +1,54 @@
+FUENTE: R02
+TITULO: Resolución del segundo parcial 11/11/2025
+ORIGINAL: material/catedra/practica/P2 C2 2025 44.xlsx
+
+===== HOJA 1: Ej1 =====
+
+C2: TNA | D2: 0.35
+C3: Capitalización | D3: 1 | E3: día
+C4: Días/año | D4: 360 | E4: día
+C5: Alquiler 1 | D5: 5000
+C6: Alquiler 2 | D6: 4500
+C7: Alquiler 3+ | D7: 4000
+C8: Vida útil | D8: 12 | E8: Meses
+C9: Viaje en | D9: 3 | E9: Meses
+C10: Paleta ARS | D10: 150000
+C11: Paleta USD | D11: 65
+B13: a) | C13: TEM | D13: 0.0295816 [=POWER(1+D2*D3/D4,30)-1]
+C14: Factor (TEM=3% ;n=12) [="Factor (TEM="&ROUND(D13*100,1)&"% ;n="&D8&")"] | D14: 9.97891 [=(POWER(1+D13,D8)-1)/(POWER(1+D13,D8)*D13)]
+C16: Partidos/mes | D16: VP Alquiler
+C17: 1 | D17: 49894.6 [=$D$14*D5]
+C18: 2 | D18: 94799.7 [=$D$14*D6+D17]
+C19: 3 | D19: 134715 [=$D$14*$D$7+D18]
+C20: 4 | D20: 174631 [=$D$14*$D$7+D19] | E20: Jugando 4 partidos por mes o más, le conviene comprar
+C21: 5 | D21: 214547 [=$D$14*$D$7+D20]
+C22: 6 | D22: 254462 [=$D$14*$D$7+D21]
+B24: b) | C24: Factor (TEM=3% ;n=3) [="Factor (TEM="&ROUND(D13*100,1)&"% ;n="&D9&")"] | D24: 2.83089 [=(POWER(1+D13,D9)-1)/(POWER(1+D13,D9)*D13)]
+C26: VP Alquiler | D26: 49540.5 [=D24*(D5+D6+D7*2)]
+C27: Diferencia comprar vs. alquilar t=0 | D27: 100459 [=D10-D26]
+C28: Diferencia comprar vs. alquilar t=3 | D28: 109641 [=D27*POWER(1+D13,D9)]
+C29: TC máximo | D29: 1545.53 [=D27/$D$11] | E29: Si decide darle la plata a su amigo ahora
+C30: TC máximo | D30: 1686.79 [=D28/$D$11] | E30: Si decide darle la plata a su amigo en el momento de viajar
+C32: Obs: la alternativa de comprar la paleta en el exterior da 3 meses más de uso (del mes 13 al 15). Si plantean que comprarla localmente tiene un extra costo de alquilar esos últimos 3 meses está mejor (haría subir el TC de equilibrio), pero como no está explícito en el enunciado no lo corregiría como mal si no lo hacen.
+B34: c) | C34: Lo mismo que en el inciso a) Comprar, ya que el alquiler de los 3 primeros meses es un costo hundido.
+
+===== HOJA 2: Ej2 =====
+
+B1: Enunciado | E1: CR 1-10 | H1: CR 11-15 | K1: Venta Equipos
+A2: Equipos | B2: 2000 | D2: Ventas | E2: 400 [=+$B$5] | G2: Ventas | H2: 400 [=+$B$5] | J2: Valor Mercado | K2: 300 [=+$B$7]
+A3: Infraestructura | B3: 500 | D3: Costos | E3: -50 [=-$B$6] | G3: Costos | H3: -50 [=-$B$6] | J3: Valor de Libro | K3: 0
+A4: Pago Año 0 | B4: 0.3 | D4: Amortizaciones | E4: -250 [=-(B2+B3)/B8] | G4: Amortizaciones | H4: 0 | J4: Utilidad | K4: 300 [=+K2-K3]
+A5: Ventas | B5: 400 | D5: UAII | E5: 100 [=SUM(E2:E4)] | G5: UAII | H5: 350 [=SUM(H2:H4)] | J5: IG | K5: -90 [=-K4*$B$9]
+A6: Costos | B6: 50 | D6: IG | E6: -30 [=-E5*$B$9] | G6: IG | H6: -105 [=-H5*$B$9] | J6: UN | K6: 210 [=+SUM(K4:K5)]
+A7: Valor de Mercado | B7: 300 | D7: UN | E7: 70 [=+E5+E6] | G7: UN | H7: 245 [=+H5+H6]
+A8: Amortizacion (y) | B8: 10
+A9: IG | B9: 0.3 | D9: FEO | E9: 320 [=E2+E3+E6] | G9: FEO | H9: 245 [=H2+H3+H6] | J9: FEE | K9: 210 [=K2+K5]
+A10: TREMA | B10: 0.1
+B13: 0 | C13: 1 | D13: 2-10 | E13: 11-14 | F13: 15
+A14: Inversion | B14: -1100 [=-$B$2*$B$4-$B$3] | C14: -1400 [=-$B$2*(1-$B$4)] | D14: 0 | E14: 0 | F14: 0
+A15: FEO | B15: 0 | C15: 320 [=$E$9] | D15: 320 [=C15] | E15: 245 [=$H$9] | F15: 245 [=E15]
+A16: FEE | B16: 0 | C16: 0 | D16: 0 | E16: 0 | F16: 210 [=$K$9]
+A17: FF | B17: -1100 [=SUM(B14:B16)] | C17: -1080 [=SUM(C14:C16)] | D17: 320 [=SUM(D14:D16)] | E17: 245 [=SUM(E14:E16)] | F17: 455 [=SUM(F14:F16)] | H17: factor (n=9;TREMA) | I17: 5.75902 [=(POWER(1+$B$10,9)-1)/(POWER(1+$B$10,9)*$B$10)]
+A18: FF Desc (TREMA) | B18: -1100 [=B17/POWER(1+$B$10,B13)] | C18: -981.818 [=C17/POWER(1+$B$10,C13)] | D18: 1675.35 [=D17*$I$17/POWER(1+$B$10,1)] | E18: 299.419 [=E17*$I$18/POWER(1+$B$10,10)] | F18: 108.923 [=F17/POWER(1+$B$10,F13)] | H18: factor (n=4;TREMA) | I18: 3.16987 [=(POWER(1+$B$10,4)-1)/(POWER(1+$B$10,4)*$B$10)]
+A22: a) VAN= | B22: 1.87707 [=SUM(B18:F18)] | C22: Se recomienda la inversión [=IF(B22>0,"Se recomienda la inversión","No se recomienda la inversión")]
+A23: b) Menor, por menor escudo impositivo

@@ -1,1 +1,27 @@
 id	tipo	titulo	ruta	paginas	ciclo	estado	archivo_original
+T01	teoria	La empresa y la información contable	material/catedra/teoria/2_LA EMPRESA Y LA INFORMACION CONTABLE (actualizado).pdf	56	2026	vigente	2_LA EMPRESA Y LA INFORMACION CONTABLE (actualizado).pdf
+T02	teoria	Interpretación de estados contables (análisis financiero)	material/catedra/teoria/4_Análisis Financiero_IF 2025.pdf	50	2025	vigente	4_Análisis Financiero_IF 2025.pdf
+T03	teoria	Valor tiempo del dinero (cálculo financiero)	material/catedra/teoria/VTD C2 2026.pdf	39	2026-C2	vigente	VTD C2 2026.pdf
+T04	teoria	Evaluación de proyectos	material/catedra/teoria/9_Eval Proy - C2 2026.pdf	79	2026-C2	vigente	9_Eval Proy - C2 2026.pdf
+T05	teoria	La empresa y los costos	material/catedra/teoria/epi09_costos_09.pdf	23	2009	vigente	epi09_costos_09.pdf
+G01	guia	Guía práctica (rev. mayo 2012)	material/catedra/practica/12-05-07 GUIA_DE_EJERCICIOS__Economia_para_Ingenieros (rev.1).pdf	10	2012	vigente	12-05-07 GUIA_DE_EJERCICIOS__Economia_para_Ingenieros (rev.1).pdf
+G02	guia	Guía práctica N° 5: la información contable	material/catedra/practica/GP5_ePI_0209.doc		2019	vigente	GP5_ePI_0209.doc
+G03	resultados	Guía valor tiempo del dinero: resultados numéricos	material/catedra/practica/guía VTD - resultados.pdf	1	2016	vigente	guía VTD - resultados.pdf
+G04	resultados	Guía evaluación de proyectos: resultados numéricos	material/catedra/practica/guía Proyectos - resultados.pdf	2	2016	vigente	guía Proyectos - resultados.pdf
+G05	consultas	Respuestas a algunas preguntas frecuentes	material/catedra/practica/Respuestas a algunas preguntas frecuentes.pdf	5	2024	vigente	Respuestas a algunas preguntas frecuentes.pdf
+R01	resolucion	Resolución de la guía práctica N° 5	material/catedra/practica/Respuestas gp5 2020.xls		2020	vigente	Respuestas gp5 2020.xls
+P01	parcial	Segundo parcial 11/11/2025 (temas 1 y 2)	material/catedra/practica/P2 11112025 EP (1).docx		2025-C2	vigente	P2 11112025 EP (1).docx
+R02	resolucion	Resolución del segundo parcial 11/11/2025	material/catedra/practica/P2 C2 2025 44.xlsx		2025-C2	vigente	P2 C2 2025 44.xlsx
+P02	parcial	Segundo parcial 16/06/2026 (tema 1)	material/catedra/practica/P2 16062026.pdf	2	2026-C1	vigente	P2 16062026.pdf
+R03	resolucion	Resolución del segundo parcial 16/06/2026	material/catedra/practica/EPI P2 C1 2026.xlsx		2026-C1	vigente	EPI P2 C1 2026.xlsx
+X01	modelo	Time Value of Money Analysis (modelo Excel de libro de texto)	material/externo/Archivo VTD.xls			vigente	Archivo VTD.xls
+X02	resolucion-no-oficial	Segundo parcial 2C2010 resuelto (no oficial)	material/externo/2P - 2C2010.xlsx		2010-C2	vigente	2P - 2C2010.xlsx
+X03	resolucion-no-oficial	Segundo parcial 1C2018 resuelto (no oficial)	material/externo/2P - 1C2018.xlsx		2018-C1	vigente	2P - 1C2018.xlsx
+X04	resolucion-no-oficial	Segundo parcial 2C2018 resuelto (no oficial)	material/externo/2P - 2C2018.xlsx		2018-C2	vigente	2P - 2C2018.xlsx
+X05	resolucion-no-oficial	Segundo parcial 1C2023 resuelto (no oficial)	material/externo/2P - 1C2023.xlsx		2023-C1	vigente	2P - 1C2023.xlsx
+X06	resolucion-no-oficial	Segundo parcial 2C2024 resuelto (no oficial)	material/externo/2P - 2C2024.xlsx		2024-C2	vigente	2P - 2C2024.xlsx
+X07	resolucion-no-oficial	Segundo parcial 1C2025 resuelto (no oficial)	material/externo/2P - 1C2025.xlsx		2025-C1	vigente	2P - 1C2025.xlsx
+X08	resolucion-no-oficial	Compilado de verdadero/falso de segundos parciales (no oficial)	material/externo/2P - Compilado VoF.docx			vigente	2P - Compilado VoF.docx
+X09	borrador	Borrador: comparación de financiaciones (alemán, francés, simple)	material/externo/Book1.xlsx			vigente	Book1.xlsx
+X10	borrador	Borrador: VAN y CAE (guía de proyectos, ej. 4)	material/externo/Book1 (1).xlsx			vigente	Book1 (1).xlsx
+X11	borrador	Borrador: préstamos alemán y bullet (parcial 16/06/2026)	material/externo/Book12.xlsx			vigente	Book12.xlsx

@@ -1,0 +1,100 @@
+FUENTE: R03
+TITULO: Resolución del segundo parcial 16/06/2026
+ORIGINAL: material/catedra/practica/EPI P2 C1 2026.xlsx
+
+===== HOJA 1: P1 =====
+
+A1: APELLIDO Y NOMBRE:
+A2: LEGAJO N°
+A5: a) | B5: Verdadero, si el precio sube de modo que el margen de contribución unitario (P − CV) se mantiene constante y, además, aumentan los costos fijos, el punto de equilibrio Q = CF/MC aumenta (MC igual y CF mayor).
+A6: b) | B6: Verdadero, mayor apalancamiento financiero implica más deuda e intereses fijos, lo que aumenta la variabilidad del resultado para el accionista y, por lo tanto, su riesgo.
+A7: c) | B7: Falso, la rentabilidad operativa (ROA = margen × rotación) no mejora siempre al aumentar la rotación: si el margen cae, el ROA puede no mejorar. El "siempre" lo hace falso.
+A8: d) | B8: Verdadero, por el efecto del apalancamiento financiero el ROE puede subir aunque baje la rentabilidad operativa, si la empresa se endeuda más y el ROA sigue siendo mayor al costo de la deuda.
+A9: e) | B9: Verdadero, por el principio de lo devengado la utilidad contable no es el flujo de caja: puede haber ganancia y caja negativa (ventas a crédito no cobradas, inversiones, aumento del capital de trabajo).
+A10: f) | B10: Verdadero, el valor de una empresa se determina por el valor presente de sus flujos de fondos futuros esperados, no por los resultados contables actuales (históricos).
+A11: g) | B11: Verdadero, al activar un gasto (registrarlo como activo) en lugar de imputarlo al período, no se resta del resultado corriente, por lo que la utilidad de corto plazo es mayor (el costo se difiere vía amortización).
+A12: h) | B12: Verdadero, al cancelar pasivo corriente con deuda de largo plazo baja el pasivo corriente y el índice de liquidez corriente (AC/PC) mejora.
+A13: i) | B13: Verdadero, hay empresas sanas (por ejemplo supermercados) que cobran al contado y pagan a proveedores a plazo, por lo que su capital de trabajo operativo (NOF) es negativo sin que eso sea un problema.
+A14: j) | B14: Falso, la amortización es un gasto no monetario; un aumento de la amortización no reduce el flujo de caja operativo (incluso lo puede aumentar por el ahorro fiscal al pagar menos impuestos).
+
+===== HOJA 2: P2 =====
+
+A1: APELLIDO Y NOMBRE:
+A2: LEGAJO N°
+A5: Datos | E5: a) Interes a fin de diciembre 2026
+A6: i) Aleman Monto ($) | B6: 1000000 | E6: Aleman saldo tras 11 cuotas | F6: 770833 [=B6*(1-11/B9)]
+A7: TNA | B7: 0.125 | E7: Aleman interes mes 12 (dic-26) | F7: 7947.3 [=F6*B18]
+A8: Capitalizacion | B8: Trimestral | E8: Bullet interes semestral (dic-26) | F8: 30000 [=B22]
+A9: Cuotas (mensuales) | B9: 48 | E9: TEA aleman | F9: 0.130982 [=B19]
+A10: ii) Bullet  Monto ($) | B10: 500000 | E10: TEA bullet | F10: 0.1236 [=B21]
+A11: Tasa semestral | B11: 0.06 | E11: Más conveniente (menor TEA) | F11: Bullet
+A12: Plazo (años) | B12: 4
+A13: Refi. frances Cuotas | B13: 25 | E13: b) Refinanciación (a fin de diciembre 2026)
+A14: Tasa mensual | B14: 0.005 | E14: Aleman saldo tras 12 cuotas | F14: 750000 [=B6*(1-12/B9)]
+E15: Bullet saldo (capital adeudado) | F15: 500000 [=B10]
+A16: Auxiliar | E16: Saldo deudor total | F16: 1250000 [=F14+F15]
+A17: Tasa trimestral aleman (TNA/4) | B17: 0.03125 [=B7/4] | E17: Nueva cuota frances (25 cuotas, 0,5%) | F17: 53314.8 [=F16*B14/(1-(1+B14)^-B13)]
+A18: TEM aleman = (1+trim)^(1/3)−1 | B18: 0.01031 [=(1+B17)^(1/3)-1]
+A19: TEA aleman = (1+trim)^4−1 | B19: 0.130982 [=(1+B17)^4-1]
+A20: Amortización mensual aleman | B20: 20833.3 [=B6/B9]
+A21: TEA bullet = (1+sem)^2−1 | B21: 0.1236 [=(1+B11)^2-1]
+A22: Interes semestral bullet | B22: 30000 [=B10*B11]
+A25: RESPUESTAS
+A26: item | B26: Respuesta
+A27: (a) Interes a fin de dic-2026  Aleman | B27: 7947.3 [=F7]
+A28: (a) Interes a fin de dic-2026  Bullet | B28: 30000 [=F8]
+A29: (a) Sistema más conveniente | B29: Bullet, su TEA (12,36%) es menor que la del aleman (13,10%)
+A30: (b) Saldo deudor total (dic-2026) | B30: 1250000 [=F16]
+A31: (b) Nueva cuota (frances, 25 cuotas) | B31: 53314.8 [=F17]
+
+===== HOJA 3: P3 =====
+
+A1: APELLIDO Y NOMBRE:
+A2: LEGAJO N°
+A6: DATOS
+A7: Precio unitario | B7: 10
+A8: Unidades año 1 | B8: 50
+A9: Unidades años 2 a 5 | B9: 200
+A10: Costo variable unitario | B10: 5
+A11: Costos fijos anuales (nuevos) | B11: 200
+A12: Inversión en maquinaria | B12: 1000
+A13: Vida útil contable (años) | B13: 10
+A14: Amortización anual (rezago nulo) | B14: 100 [=B12/B13]
+A15: Valor de mercado maq. al año 5 | B15: 0
+A16: Créditos clientes (% s/ ventas) | B16: 0.2
+A17: Deudas proveedores (% s/ costos var.) | B17: 0.3
+A18: Impuesto a las ganancias (Ig) | B18: 0.5
+A19: TREMA | B19: 0.1
+A21: Costos NO relevantes
+A22: Consultora $100: costo hundido
+A23: Supervisores (3 × 20% × $1.000): ya están en nómina por lo que no es egreso incremental
+A25: FLUJO DE FONDOS DEL PROYECTO
+A26: Concepto | B26: Año 0 | C26: Año 1 | D26: Año 2 | E26: Año 3 | F26: Año 4 | G26: Año 5
+A27: Período (t) | B27: 0 | C27: 1 | D27: 2 | E27: 3 | F27: 4 | G27: 5
+A28: Unidades vendidas | C28: 50 [=B8] | D28: 200 [=$B$9] | E28: 200 [=$B$9] | F28: 200 [=$B$9] | G28: 200 [=$B$9]
+A29: Ventas | C29: 500 [=C28*$B$7] | D29: 2000 [=D28*$B$7] | E29: 2000 [=E28*$B$7] | F29: 2000 [=F28*$B$7] | G29: 2000 [=G28*$B$7]
+A30: (–) Costos variables | C30: 250 [=C28*$B$10] | D30: 1000 [=D28*$B$10] | E30: 1000 [=E28*$B$10] | F30: 1000 [=F28*$B$10] | G30: 1000 [=G28*$B$10]
+A31: (–) Costos fijos | C31: 200 [=$B$11] | D31: 200 [=$B$11] | E31: 200 [=$B$11] | F31: 200 [=$B$11] | G31: 200 [=$B$11]
+A32: (–) Amortización | C32: 100 [=$B$14] | D32: 100 [=$B$14] | E32: 100 [=$B$14] | F32: 100 [=$B$14] | G32: 100 [=$B$14]
+A33: = UAII (resultado operativo) | C33: -50 [=C29-C30-C31-C32] | D33: 700 [=D29-D30-D31-D32] | E33: 700 [=E29-E30-E31-E32] | F33: 700 [=F29-F30-F31-F32] | G33: 700 [=G29-G30-G31-G32]
+A34: (–) Impuesto a las ganancias (50%) | C34: -25 [=C33*$B$18] | D34: 350 [=D33*$B$18] | E34: 350 [=E33*$B$18] | F34: 350 [=F33*$B$18] | G34: 350 [=G33*$B$18]
+A35: = Utilidad neta | C35: -25 [=C33-C34] | D35: 350 [=D33-D34] | E35: 350 [=E33-E34] | F35: 350 [=F33-F34] | G35: 350 [=G33-G34]
+A36: (+) Amortización | C36: 100 [=C32] | D36: 100 [=D32] | E36: 100 [=E32] | F36: 100 [=F32] | G36: 100 [=G32]
+A37: = Flujo operativo | C37: 75 [=C35+C36] | D37: 450 [=D35+D36] | E37: 450 [=E35+E36] | F37: 450 [=F35+F36] | G37: 450 [=G35+G36]
+A38: (–) Inversión en maquinaria | B38: -1000 [=-B12] | C38: 0 | D38: 0 | E38: 0 | F38: 0 | G38: 0
+A39: (–/+) Variación de capital de trabajo | B39: 0 [=-B50] | C39: -25 [=-C50] | D39: -75 [=-D50] | E39: 0 [=-E50] | F39: 0 [=-F50] | G39: 0 [=-G50]
+A40: (+) Recupero de capital de trabajo | G40: 100 [=G49]
+A41: (+) Valor residual neto maquinaria | G41: 250 [=B15-B18*(B15-(B12-5*B14))]
+A42: = FLUJO DE FONDOS NETO | B42: -1000 [=B37+B38+B39+B40+B41] | C42: 50 [=C37+C38+C39+C40+C41] | D42: 375 [=D37+D38+D39+D40+D41] | E42: 450 [=E37+E38+E39+E40+E41] | F42: 450 [=F37+F38+F39+F40+F41] | G42: 800 [=G37+G38+G39+G40+G41]
+A43: Factor de actualización  1/(1+TREMA)^t | B43: 1 [=1/(1+$B$19)^B27] | C43: 0.909091 [=1/(1+$B$19)^C27] | D43: 0.826446 [=1/(1+$B$19)^D27] | E43: 0.751315 [=1/(1+$B$19)^E27] | F43: 0.683013 [=1/(1+$B$19)^F27] | G43: 0.620921 [=1/(1+$B$19)^G27]
+A44: Flujo de fondos descontado | B44: -1000 [=B42*B43] | C44: 45.4545 [=C42*C43] | D44: 309.917 [=D42*D43] | E44: 338.092 [=E42*E43] | F44: 307.356 [=F42*F43] | G44: 496.737 [=G42*G43]
+A46: CAPITAL DE TRABAJO
+A47: Créditos con clientes (20% ventas) | B47: 0 | C47: 100 [=C29*$B$16] | D47: 400 [=D29*$B$16] | E47: 400 [=E29*$B$16] | F47: 400 [=F29*$B$16] | G47: 400 [=G29*$B$16]
+A48: Deudas con proveedores (30% costos var.) | B48: 0 | C48: 75 [=C30*$B$17] | D48: 300 [=D30*$B$17] | E48: 300 [=E30*$B$17] | F48: 300 [=F30*$B$17] | G48: 300 [=G30*$B$17]
+A49: = Capital de trabajo neto | B49: 0 [=B47-B48] | C49: 25 [=C47-C48] | D49: 100 [=D47-D48] | E49: 100 [=E47-E48] | F49: 100 [=F47-F48] | G49: 100 [=G47-G48]
+A50: Variación de capital de trabajo | B50: 0 [=B49] | C50: 25 [=C49-B49] | D50: 75 [=D49-C49] | E50: 0 [=E49-D49] | F50: 0 [=F49-E49] | G50: 0 [=G49-F49]
+A52: RESULTADOS
+A53: VAN (a TREMA 10%) | B53: 497.557 [=SUM(B44:G44)]
+A54: TIR | B54: 0.233969 [=IRR(B42:G42)]
+A55: Recomendación | B55: Conviene invertir
+A1048556: $100

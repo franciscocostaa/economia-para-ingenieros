@@ -1,0 +1,179 @@
+FUENTE: X08
+TITULO: Compilado de verdadero/falso de segundos parciales (no oficial)
+ORIGINAL: material/externo/2P - Compilado VoF.docx
+
+Economía - Segundo Parcial
+Compilado VoF
+
+1. Un aumento en el ciclo de caja indica que la empresa está mejorando su eficiencia operativa.
+
+Respuesta: Falso, porque  un ciclo de caja mayor significa que la empresa tarda más en recuperar el efectivo invertido en operación, lo que empeora su eficiencia y su liquidez.
+
+2. El flujo de caja libre (free cash flow) no tiene en cuenta el capital de trabajo ni las inversiones de capital.
+
+Respuesta: Falso, porque en el flujo de caja libre se restan al FEO las inversiones en BU y la variación del Kt.
+
+3. Una reducción en los costos variables por unidad disminuye el margen de contribución y aumenta el punto de equilibrio.
+
+Respuesta: Falso, porque un aumento en los costos variables implica un aumento en el margen de contribución (MC=Precio - CV), lo que genera a su vez una disminución en el punto de equilibrio (Q=CF/MC).
+
+4. Un índice de endeudamiento bajo siempre es una señal positiva para los inversionistas.
+
+Respuesta: Falso, porque puede implicar un infrapalancamiento (menos deuda de la óptima), desaprovechando así escudo fiscal. También se puede deber a un costo de capital alto.
+
+5. Los dividendos pagados a los accionistas se consideran un gasto en el estado de resultados.
+
+Respuesta: Falso, no son un gasto en el cuadro de resultados, son distribuciones de utilidades (patrimonio).
+
+6. El ciclo de caja de una empresa aumenta si sube el plazo promedio de cobranza.
+
+Respuesta: Verdadero, porque al aumentar el plazo promedio de cobranza, más se tarda en recuperar el efectivo invertido en operación, lo que aumenta el ciclo de caja de la empresa.
+
+7. Si una empresa reduce su estructura de costos fijos, su punto de equilibrio también se reduce, todo lo demás constante.
+
+Respuesta: Verdadero, porque el punto de equilibrio es el cociente entre los costos fijos y el margen de contribución, por lo que una disminución en los costos fijos disminuye el punto de equilibrio.
+
+8. La depreciación es un egreso contable que disminuye el efectivo disponible de la empresa.
+
+Respuesta: Falso, la depreciación es no monetaria, reduce EBIT pero no el efectivo del período.
+
+9. Un aumento del Activo total de una empresa puede deberse a la adquisición de un bien de uso (100% al contado)
+
+Respuesta: Falso, porque si compramos un bien de uso 100% al contado, solo estamos cambiando la composición del activo: baja Caja/Bancos y sube Activo Fijo por el mismo monto. El total del Activo no aumenta.
+
+10. Una empresa puede presentar una utilidad neta positiva y al mismo tiempo tener problemas de liquidez.
+
+Respuesta: La utilidad contable no implica disponibilidad de efectivo. La empresa puede tener ventas a crédito, altos inventarios o inversiones que consumen liquidez.
+
+11. Dada una empresa que compra a crédito y vende al contado, ante una contracción sostenida de las ventas la empresa experimentará una disminución en el nivel de caja.
+
+Respuesta: Verdadero, porque si caen las ventas al contado entra menos efectivo, lo que disminuye la caja.
+
+12. La depreciación es un gasto que representa la salida de efectivo periódica necesaria para mantener los activos fijos de la empresa.
+
+Respuesta: Falso, la depreciación es un gasto no monetario, ya que no involucra una salida de efectivo.
+
+13. En el balance general, los activos se presentan en orden de liquidez, mientras que los pasivos se ordenan en función de su exigibilidad.
+
+Respuesta: Verdadero, porque el balance prioriza evaluar liquidez y solvencia: ordena activos por rapidez de conversión en efectivo y pasivos por vencimiento, lo que permite ver si los recursos cercanos cubren las obligaciones inmediatas.
+
+14. Un flujo de caja libre negativo siempre es una señal de que la empresa está en problemas financieros.
+
+Respuesta: Falso, porque puede haber un incremento en la inversión de BU, lo que hace que el FCLP sea negativo.
+
+15. Los ingresos por ventas se reconocen cuando se realiza la entrega de los bienes o servicios y se satisfacen las condiciones del contrato de venta.
+
+Respuesta: Verdadero, porque según el principio de lo devengado, los efectos económicos de las transacciones deben reconocerse en el momento en que ocurren, sin importar cuándo se cobre o se pague el dinero asociado.
+
+16. El Capital de Trabajo (también llamado Fondo de Maniobra) es la porción de activo corriente financiado con recursos de largo plazo.
+
+Respuesta:  Verdadero, porque se obtiene de Kt=AC-PC, lo que equivale a la parte del activo corriente financiada con recursos permanentes (patrimonio + pasivo de largo plazo), no con deudas de corto plazo.
+
+17. La empresa realizó una venta pero todavía no se cobró, por lo tanto no es un ingreso económico aún.
+
+Respuesta: Falso, porque las ventas se registran como ingresos al momento de realizarse la acción por el principio de lo devengado.
+
+18. Dada una empresa que vende a crédito y compra al contado, ante una expansión sostenida de las ventas la empresa en el corto plazo experimentará un aumento en el nivel de caja.
+
+Respuesta: Falso, porque al vender a crédito no le ingresa efectivo, por lo que por más que aumente sus ventas no cambiará su nivel de caja.
+
+19. El siguiente movimiento afectará los resultados de una empresa comercial que cierra ejercicios mensuales, en el momento en que ocurre: se compra mercadería al proveedor, a pagar a 45 días.
+
+Respuesta: Falso. La compra a 45 días no impacta el resultado en el momento, solo cambia el balance. En devengado, el gasto se reconoce cuando se vende la mercadería, no cuando se compra
+
+20. La eliminación de un producto en una empresa que fabrica y vende varios productos depende, entre otros factores, de los costos fijos de estructura prorrateados sobre el producto.
+
+Respuesta: Falso, los costos fijos de estructura prorrateados son comunes (no varían con la eliminación) y, por tanto, irrelevantes para la decisión.
+
+21. Las amortizaciones acumuladas son un ahorro mensual en efectivo que hace la empresa para renovar bienes de uso.
+
+Respuesta: Falso, no son ahorros en efectivo, sino una cuenta contable de valuación (restan al activo fijo) que acumula cargos no monetarios.
+
+22. El capital de trabajo operativo varía con el otorgamiento de créditos a los clientes.
+
+Respuesta: Verdadero, pues el capital de trabajo es Kt = AC - PC, y al otorgar créditos a los clientes se están incrementando los pasivos corrientes.
+
+23. La empresa compra un bien de uso con una deuda a 5 años, por lo tanto su índice de liquidez disminuyó.
+
+Respuesta: Falso, pues comprar un bien de uso financiado a 5 años afecta activo no corriente (aumenta bienes de uso) y pasivo no corriente (aumenta deuda LP), no el activo ni pasivo corrientes.
+
+24. El capital de trabajo operativo (también llamado Necesidades Operativas de Fondos) es la parte del activo que no se financia con pasivos espontáneos (o gratuitos).
+
+Respuesta: Verdadero, el KT operativo es el activo operativo corriente que no se financia con pasivos espontáneos (pasivos corrientes), y requiere financiación permanente (pasivos no corrientes).
+
+25. Una empresa adquiere un bien de uso con un aporte de capital por lo tanto sus índices de liquidez aumentan.
+
+Respuesta: Falso, porque el dinero que entra por el capital se gasta en la adquisición, por lo que no varía la liquidez.
+
+
+26. En el cuadro de resultados del 30/11/2016 se incluyeron las ventas de octubre del 2016 cobradas en noviembre de 2016.
+
+Respuesta: Falso, porque por el principio de lo devengado se deben incluir en el momento que ocurren, no en el momento que se cobran.
+
+27. La compra de un terreno con un crédito hipotecario por el 100% del valor a 5 años con un año de gracia (se paga la primer cuota a los 365 días) aumenta el índice de Liquidez Corriente.
+
+Respuesta: Falso, porque al no haber pagos (vencimientos) por el próximo año, no sube la liquidez corriente (es un pasivo no corriente).
+
+28. Cuando se compra un bien de uso, 50% al contado y 50% a plazo, el activo total disminuye.
+
+Respuesta: Falso, pues se paga el 50% del bien (disminución de disponibilidades) pero se suma la totalidad de su valor, lo que genera un aumento en el activo total.
+
+29. En la evaluación de 2 proyectos mutuamente excluyentes (de igual duración) no me voy a equivocar si elijo el de período de repago (payback) menor.
+
+Respuesta: Falso, pues el payback ignora el valor del dinero y los flujos post-payback, lo que podría generar una decisión incorrecta.
+
+30. Desde el punto de vista del rendimiento económico, una empresa A se encontrará mejor que una empresa B, cuando su margen de utilidad sobre ventas sea superior al de B.
+
+Respuesta: Falso, porque además del margen se debe contemplar la rotación de activos para comparar la situación de ambas empresas, ya que ROA = Margen x Rot. Activos.
+
+31. Los costos “Hundidos” son el máximo ingreso que un bien o servicio podría producir si fuese aplicado a algún otro fin o servicio distinto que el planeado.
+
+Respuesta: Falso, los costos hundidos son gastos ya incurridos e irrecuperables, irrelevantes para decidir.
+
+32. Una empresa con una rentabilidad operativa del 11% (después del impuesto a las ganancias 30%) estudia la posibilidad de tomar un crédito para disminuir su capital. Si el crédito es al 16% anual aumentará su rentabilidad sobre el patrimonio (ROE).
+
+Respuesta: Falso. El apalancamiento mejora el ROE solo si el ROA (11%) es mayor que el costo de la deuda después de impuestos. Aquí 16%(1−0,30)=11,2% > 11%, por lo que diluye el ROE.
+
+33. El método más eficiente para evaluar los proyectos mutuamente excluyentes: A (duración 7 años) y B (duración 13 años) (suponiendo repetibilidad) es la Tasa Interna de Retorno.
+
+Respuesta: Falso, para proyectos mutuamente excluyentes con vidas distintas se compara VAN equivalente anual o se iguala la vida; la TIR puede inducir a error.
+
+34. Para una empresa que prevé un incremento de la producción del 50% que demandará un incremento similar de la superficie dedicada a la producción, el gasto del alquiler del galpón utilizado en la fabricación se considera gasto fijo.
+
+Respuesta: Verdadero, el alquiler es un costo fijo de estructura (puede subir por escalones si se alquila más superficie, pero no varía por unidad producida).
+
+35. El método del período de repago (payback) con actualización me indica (en forma similar al VAN) la rentabilidad del proyecto.
+
+Respuesta: Falso, el payback descontado mide recupero/liquidez, mientras que el método del período de repago toma el tiempo que le tardará al proyecto recuperar la inversión original.
+
+37. El estado de resultados de un período refleja, en cuanto a ventas, únicamente las ventas cobradas en ese período.
+
+Respuesta: Falso, porque por el principio de lo devengado se deben registrar en el estado de resultados las ventas una vez realizada la acción, no al momento de cobrar.
+
+38. Las necesidades operativas de fondos( Capital de Trabajo Operativo) pueden ser superiores al Capital de Trabajo( Fondo de Maniobra).
+
+Respuesta: Verdadero, porque si tenemos pasivos de corto plazo NO operativos (por ej., un préstamo bancario CP), aumenta el PC, el FM baja (FM = AC - PC), pero la NOF (NOF = Clientes + Inventarios – Proveedores) no cambia. Entonces puede pasar que NOF > FM.
+
+39. Una empresa que posee un índice de rotación de inventarios mayor se encontrará optimizando su ciclo operativo ya que indicará menos días promedio que las existencias permanecen en el stock en lugar de transformarse en cash.
+
+Respuesta: Verdadero, porque una mayor rotación de inventarios implica menos días de inventario, lo que significa que el stock se convierte más rápido en cash; en general mejora el ciclo operativo.
+
+40. Una empresa puede ser ilíquida aunque solvente a largo plazo.
+
+Respuesta: Verdadero, puede ser ilíquida (sin efectivo para el corto plazo) y a la vez solvente (activos totales > pasivos totales) en el largo plazo. Puede tener activos suficientes “en total”, pero no son líquidos ahora (son inmuebles, máquinas, proyectos en curso, cuentas a cobrar a largo plazo).
+
+41. El valor presente de los pagos realizados por un sistema de amortización de préstamos francés, alemán y americano es siempre el mismo.
+
+Respuesta: Verdadero, con mismo mono, plazo y tasa (y descontando a esa misma tasa), el valor presente de los pagos de un préstamo francés, alemán o americano es el mismo: iguala el monto prestado.
+
+42. Todos los costos de fabricación son costos que implican un pago en dinero y dan origen a un flujo de efectivo.
+
+Respuesta: Falso, porque no todos los costos de fabricación son desembolsos: depreciación/amortización fabriles son no monetarios y no generan flujo de caja.
+
+43. El sistema de costeo ABC adjudica los costos indirectos de fabricación con respecto a una base de volumen o de actividad (horas-hombre, horas-máquina, dólares-material).
+
+Respuesta: Verdadero, porque el sistema ABC plantea que los productos no consumen directamente los recursos, sino que los recursos son consumidos por las actividades que se realizan en las empresas, y los productos usan esas actividades.
+
+44. En el gráfico de equilibrio de un producto si estamos entre los puntos de pseudoequilibrio y el de equilibrio, significa que si bien no me alcanzan las utilidades generadas por el producto i para cubrir todos los gastos, sí se cubren los variables y los fijos propios, y además algo aporta a los gastos generales.
+
+Respuesta: Verdadero, entre pseudo–equilibrio y equilibrio el producto cubre costos variables y fijos propios y aporta algo para fijos comunes/estructura, aunque la empresa total aún no alcance su equilibrio. Debajo de él no se debe producir, y a largo plazo se quiere estar por encima del equilibrio.

@@ -1,0 +1,54 @@
+FUENTE: P01
+TITULO: Segundo parcial 11/11/2025 (temas 1 y 2)
+ORIGINAL: material/catedra/practica/P2 11112025 EP (1).docx
+
+Economía para Ingenieros    - 	 2° PARCIAL                          11/11/2025                              Tema 1
+Tener presente lo siguiente:
+a) No podrán prestarse calculadoras.
+b) No se contestara ninguna pregunta. Ante cualquier duda haga una  suposición  y justifíquela  por  escrito.
+
+Problema 1
+Rocío les propuso a sus amigos comenzar a jugar al pádel. Como actualmente no tiene paleta, puede optar por alquilar o comprar una nueva.
+El establecimiento al que planean asistir ofrece a sus clientes una tarifa decreciente según la cantidad de partidos jugados en el mes. El primer alquiler del mes cuesta 5.000 AR$, el segundo 4.500 AR$ y, del tercer partido en adelante, cada alquiler cuesta 4.000 AR$.
+Por otro lado, en el local SportSS encontró la misma paleta que alquilan en la cancha a 150.000 AR$. El vendedor le comentó que tiene una vida útil de 12 meses y que por el momento no ofrecen cuotas ni descuentos con ningún banco.
+Además, su billetera virtual invierte los saldos a una TNA de 35% con capitalización diaria. Considere el año de 360 días y responda:
+	•	¿Cuál es la cantidad mínima de partidos al mes que Rocío debería jugar para que comprar la paleta sea más conveniente que alquilarla? 
+Considere la misma frecuencia de juego de su respuesta anterior para responder las siguientes preguntas:
+	•	Si en 3 meses su mejor amigo viaja al exterior y puede conseguir la paleta por 65 U$D, ¿Cuál es el tipo de cambio máximo que hace conveniente esperar hasta el momento del viaje y alquilar en el ínterin?
+	•	Si pasados los 3 meses su amigo le comenta que se cancela su viaje, ¿Qué le recomendaría hacer a Rocío?
+
+
+Problema 2
+La empresa SolArGen S.A. busca aprovechar la alta radiación solar de San Juan para generar energía renovable por 15 años.
+Con el fin de evaluar la factibilidad del proyecto, la empresa pagó 6 MMAR$ a una consultora especializada. De ese relevamiento conoció que se necesita una inversión en infraestructura eléctrica por 600 MMAR$ y en paneles solares por 2.000 MMAR$. Gracias a un convenio con el proveedor de los equipos, el pago de los paneles se realizaría en dos etapas: un 40% junto a las obras de infraestructura iniciales; y el 60% restante durante el primer año de funcionamiento del parque. Contablemente, los activos se amortizan linealmente durante 10 años y sin valor residual. Sin embargo, se estima que al final de su vida útil puedan venderse por 300 MMAR$.
+Los ingresos por la inyección de energía a la red nacional se estiman en 400 MMAR$/año, mientras que los gastos en 50 MMAR$/año. No se prevén otros costos operativos ni inversiones en capital de trabajo.
+La empresa tributa un 30% de impuesto a las ganancias y utiliza una tasa de descuento del 10% para evaluar sus proyectos de inversión.
+
+	•	¿Recomienda el proyecto? Justifique numéricamente.
+	•	Si la amortización se hiciera linealmente y sin valor de rezago contable, pero a lo largo de los 15 años del proyecto, ¿el VAN sería mayor o menor que en el escenario original?
+
+Economía para Ingenieros    - 	 2° PARCIAL                          11/11/2025                  Tema 2
+Tener presente lo siguiente:
+a) No podrán prestarse calculadoras.
+b) No se contestara ninguna pregunta. Ante cualquier duda haga una  suposición  y justifíquela  por  escrito.
+
+Preguntas Teóricas
+Problema 1
+Rocío les propuso a sus amigos comenzar a jugar al pádel. Como actualmente no tiene paleta, puede optar por alquilar o comprar una nueva.
+El establecimiento al que planean asistir ofrece a sus clientes una tarifa decreciente según la cantidad de partidos jugados en el mes. El primer alquiler del mes cuesta 6.000 AR$, el segundo 5.500 AR$ y, del tercer partido en adelante, cada alquiler cuesta 5.000 AR$.
+Por otro lado, en el local SportSS encontró la misma paleta que alquilan en la cancha a 140.000 AR$. El vendedor le comentó que tiene una vida útil de 12 meses y que por el momento no ofrecen cuotas ni descuentos con ningún banco.
+Además, su billetera virtual invierte los saldos a una TNA de 30% con capitalización diaria. Considere el año de 360 días y responda:
+	•	¿Cuál es la cantidad mínima de partidos al mes que Rocío debería jugar para que comprar la paleta sea más conveniente que alquilarla? 
+Considere la misma frecuencia de juego de su respuesta anterior para responder las siguientes preguntas:
+	•	Si en 3 meses su mejor amigo viaja al exterior y puede conseguir la paleta por 65 U$D, ¿Cuál es el tipo de cambio máximo que hace conveniente esperar hasta el momento del viaje y alquilar en el ínterin?
+	•	Si pasados los 3 meses su amigo le comenta que se cancela su viaje, ¿Qué le recomendaría hacer a Rocío?
+
+
+Problema 2
+La empresa SolArGen S.A. busca aprovechar la alta radiación solar de San Juan para generar energía renovable por 15 años.
+Con el fin de evaluar la factibilidad del proyecto, la empresa pagó 5 MMAR$ a una consultora especializada. De ese relevamiento conoció que se necesita una inversión en infraestructura eléctrica por 500 MMAR$ y en paneles solares por 2.000 MMAR$. Gracias a un convenio con el proveedor de los equipos, el pago de los paneles se realizaría en dos etapas: un 30% junto a las obras de infraestructura iniciales; y el 70% restante durante el primer año de funcionamiento del parque. Contablemente, los activos se amortizan linealmente durante 10 años y sin valor residual. Sin embargo, se estima que al final de su vida útil puedan venderse por 300 MMAR$.
+Los ingresos por la inyección de energía a la red nacional se estiman en 400 MMAR$/año, mientras que los gastos en 50 MMAR$/año. No se prevén otros costos operativos ni inversiones en capital de trabajo.
+La empresa tributa un 30% de impuesto a las ganancias y utiliza una tasa de descuento del 10% para evaluar sus proyectos de inversión.
+
+	•	¿Recomienda el proyecto? Justifique numéricamente.
+	•	Si la amortización se hiciera linealmente y sin valor de rezago contable, pero a lo largo de los 15 años del proyecto, ¿el VAN sería mayor o menor que en el escenario original?

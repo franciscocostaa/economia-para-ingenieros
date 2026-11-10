@@ -1,0 +1,78 @@
+FUENTE: X07
+TITULO: Segundo parcial 1C2025 resuelto (no oficial)
+ORIGINAL: material/externo/2P - 1C2025.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+IMAGEN en B3: material/figuras/X07-hoja1-img1.png
+B2: Ejercicio 1
+B19: Respuestas
+B20: a) Falso, porque  un ciclo de caja mayor significa que la empresa tarda más en recuperar el efectivo invertido en operación, lo que empeora su eficiencia y su liquidez.
+B22: b) Falso, porque en el flujo de caja libre se restan al FEO las inversiones en BU y la variación del Kt.
+B23: c) Falso, porque un aumento en los costos variables implica un aumento en el margen de contribución (MC=Precio - CV), lo que genera a su vez una disminución en el punto de equilibrio (Q=CF/MC).
+B25: d) Falso, porque puede implicar un infrapalancamiento (menos deuda de la óptima), desaprovechando así escudo fiscal. También se puede deber a un costo de capital alto.
+B27: e) Falso, no son un gasto en el cuadro de resultados, son distribuciones de utilidades (patrimonio).
+B28: f) Verdadero, porque al aumentar el plazo promedio de cobranza, más se tarda en recuperar el efectivo invertido en operación, lo que aumenta el ciclo de caja de la empresa.
+B30: g) Verdadero, porque el punto de equilibrio es el cociente entre los costos fijos y el margen de contribución, por lo que una disminución en los costos fijos disminuye el punto de equilibrio.
+B32: h) Falso, la depreciación es no monetaria, reduce EBIT pero no el efectivo del período.
+B33: i) Falso, porque si compramos un bien de uso 100% al contado, solo estamos cambiando la composición del activo: baja Caja/Bancos y sube Activo Fijo por el mismo monto. El total del Activo no aumenta.
+B35: j) La utilidad contable no implica disponibilidad de efectivo. La empresa puede tener ventas a crédito, altos inventarios o inversiones que consumen liquidez.
+
+===== HOJA 2: Ejercicio 2 =====
+
+IMAGEN en B2: material/figuras/X07-hoja2-img1.png
+B2: Ejercicio 2
+B14: Datos (Alemán) | E14: Préstamo Alemán
+B15: Monto | C15: 300000 | E15: Período | F15: 1 | G15: 2 | H15: 3 | I15: 4
+B16: Cuotas | C16: 4 | E16: Cuota | F16: 82498.3 [=F17+F18] | G16: 80623.7 [=G17+G18] | H16: 78749.2 [=H17+H18] | I16: 76874.6 [=I17+I18]
+B17: TEA | C17: 0.3448 | E17: Amortización | F17: 75000 [=C15/C16] | G17: 75000 [=C15/C16] | H17: 75000 [=C15/C16] | I17: 75000 [=C15/C16]
+B18: TEM | C18: 0.0249944 [=(1+C17)^(1/12)-1] | E18: Interés | F18: 7498.31 [=C15*C18] | G18: 5623.73 [=F19*C18] | H18: 3749.15 [=G19*C18] | I18: 1874.58 [=H19*C18]
+B19: Sistema | C19: Alemán | E19: Saldo | F19: 225000 [=C15-SUM(F17)] | G19: 150000 [=C15-SUM(F17:G17)] | H19: 75000 [=C15-SUM(F17:H17)] | I19: 0 [=C15-SUM(F17:I17)]
+B21: Datos (Francés) | E21: Préstamo Francés
+B22: Monto | C22: 150000 [=G19] | E22: Período | F22: 1 | G22: 2 | H22: 3 | I22: 4
+B23: Cuotas | C23: 6 | E23: Cuota | F23: 26778.9 [=C22/(((1+C24)^C23-1)/((1+C24)^C23*C24))] | G23: 26778.9 [=C22/(((1+C24)^C23-1)/((1+C24)^C23*C24))] | H23: 26778.9 [=C22/(((1+C24)^C23-1)/((1+C24)^C23*C24))] | I23: 26778.9 [=C22/(((1+C24)^C23-1)/((1+C24)^C23*C24))]
+B24: TEM | C24: 0.02 | E24: Amortización | F24: 23778.9 [=F23-F25] | G24: 24254.4 [=G23-G25] | H24: 24739.5 [=H23-H25] | I24: 25234.3 [=I23-I25]
+B25: Sistema | C25: Francés | E25: Interés | F25: 3000 [=C22*C24] | G25: 2524.42 [=F26*C24] | H25: 2039.33 [=G26*C24] | I25: 1544.54 [=H26*C24]
+E26: Saldo | F26: 126221 [=C22-F24] | G26: 101967 [=C22-SUM(F24:G24)] | H26: 77227.1 [=C22-SUM(F24:H24)] | I26: 51992.8 [=C22-SUM(F24:I24)] | J26: → Monto encontrado
+B28: VP Cuotas Restantes
+B29: Deuda Alemán | C29: 150000 [=G19]
+B30: VP Francés | C30: 147504 [=-PV(C18,C23,F23)] | D30: → Como es menor, conviene refinanciar.
+B32: Flujos
+B33: Período | C33: 0 | D33: 1 | E33: 2 | F33: 3 | G33: 4 | H33: 5 | I33: 6
+B34: Deuda | C34: 300000 | D34: 0 | E34: 0 | F34: 0 | G34: 0 | H34: 0 | I34: 0
+B35: Pagos | C35: 0 | D35: -82498.3 [=-F16] | E35: -80623.7 [=-G16] | F35: -26778.9 [=-F23] | G35: -26778.9 [=-G23] | H35: -26778.9 [=-H23] | I35: -26778.9 [=-I23]
+B36: Cancelación | C36: 0 | D36: 0 | E36: 0 | F36: 0 | G36: 0 | H36: 0 | I36: -51992.8 [=-I26]
+B37: FF | C37: 300000 [=SUM(C34:C36)] | D37: -82498.3 [=SUM(D34:D36)] | E37: -80623.7 [=SUM(E34:E36)] | F37: -26778.9 [=SUM(F34:F36)] | G37: -26778.9 [=SUM(G34:G36)] | H37: -26778.9 [=SUM(H34:H36)] | I37: -78771.7 [=SUM(I34:I36)]
+B38: FF (PV) | C38: 300000 [=C37] | D38: -80486.6 [=D37/((1+C18)^(D33))] | E38: -76739.7 [=E37/((1+C18)^(E33))] | F38: -24867.3 [=F37/((1+C18)^(F33))] | G38: -24260.9 [=G37/((1+C18)^(G33))] | H38: -23669.3 [=H37/((1+C18)^(H33))] | I38: -67926.8 [=I37/((1+C18)^(I33))]
+B39: Total | C39: 2049.51 [=SUM(C38:I38)] | D39: → Como es mayor a cero, significa que se se obtuvo un monto a favor con toda la operación.
+
+===== HOJA 3: Ejercicio 3 =====
+
+IMAGEN en B3: material/figuras/X07-hoja3-img1.png
+B2: Ejercicio 3
+B19: Datos ($M) | E19: Cuadro de Resultados
+B20: Inversión BU | C20: 5200 | E20: Año | F20: 0 | G20: 1 | H20: 2 | I20: 3 | J20: 4 | K20: 5
+B21: VUT (años) | C21: 5 | E21: Ventas | F21: 0 | G21: 12600 [=C30*C28] | H21: 12600 [=C30*C28] | I21: 12600 [=C30*C28] | J21: 12600 [=C30*C28] | K21: 12600 [=C30*C28]
+B22: VRM | C22: 200 | E22: Costo (x U.) | F22: 0 | G22: -3000 [=-C30*C29] | H22: -3000 [=-C30*C29] | I22: -3000 [=-C30*C29] | J22: -3000 [=-C30*C29] | K22: -3000 [=-C30*C29]
+B23: VRC (fiscal) | C23: 0 | E23: Personal | F23: 0 | G23: -1000 [=-C24] | H23: -1000 [=-C24] | I23: -1000 [=-C24] | J23: -1000 [=-C24] | K23: -1000 [=-C24]
+B24: Personal (x Año) | C24: 1000 | E24: Alquiler | F24: 0 | G24: -4500 [=-C25] | H24: -4500 [=-C25] | I24: -4500 [=-C25] | J24: -4500 [=-C25] | K24: -4500 [=-C25]
+B25: Alquiler (x Año) | C25: 4500 | E25: EBITDA | F25: 0 [=SUM(F21:F24)] | G25: 4100 [=SUM(G21:G24)] | H25: 4100 [=SUM(H21:H24)] | I25: 4100 [=SUM(I21:I24)] | J25: 4100 [=SUM(J21:J24)] | K25: 4100 [=SUM(K21:K24)]
+B26: Kt. | C26: 3000 | E26: Res. Venta. Maq | F26: 0 | G26: 0 | H26: 0 | I26: 0 | J26: 0 | K26: 200 [=C38]
+B27: Recupero Kt. | C27: 0.9 | E27: Recup. Kt. | F27: 0 | G27: 0 | H27: 0 | I27: 0 | J27: 0 | K27: -300 [=-C39]
+B28: Precio (x U.) | C28: 0.042 | E28: Amort. | F28: 0 | G28: -1040 [=-C37] | H28: -1040 [=-C37] | I28: -1040 [=-C37] | J28: -1040 [=-C37] | K28: -1040 [=-C37]
+B29: Cost (x U.) | C29: 0.01 | E29: EBIT | F29: 0 [=F25-SUM(F26:F28)] | G29: 3060 [=G25+SUM(G26:G28)] | H29: 3060 [=H25+SUM(H26:H28)] | I29: 3060 [=I25+SUM(I26:I28)] | J29: 3060 [=J25+SUM(J26:J28)] | K29: 2960 [=K25+SUM(K26:K28)]
+B30: Ventas (x año) | C30: 300000 | E30: I.G. | F30: 0 [=F29*C32] | G30: -918 [=-G29*C32] | H30: -918 [=-H29*C32] | I30: -918 [=-I29*C32] | J30: -918 [=-J29*C32] | K30: -888 [=-K29*C32]
+B31: TREMA | C31: 0.15 | E31: U. Neta | F31: 0 [=F29+F30] | G31: 2142 [=G29+G30] | H31: 2142 [=H29+H30] | I31: 2142 [=I29+I30] | J31: 2142 [=J29+J30] | K31: 2072 [=K29+K30]
+B32: I.G. | C32: 0.3
+B34: Auxiliar | E34: Flujo de Fondos
+B35: Base | C35: 5200 [=C20-C23] | E35: Año | F35: 0 | G35: 1 | H35: 2 | I35: 3 | J35: 4 | K35: 5
+B36: Años | C36: 5 [=C21] | E36: EBITDA | F36: 0 [=F25] | G36: 4100 [=G25] | H36: 4100 [=H25] | I36: 4100 [=I25] | J36: 4100 [=J25] | K36: 4100 [=K25]
+B37: Amort. Fisc. Anual | C37: 1040 [=C35/C36] | E37: Inv. BU | F37: -5200 [=-C20] | G37: 0 | H37: 0 | I37: 0 | J37: 0 | K37: 0
+B38: Res. Venta Maq. | C38: 200 [=C22-(C20-C37*C36)] | E38: Venta. BU | F38: 0 | G38: 0 | H38: 0 | I38: 0 | J38: 0 | K38: 200 [=C22]
+B39: Pérdida Kt. | C39: 300 [=C26-(C26*C27)] | E39: Kt. | F39: -3000 [=-C26] | G39: 0 | H39: 0 | I39: 0 | J39: 0 | K39: 2700 [=C26*C27]
+E40: I.G. | F40: 0 [=F30] | G40: -918 [=G30] | H40: -918 [=H30] | I40: -918 [=I30] | J40: -918 [=J30] | K40: -888 [=K30]
+E41: FF | F41: -8200 [=SUM(F36:F40)] | G41: 3182 [=SUM(G36:G40)] | H41: 3182 [=SUM(H36:H40)] | I41: 3182 [=SUM(I36:I40)] | J41: 3182 [=SUM(J36:J40)] | K41: 6112 [=SUM(K36:K40)]
+E42: VAN | F42: 3923.29 [=NPV(C31,G41:K41)+F41] | G42: → f) Se recomienda lanzar el nuevo producto.
+B44: Respuestas
+B45: g) El gasto en el estudio no afecta el VAN porque es un costo hundido, es decir que se realiza sin importar la realización o no del proyecto.
+B47: h) A partir de un costo de alquiler de $6,172 (a mano) anual, el VAN pasa a ser negativo y por ende el proyecto deja de ser rentable.

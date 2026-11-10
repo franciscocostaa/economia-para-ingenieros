@@ -1,0 +1,16 @@
+FUENTE: X10
+TITULO: Borrador: VAN y CAE (guía de proyectos, ej. 4)
+ORIGINAL: material/externo/Book1 (1).xlsx
+
+===== HOJA 1: Sheet1 =====
+
+B3: -280 | D3: -222
+B4: 265.5 | D4: -1005
+B5: 265.5 | D5: -1005
+B6: 265.5 | D6: -1005
+B7: 265.5 | D7: -1005
+B8: 344.3 | D8: -942
+B9: 649.175 [=NPV(0.15,B4:B8)+B3] | C9: Conviene | D9: -3992.62 [=NPV(0.1,D4:D8)+D3]
+C10: CAE | D10: 1053.24 [=PMT(0.1,5,D9)]
+D12: 1053,24=x 5000(1-0,2)
+D13: 0.26331 [=1053.24/4000]

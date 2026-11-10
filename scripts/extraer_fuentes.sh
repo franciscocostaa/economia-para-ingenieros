@@ -20,14 +20,25 @@ command -v pdfinfo >/dev/null || {
 
 mkdir -p "$salida_dir"
 procesadas=0
+documentos=0
 while IFS=$'\t' read -r id tipo titulo ruta paginas ciclo estado archivo_original; do
   [[ "$id" == "id" || -z "$id" ]] && continue
   origen="$repo_dir/$ruta"
-  [[ "${origen,,}" == *.pdf ]] || continue
   [[ -f "$origen" ]] || {
     echo "No existe la fuente catalogada $id: $ruta" >&2
     exit 1
   }
+  extension="$(printf '%s' "${origen##*.}" | tr '[:upper:]' '[:lower:]')"
+  case "$extension" in
+    pdf) ;;
+    xlsx | xls | docx | doc)
+      "${PYTHON:-python3}" "$repo_dir/scripts/extraer_documentos.py" \
+        --root "$repo_dir" --id "$id" --titulo "$titulo" --ruta "$ruta"
+      documentos=$((documentos + 1))
+      continue
+      ;;
+    *) continue ;;
+  esac
   total="$(pdfinfo "$origen" | awk -F: '/^Pages:/ {gsub(/[[:space:]]/, "", $2); print $2; exit}')"
   [[ "$total" =~ ^[0-9]+$ ]] || {
     echo "No se pudo determinar la cantidad de páginas de $ruta" >&2
@@ -49,3 +60,4 @@ while IFS=$'\t' read -r id tipo titulo ruta paginas ciclo estado archivo_origina
 done <"$catalogo"
 
 echo "Fuentes PDF extraídas: $procesadas"
+echo "Planillas y documentos extraídos: $documentos"

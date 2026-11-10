@@ -1,0 +1,69 @@
+FUENTE: X02
+TITULO: Segundo parcial 2C2010 resuelto (no oficial)
+ORIGINAL: material/externo/2P - 2C2010.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+IMAGEN en A3: material/figuras/X02-hoja1-img1.png
+B2: Ejercicio 1 | I2: Respuestas
+I3: a) Verdadero, porque si tenemos pasivos de corto plazo NO operativos (por ej., un préstamo bancario CP), aumenta el PC, el FM baja (FM = AC - PC), pero la NOF (NOF = Clientes + Inventarios – Proveedores) no cambia. Entonces puede pasar que NOF > FM.
+I6: b) Verdadero, porque una mayor rotación de inventarios implica menos días de inventario, lo que significa que el stock se convierte más rápido en cash; en general mejora el ciclo operativo.
+I8: c) Verdadero, puede ser ilíquida (sin efectivo para el corto plazo) y a la vez solvente (activos totales > pasivos totales) en el largo plazo. Puede tener activos suficientes “en total”, pero no son líquidos ahora (son inmuebles, máquinas, proyectos en curso, cuentas a cobrar a largo plazo).
+I11: d) Verdadero, con mismo mono, plazo y tasa (y descontando a esa misma tasa), el valor presente de los pagos de un préstamo francés, alemán o americano es el mismo: iguala el monto prestado.
+I13: e) Falso, porque no todos los costos de fabricación son desembolsos: depreciación/amortización fabriles son no monetarios y no generan flujo de caja.
+I15: f) Verdadero, porque el sistema ABC plantea que los productos no consumen directamente los recursos, sino que los recursos son consumidos por las actividades que se realizan en las empresas, y los productos usan esas actividades.
+I18: g) Verdadero, entre pseudo–equilibrio y equilibrio el producto cubre costos variables y fijos propios y aporta algo para fijos comunes/estructura, aunque la empresa total aún no alcance su equilibrio. Debajo de él no se debe producir, y a largo plazo se quiere estar por encima del equilibrio.
+
+===== HOJA 2: Ejercicio 2 =====
+
+IMAGEN en A3: material/figuras/X02-hoja2-img1.png
+B2: Ejercicio 2
+B16: Datos | E16: Desmbolso Ingreso
+B17: Monto | C17: 60000 | E17: VF Ahorro x M | F17: 19668.1 [=C18*(((1+C29)^(C22*12)-1)/C29)]
+B18: Ahorro (x mes) | C18: 500 | E18: VF Ahorro x A | F18: 4783.26 [=C19*(((1+C28)^(C22)-1)/C28)]
+B19: Ahorro (x año) | C19: 1500 | E19: VF Total | F19: 24451.3 [=SUM(F17:F18)]
+B20: TNA CA | C20: 0.06 | E20: Saldo Deud. | F20: 35548.7 [=C17-F19]
+B21: Cap. | C21: Mensual
+B22: Período Ingreso | C22: 3 | E22: Financiamiento UKBA
+B23: Cuotas Recibido | C23: 24 | E23: VF Deuda | F23: 69274.3 [=F20*((1+C24)^C25)]
+B24: TEA | C24: 0.1 | E24: Cuota | F24: 3182.9 [=PMT(C30,C23,-F23)]
+B25: Duración (años) | C25: 7
+E26: Deuda al Año
+B27: Auxiliar | E27: Saldo | F27: 36286.6 [=F24*((1-((1+C30)^-(C23-12)))/C30)]
+B28: TEA CA | C28: 0.0616778 [=(1+C20/12)^12-1]
+B29: TEM CA | C29: 0.005 [=(1+C28)^(1/12)-1]
+B30: TEM UKBA | C30: 0.00797414 [=(1+C24)^(1/12)-1]
+
+===== HOJA 3: Ejercicio 3 =====
+
+IMAGEN en B3: material/figuras/X02-hoja3-img1.png
+B2: Ejercicio 3
+B22: Datos | E22: Cuadro de Resultados
+B23: Comisión | C23: 0.1 | E23: Año | F23: 0 | G23: 1 | H23: 2 | I23: 3 | J23: 4 | K23: 5
+B24: Período (años) | C24: 5 | E24: Ventas | F24: 0 | G24: 1750000 [=C45] | H24: 1750000 [=C45] | I24: 1750000 [=C45] | J24: 1750000 [=C45] | K24: 1750000 [=C45]
+B25: Ventas (anual) | C25: 10000 | E25: Comisión | F25: 0 | G25: -175000 [=-C46] | H25: -175000 [=-C46] | I25: -175000 [=-C46] | J25: -175000 [=-C46] | K25: -175000 [=-C46]
+B26: Precio (xU) | C26: 100 | E26: Cost. Fijo | F26: 0 | G26: -200000 [=-C35] | H26: -200000 [=-C35] | I26: -200000 [=-C35] | J26: -200000 [=-C35] | K26: -200000 [=-C35]
+B27: Vts. Dep (anual) | C27: 5000 | E27: Cost. Var. | F27: 0 | G27: -750000 [=-C42*C34] | H27: -750000 [=-C42*C34] | I27: -750000 [=-C42*C34] | J27: -750000 [=-C42*C34] | K27: -750000 [=-C42*C34]
+B28: Precio Dep (xU) | C28: 150 | E28: Alquiler | F28: 0 | G28: -250000 [=-C36] | H28: -250000 [=-C36] | I28: -250000 [=-C36] | J28: -250000 [=-C36] | K28: -250000 [=-C36]
+B29: Inv. BU | C29: 1e+06 | E29: EBITDA | F29: 0 [=SUM(F24:F28)] | G29: 375000 [=SUM(G24:G28)] | H29: 375000 [=SUM(H24:H28)] | I29: 375000 [=SUM(I24:I28)] | J29: 375000 [=SUM(J24:J28)] | K29: 375000 [=SUM(K24:K28)]
+B30: VUT | C30: 5 | E30: Res. Vta. Maq | F30: 0 | G30: 0 | H30: 0 | I30: 0 | J30: 0 | K30: 100000 [=C49]
+B31: VRM | C31: 200000 | E31: Amort. | F31: 0 | G31: -225000 [=-C48] | H31: -225000 [=-C48] | I31: -225000 [=-C48] | J31: -225000 [=-C48] | K31: 0
+B32: VUC | C32: 4 | E32: EBIT | F32: 0 [=F29+SUM(F30:F31)] | G32: 150000 [=G29+SUM(G30:G31)] | H32: 150000 [=H29+SUM(H30:H31)] | I32: 150000 [=I29+SUM(I30:I31)] | J32: 150000 [=J29+SUM(J30:J31)] | K32: 475000 [=K29+SUM(K30:K31)]
+B33: VRC | C33: 100000 | E33: I.G. | F33: 0 [=-F32*C39] | G33: -75000 [=-G32*C39] | H33: -75000 [=-H32*C39] | I33: -75000 [=-I32*C39] | J33: -75000 [=-J32*C39] | K33: -237500 [=-K32*C39]
+B34: Cst. Var. (xU) | C34: 50 | E34: U. Neta | F34: 0 [=SUM(F32:F33)] | G34: 75000 [=SUM(G32:G33)] | H34: 75000 [=SUM(H32:H33)] | I34: 75000 [=SUM(I32:I33)] | J34: 75000 [=SUM(J32:J33)] | K34: 237500 [=SUM(K32:K33)]
+B35: Gsto Fijo | C35: 200000
+B36: Alquiler | C36: 250000 | E36: Flujo de Fondos
+B37: Contado | C37: 0.8 | E37: Año | F37: 0 | G37: 1 | H37: 2 | I37: 3 | J37: 4 | K37: 5 | L37: 6
+B38: TREMA | C38: 0.1 | E38: EBITDA | F38: 0 [=F29] | G38: 375000 [=G29] | H38: 375000 [=H29] | I38: 375000 [=I29] | J38: 375000 [=J29] | K38: 375000 [=K29] | L38: 0
+B39: I.G. | C39: 0.5 | E39: ΔKt | F39: 0 | G39: -350000 [=-C50] | H39: 0 | I39: 0 | J39: 0 | K39: 0 | L39: 350000 [=C50]
+E40: Inv. BU | F40: -1000000 [=-C29] | G40: 0 | H40: 0 | I40: 0 | J40: 0 | K40: 0 | L40: 0
+B41: Auxiliar | E41: Venta BU | F41: 0 | G41: 0 | H41: 0 | I41: 0 | J41: 0 | K41: 200000 [=C31] | L41: 0
+B42: Unidades | C42: 15000 [=C27+C25] | E42: I.G. | F42: 0 [=F33] | G42: -75000 [=G33] | H42: -75000 [=H33] | I42: -75000 [=I33] | J42: -75000 [=J33] | K42: -237500 [=K33] | L42: 0
+B43: Ventas FP | C43: 1000000 [=C25*C26] | E43: FF | F43: -1000000 [=SUM(F38:F42)] | G43: -50000 [=SUM(G38:G42)] | H43: 300000 [=SUM(H38:H42)] | I43: 300000 [=SUM(I38:I42)] | J43: 300000 [=SUM(J38:J42)] | K43: 337500 [=SUM(K38:K42)] | L43: 350000 [=SUM(L38:L42)]
+B44: Ventas Dep | C44: 750000 [=C27*C28] | E44: VAN | F44: 39904.6 [=NPV(C38,G43:L43)+F43]
+B45: Ventas | C45: 1750000 [=C43+C44]
+B46: Comisión | C46: 175000 [=C45*C23]
+B47: Base Amort. | C47: 900000 [=C29-C33]
+B48: Amort. Fisc. An. | C48: 225000 [=C47/C32]
+B49: Res. Vta. | C49: 100000 [=C31-(C29-C48*C32)]
+B50: Cred. Vta. | C50: 350000 [=C45*(1-C37)]

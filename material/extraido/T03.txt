@@ -1,0 +1,1036 @@
+FUENTE: T03
+TITULO: Valor tiempo del dinero (cálculo financiero)
+ORIGINAL: material/catedra/teoria/VTD C2 2026.pdf
+PAGINAS: 39
+
+===== PAGINA 1 =====
+
+01
+
+
+     Cálculo Financiero
+
+
+     Interés simple, interés compuesto y por qué la diferencia crece con el tiempo
+
+
+
+
+                                                                                     1
+
+===== PAGINA 2 =====
+
+CÁLCULO FINANCIERO
+
+
+Interés Simple vs. Interés Compuesto
+
+
+En el interés simple, el interés se calcula siempre sobre el capital inicial.
+En el interés compuesto, el interés se calcula sobre el capital más los
+intereses ya acumulados: es interés sobre interés.
+
+● Interés simple: Monto = Capital × (1 + tasa × n). El capital sobre el que se                 EJEMPLO
+calcula el interés nunca cambia.
+                                                                                          Capital: $ 1.000
+● Interés compuesto: Monto = Capital × (1 + tasa)ⁿ. Cada período, el interés
+ganado se suma al capital y también empieza a generar interés (equivalencia de      Plazo: 2 años · Tasa: 10% anual
+capitales).
+                                                                                           Monto (int. simple)
+
+● Con una sola capitalización la diferencia es chica ($10 en este ejemplo) — pero
+crece exponencialmente cuanto más largo es el plazo.
+                                                                                             $ 1.200
+                                                                                         Monto (int. compuesto)
+
+                                                                                             $ 1.210
+
+
+                                                                                                                      2
+
+===== PAGINA 3 =====
+
+CÁLCULO FINANCIERO
+
+
+Por qué el interés compuesto gana con el tiempo
+
+                                     3000
+
+                                                                                                                 La lectura del ejemplo
+                                     2500
+
+
+
+
+ Monto ($, capital inicial $1.000)
+                                     2000
+
+                                                                                                                 Con capital de $1.000 al 10% anual, a los 2
+                                     1500                                                                        años la diferencia es de apenas $10. Pero a los
+                                                                                                                 10 años, el interés compuesto ya generó $593
+                                                                                                                 más que el simple.
+                                     1000
+
+                                                                                                                 Por eso toda tasa de interés relevante en
+                                     500                                                                         finanzas —depósitos, préstamos, inflación—
+                                                                                                                 se expresa y se compara en términos
+                                                                                                                 compuestos.
+                                        0
+                                            0   1   2    3          4       5        6          7   8   9   10
+                                                                         Años (n)
+
+                                                        Interés simple      Interés compuesto
+
+
+
+
+                                                                                                                                                                   3
+
+===== PAGINA 4 =====
+
+02
+
+
+     Tasas: cómo se miden y se comparan
+
+
+     De qué está hecha una tasa, y las distintas formas de expresarla
+
+
+
+
+                                                                        4
+
+===== PAGINA 5 =====
+
+TASAS
+
+
+Tasa de Interés: qué la determina
+
+
+   Qué compone una tasa                                Por qué importan los niveles
+
+   ● Tasa libre de riesgo + prima por riesgo.          ● Tasas altas enfrían la economía: es más atractivo
+                                                       colocar en el mercado financiero que invertir en
+                                                       proyectos productivos.
+   ● Mayor riesgo ⇒ mayor tasa exigida.                ● Pocos proyectos pasan el "test" de mejorar el
+                                                       rendimiento financiero de los inversores.
+
+   ● Mayor tasa ⇒ (para el que la paga) mayor riesgo   ● El horizonte de largo plazo "castiga" los
+   asumido.                                            beneficios futuros esperados por los
+                                                       emprendedores.
+   ● Inflación esperada, para llegar al rendimiento    ● Disminuye la oferta de crédito disponible.
+   real.
+
+
+
+
+                                                                                                             5
+
+===== PAGINA 6 =====
+
+TASAS
+
+
+Formas de presentar una tasa
+
+        Sobre saldos o directa
+        ¿Sobre qué capital se calcula el interés: el que realmente se debe, o el original?
+
+        Vencida o adelantada
+        ¿Se aplica sobre el saldo al inicio del período, o al cierre?
+
+        Proporcional, Nominal, Efectiva
+        ¿La tasa publicada (TNA) es la misma que la que realmente se paga en un año (TEA)?
+
+        Equivalente
+        ¿Dos tasas con distinta frecuencia de capitalización producen el mismo resultado?
+
+        Real
+        ¿Cuánto queda después de descontar el efecto de la inflación?
+
+
+
+                                                                                             6
+
+===== PAGINA 7 =====
+
+TASAS
+
+
+Sobre Saldos vs. Directa
+
+
+   Sobre Saldos                                            Directa
+
+   ● Se aplica sobre el saldo que efectivamente se         ● Se aplica sobre el capital inicial, como si nada se
+   debe (o me deben) en cada momento.                      hubiera devuelto todavía.
+
+   ● Es el criterio por default cuando no se aclara otra   ● Forma "marketinera" de presentar una tasa:
+   cosa.                                                   parece más baja de lo que realmente termina
+                                                           siendo.
+                                                           ● Más adelante van a ver el Sistema Directo de
+                                                           amortización de préstamos — un ejemplo
+                                                           numérico exacto de esta trampa.
+
+
+
+
+                                                                                                                   7
+
+===== PAGINA 8 =====
+
+TASAS
+
+
+Tasa Vencida vs. Adelantada
+
+
+Vencida (i): se aplica sobre el saldo al INICIO del período. Adelantada (d,
+o de descuento): se aplica sobre el saldo al CIERRE del período.
+
+                                                                                RELACIÓN ENTRE AMBAS
+● Vencida (i): es el criterio por default cuando no se aclara otra cosa.
+                                                                              (1 + i) × (1 − d) = 1
+● Adelantada (d): también llamada tasa de descuento.                              EJEMPLO NUMÉRICO
+
+                                                                              De $100 hoy a $110 en t = 1
+● Tasa vencida = 110/100 − 1 = 10%. Tasa adelantada = 1 − 100/110 = 9,09%:
+sobre el mismo flujo, la adelantada siempre da un número menor.                 Tasa vencida = 10%
+
+                                                                              Tasa adelantada = 9,09%
+
+
+
+
+                                                                                                            8
+
+===== PAGINA 9 =====
+
+TASAS
+
+
+Tasa Proporcional y Tasa Efectiva Anual
+
+
+La tasa proporcional (TP) reparte la TNA en partes iguales por período de capitalización.
+La tasa efectiva anual (TEA) es la que realmente se paga o se cobra en un año, una vez
+que el interés generado también empieza a generar interés.
+
+
+● TNA: la tasa nominal anual, el número que se publica. TP: la tasa que corresponde a cada          TASA PROPORCIONAL
+período de capitalización.
+                                                                                                   TP = TNA / m
+● Toda tasa proporcional es efectiva PARA SU PROPIO período: capitalización anual → TEA =
+                                                                                                   TASA EFECTIVA ANUAL
+TNA; mensual → TE mensual = TNA/12; trimestral → TE trimestral = TNA/4.
+
+                                                                                                 TEA = (1 + TP)ᵐ − 1
+● Pero la TEA anualizada siempre supera a la TNA apenas hay más de una capitalización por año:
+es el efecto "interés sobre interés" del compuesto.                                               m = capitalizaciones por año
+
+
+
+
+                                                                                                                                 9
+
+===== PAGINA 10 =====
+
+TASAS — DOS OFERTAS CON DISTINTA FRECUENCIA DE CAPITALIZACIÓN
+
+
+Rendimiento Nominal vs. Efectivo
+
+
+ Concepto                                                          A                                              B
+ Plazo (meses)                                                                                                1                                             6
+
+ TNA (%)                                                                                                  60%                                           65%
+
+ TP (%)                                                                                        5% (mensual)                             32,5% (semestral)
+
+ TEA (%)                                                                                                79,6%                                         75,6%
+
+
+
+
+La lectura del ejemplo: B tiene la TNA más alta (65% vs. 60%) — pero como capitaliza una sola vez cada 6 meses, su TEA termina siendo MENOR (75,6% vs. 79,6%).
+La TNA sola nunca alcanza para comparar dos ofertas con distinta frecuencia de capitalización.
+
+
+
+
+                                                                                                                                                                 10
+
+===== PAGINA 11 =====
+
+TASAS
+
+
+Tasas Equivalentes
+
+
+Dos tasas son equivalentes si, aplicadas a capitales iguales durante el
+mismo período, producen el mismo monto final — sin importar cómo
+esté expresada cada una.
+
+● Fórmula general: [1+TNA[k]/(365/k)](365/k) = [1+TNA[p]/(365/p)](365/p),                          EJEMPLO
+comparando dos capitalizaciones distintas (cada k días vs. cada p días).
+                                                                                      TNA = 24% (capitaliz. mensual)
+
+● Es el mismo principio que TP vs. TEA: lo que se mantiene constante entre dos   ¿Cuál es la TNA equivalente con capitalización
+tasas equivalentes es la TEA que ambas generan, no el número nominal.                             trimestral?
+
+                                                                                       (1+0,02)¹² = (1+TNA₉₀/4)⁴
+● Por eso la TNA sola nunca alcanza para comparar dos ofertas de crédito o de
+inversión con distinta frecuencia de capitalización.                                    TNA₉₀ = [(1,02)³ − 1] × 4
+
+                                                                                        TNA₉₀ = 24,48%
+
+
+
+                                                                                                                                  11
+
+===== PAGINA 12 =====
+
+TASAS
+
+
+Tasa Real
+
+
+La tasa real mide el resultado en términos de poder adquisitivo, no en
+cantidad de pesos: descuenta el efecto de la inflación.
+
+                                                                                               APROXIMACIÓN (tasas bajas)
+● ir = tasa de interés real · in = tasa de interés nominal · f = inflación del período.
+                                                                                                    ir ≈ in − f
+● Con tasas bajas, la aproximación simple (restar) funciona razonablemente bien:
+                                                                                                  FÓRMULA GENERAL
+5% − 4% = 1%.
+
+● La fórmula exacta da (1,05/1,04) − 1 = 0,96% — cuanto más altas son la tasa y            (1 + ir) = (1 + in) / (1 + f)
+la inflación, más se separan ambos números (lo van a ver con números reales en
+la sección de caso argentino).                                                                  EJEMPLO: in = 5%, f = 4%
+
+                                                                                          Aproximada: 1% · Exacta: 0,96%
+
+
+
+
+                                                                                                                            12
+
+===== PAGINA 13 =====
+
+03
+
+
+     Valor Tiempo del Dinero
+
+
+     Por qué un peso hoy no vale lo mismo que un peso mañana
+
+
+
+
+                                                               13
+
+===== PAGINA 14 =====
+
+14
+                           VALOR
+                           PRESENTE
+
+     ¿Cuánto debo invertir hoy para obtener mañana una suma de F ?
+                             P = Valor presente de F
+
+
+      Valor
+      Presente                                                𝑉𝐹
+                 F              VF = VP(1 + i)n    𝑉𝑃 =
+                                                           (1 + 𝑖)𝑛
+
+
+
+
+                                    Tiempo
+
+===== PAGINA 15 =====
+
+VALOR TIEMPO DEL DINERO
+
+
+Valor Presente y Actualización
+
+
+   Actualización — traer al presente                      Capitalización — llevar al futuro
+
+   ● ¿Cuánto vale HOY una suma F que voy a cobrar en el   ● ¿Cuánto voy a tener en el futuro si invierto P hoy?
+   futuro?
+
+   ● P = F / (1 + i)ⁿ                                     ● F = P × (1 + i)ⁿ
+
+
+   ● La operación se llama actualización; el cálculo,     ● La operación se llama capitalización; el cálculo, interés.
+   descuento.
+
+
+
+
+                                                                                                                         14
+
+===== PAGINA 16 =====
+
+VALOR TIEMPO DEL DINERO — EJEMPLO NUMÉRICO
+
+
+Valor Actual de Flujos de Varios Períodos
+
+Fórmula general: P = Σ Fₜ / (1 + i)ᵗ — Ejemplo: el flujo de caja de la construcción y venta de un edificio de oficinas, con una tasa requerida de rendimiento
+del 5% anual.
+
+
+
+ Período                                 Flujo de fondos                                             Valor presente (a 5% anual)
+
+ 0                                                                                    − $ 170.000                                                 − $ 170.000
+
+
+ 1                                                                                    − $ 100.000                                                   − $ 95.238
+
+
+ 2                                                                                    + $ 320.000                                                 + $ 290.249
+
+
+ Total (VAN)                                                                                                                                          $ 25.011
+
+
+
+
+                                                                                                                                                                 15
+
+===== PAGINA 17 =====
+
+04
+
+
+     Riesgo y Decisiones Financieras
+
+
+     Qué busca un inversor, y las dos grandes decisiones de toda empresa
+
+
+
+
+                                                                           16
+
+===== PAGINA 18 =====
+
+RIESGO Y DECISIONES FINANCIERAS
+
+
+Retorno vs. Riesgo
+
+
+
+
+                                                            ¿Qué busca un inversor?
+
+               Obtener el máximo rendimiento (o retorno) posible, para un nivel de riesgo
+                                            “aceptable”.
+
+
+
+               Retorno y riesgo van de la mano: no se puede pedir un mayor rendimiento esperado sin aceptar, a la vez, un mayor riesgo.
+
+
+
+
+                                                                                                                                          17
+
+===== PAGINA 19 =====
+
+RIESGO Y DECISIONES FINANCIERAS
+
+
+Decisiones de Inversión vs. Financiamiento
+
+
+   Decisión de Inversión                                        Decisión de Financiamiento
+
+   ● Objetivo: seleccionar los activos que generen más valor.   ● Objetivo: seleccionar las fuentes de fondos que
+                                                                potencien el rendimiento de los activos.
+
+   ● Pregunta clave: ¿qué cartera de activos es la más          ● Pregunta clave: ¿cuál es la estructura de capital
+   conveniente?                                                 óptima?
+
+
+
+
+                                                                                                                      18
+
+===== PAGINA 20 =====
+
+05
+
+
+     Préstamos: Sistemas de Amortización
+
+
+     Cuatro formas distintas de devolver el mismo préstamo — ¿son realmente equivalentes?
+
+
+
+
+                                                                                            19
+
+===== PAGINA 21 =====
+
+SISTEMAS DE AMORTIZACIÓN
+
+
+Préstamos: qué hay que definir
+
+
+   Amortización                                                 Interés
+
+   ● ¿Cuándo y en qué medida se va devolviendo el               ● ¿Tasa fija o variable?
+   principal?
+
+   ● ¿Se ajusta por algún índice (inflación, tipo de cambio)?   ● ¿Cuándo y en qué fechas se paga el interés?
+
+
+
+
+                                                                                                                20
+
+===== PAGINA 22 =====
+
+SISTEMAS DE AMORTIZACIÓN — HAY INFINITAS ALTERNATIVAS; ESTAS SON LAS MÁS USADAS
+
+
+Formas usuales de amortización
+
+         Sistema Americano
+         Se paga sólo interés durante la vida del préstamo; el capital entero se devuelve en el último pago.
+
+         Sistema Alemán
+         El capital se amortiza en cuotas iguales; el interés baja cada período porque se calcula sobre el saldo.
+
+         Sistema Francés
+         La cuota total (capital + interés) es igual en todos los períodos.
+
+         Sistema Directo
+         El interés se calcula siempre sobre el capital original, no sobre el saldo real que se adeuda.
+
+         Sistema Indexado
+         El capital y/o las cuotas se ajustan por un índice (por ejemplo, inflación).
+
+
+
+
+                                                                                                                    21
+
+===== PAGINA 23 =====
+
+SISTEMAS DE AMORTIZACIÓN — UN MISMO PRÉSTAMO, CUATRO FORMAS DE DEVOLVERLO
+
+
+El caso base
+
+
+Supuesto                                      Detalle
+
+Préstamo                                                                                                               $ 1.000
+
+
+
+Plazo                                                                                                2 años, con pagos anuales
+
+
+
+Tasa                                                                                                                10% anual
+
+
+
+Perspectiva                                    Vamos a ver, en cada sistema, el flujo de fondos para el ACREEDOR (quien presta
+                                                                                                                     el dinero)
+
+
+
+                                                                                                                                  22
+
+===== PAGINA 24 =====
+
+UN SISTEMA, CUATRO FORMAS
+
+
+Sistema Americano
+
+Se paga sólo interés durante la vida del préstamo; el capital entero se devuelve en el último pago.
+
+                                                                                                                                                 + $1.100
+
+
+                                                                                             + $100
+
+
+
+
+                   − $1.000
+             (el acreedor presta)
+                       Hoy                                                                    Año 1                                               Año 2
+
+
+                                                                                             Año 1                           Año 2
+
+                                        Amortización de capital                                                         0                1.000
+
+                                        Intereses                                                                     100                 100
+
+                                        Cuota                                                                         100                1.100
+
+
+Tasa efectiva para el acreedor: 10% — igual a la tasa nominal, porque el interés siempre se calcula sobre el saldo realmente adeudado.
+                                                                                                                                                            23
+
+===== PAGINA 25 =====
+
+UN SISTEMA, CUATRO FORMAS
+
+
+Sistema Alemán
+
+El capital se amortiza en cuotas iguales; el interés baja cada período porque se calcula sobre el saldo, que ya bajó.
+
+                                                                                 + $600                                       + $550
+
+
+
+
+                   − $1.000
+             (el acreedor presta)
+                       Hoy                                                        Año 1                                       Año 2
+
+
+                                                                                 Año 1                       Año 2
+
+                                        Amortización de capital                                       500               500
+
+                                        Intereses                                                     100                50
+
+                                        Cuota                                                         600               550
+
+
+Tasa efectiva para el acreedor: 10% — igual a la tasa nominal.
+                                                                                                                                       24
+
+===== PAGINA 26 =====
+
+UN SISTEMA, CUATRO FORMAS
+
+
+Sistema Francés
+
+La cuota total (capital + interés) es igual en todos los períodos; lo que cambia es la proporción entre ambos componentes.
+
+                                                                             + $576,19                                                + $576,19
+
+
+
+
+                   − $1.000
+             (el acreedor presta)
+                       Hoy                                                     Año 1                                                    Año 2
+
+
+                                                                               Año 1                      Año 2
+
+                                        Amortización de capital                                  476,19                      523,81
+
+                                        Intereses                                                100,00                       52,38
+
+                                        Cuota                                                    576,19                      576,19
+
+
+Tasa efectiva para el acreedor: 10% — igual a la tasa nominal.
+                                                                                                                                                  25
+
+===== PAGINA 27 =====
+
+UN SISTEMA, CUATRO FORMAS
+
+
+Sistema Directo
+
+El interés se calcula siempre sobre el capital ORIGINAL, no sobre el saldo real — aunque la mitad del capital ya se devolvió.
+
+                                                                                            + $600                                    + $600
+
+
+
+
+                   − $1.000
+             (el acreedor presta)
+                       Hoy                                                                   Año 1                                    Año 2
+
+
+                                                                                            Año 1              Año 2
+
+                                       Amortización de capital                                           500                    500
+
+                                       Intereses                                                         100                    100
+
+                                       Cuota                                                             600                    600
+
+
+A simple vista se parece al Sistema Alemán del año 1, repetido dos veces. ¿Es realmente equivalente? →
+                                                                                                                                               26
+
+===== PAGINA 28 =====
+
+SISTEMAS DE AMORTIZACIÓN — TASA NOMINAL VS. TASA EFECTIVA REAL
+
+
+La trampa del Sistema Directo
+
+
+Con flujos de −$1.000, +$600 y +$600, la tasa interna de retorno (TIR) para el acreedor
+NO es 10%: es más alta.
+
+
+● ¿Por qué? Porque el interés se sigue calculando sobre el capital ORIGINAL en el año 2 —               TIR DEL SISTEMA DIRECTO
+cuando en realidad ya se devolvió la mitad. El acreedor cobra interés sobre plata que ya no tiene
+prestada.
+
+● Es exactamente la trampa de la tasa "directa" que vimos al principio de la sección de tasas:            13,07%
+sobre saldos vs. directa no es un detalle técnico, acá cambia la tasa real más de 3 puntos
+porcentuales.                                                                                           vs. 10% nominal publicado
+
+● Por eso el Sistema Directo "representa para el acreedor un beneficio adicional": la tasa          (los otros 3 sistemas: exactamente 10%)
+nominal publicitada (10%) no es la que realmente se termina cobrando.
+
+
+
+
+                                                                                                                                              27
+
+===== PAGINA 29 =====
+
+SISTEMAS DE AMORTIZACIÓN
+
+
+Comparación de los cuatro sistemas
+
+
+ Sistema                             Cuota año 1                     Cuota año 2                      Total pagado                     Tasa efectiva real
+
+ Americano                                                  100,00                         1.100,00                         1.200,00                          10,00%
+
+
+ Alemán                                                     600,00                           550,00                         1.150,00                          10,00%
+
+
+ Francés                                                    576,19                           576,19                         1.152,38                          10,00%
+
+
+ Directo                                                    600,00                           600,00                         1.200,00                          13,07%
+
+
+
+
+La conclusión no es “el mejor sistema es el que paga menos”: es cierto que se devuelven cantidades distintas de pesos, pero con distribuciones en el tiempo
+distintas — eso por sí solo no dice cuál es más caro. Lo que sí lo dice es la tasa efectiva real: y ahí, el Sistema Directo es la única excepción a los 10% nominales.
+
+
+
+
+                                                                                                                                                                         28
+
+===== PAGINA 30 =====
+
+06
+
+
+     Préstamos Indexados y Costo Financiero
+     Total
+
+     Cuando el capital se ajusta por inflación, y el número que de verdad hay que mirar
+
+
+
+
+                                                                                          29
+
+===== PAGINA 31 =====
+
+PRÉSTAMOS INDEXADOS
+
+
+Préstamo Indexado: el caso
+
+
+Supuesto                 Detalle
+
+Préstamo                                                          $ 1.000
+
+
+Plazo                                          2 años, con pagos anuales
+
+
+Tasa real                                                      10% anual
+
+
+Inflación                                                       8% anual
+
+
+Sistema                            Americano (sólo interés hasta el final)
+
+
+Perspectiva                             Flujo de fondos para el acreedor
+
+
+
+                                                                             30
+
+===== PAGINA 32 =====
+
+PRÉSTAMOS INDEXADOS
+
+
+Préstamo Indexado: $ constantes vs. $ corrientes
+
+El mismo préstamo, visto en dos monedas distintas: poder adquisitivo constante (real) y pesos del momento (nominal).
+
+
+
+$ Constantes (poder adquisitivo real)                                                $ Corrientes (pesos nominales)
+
+                Período                  0                1                 2                        Período                 0                 1                  2
+
+ F.F.                             − $ 1.000          $ 100            $ 1.100          F.F.                           − $ 1.000            $ 108          $ 1.283,04
+
+
+
+   VAN al 10% (tasa real) = $ 0                                                          VAN al 18,8% (tasa nominal) = $ 0
+
+
+
+
+En pesos corrientes, cada pago futuro ya lleva incorporada la inflación acumulada hasta ese momento — por eso $108 y $1.283,04 en vez de $100 y $1.100.
+
+
+
+
+                                                                                                                                                                       31
+
+===== PAGINA 33 =====
+
+PRÉSTAMOS INDEXADOS
+
+
+Tasa Nominal vs. Tasa Real: la relación de Fisher
+
+
+La relación de Fisher conecta la tasa real, la inflación y la tasa nominal que hay que
+pactar para que el prestamista mantenga su rendimiento real.
+
+
+● Por eso, en $ corrientes, la cuota del año 2 no es $1.100 sino $1.283,04: cada peso nominal           RELACIÓN DE FISHER
+futuro ya trae incorporados los 8 puntos de inflación esperada, además del 10% real.
+                                                                                                 (1+i nom) = (1+i real) × (1+infl.)
+● Es la misma lógica de "tasa real vs. nominal" que vimos antes — sólo que ahora aplicada a lo
+largo de todo un préstamo, no a un único período.                                                          EN EL EJEMPLO
+
+                                                                                                       (1+10%) × (1+8%) − 1
+● Los préstamos hipotecarios UVA que vamos a ver en la sección de caso argentino funcionan
+exactamente así.
+                                                                                                   i nominal = 18,8%
+
+
+
+
+                                                                                                                                      32
+
+===== PAGINA 34 =====
+
+PRÉSTAMOS INDEXADOS
+
+
+Tasa “All in Cost”, CFT
+
+
+El costo financiero total (CFT) es la tasa que resume TODO lo que cuesta un préstamo:
+no sólo el interés, también gastos, seguros e impuestos.
+
+
+                                                                                                             CÓMO SE CALCULA
+● Ejemplo numérico: préstamo de $1.000 a devolver en un período, tasa nominal 10%.
+                                                                                                 1. Explicitar el flujo de fondos del préstamo
+
+● Costos de otorgamiento: 2% del préstamo (se cobran al otorgarlo). Gastos administrativos: 4%         2. Incluir TODOS los conceptos
+del valor de la cuota.
+                                                                                                    3. Calcular la TIR del flujo resultante
+
+● CFT = (1+10%) × (1+4%) / (1−2%) − 1 = 16,73% — casi 7 puntos por encima del 10% nominal,
+                                                                                                                  EJEMPLO
+sólo por los gastos accesorios.
+                                                                                                         CFT = 16,73%
+
+
+
+                                                                                                                                                 33
+
+===== PAGINA 35 =====
+
+PRÉSTAMOS INDEXADOS
+
+
+Ejemplo: financiar el saldo de la tarjeta de crédito
+
+Saldo a refinanciar: $5.000, capitalización cada 30 días, sistema francés, intereses con IVA (21%). Datos de mercado (mayo 2010) — el ejercicio de cálculo sigue vigente hoy.
+
+
+
+ N° cuotas            Cuota                       TNA fija             TEA                   Gastos otorg.              Seguro vida           CFT
+ 3                                   $ 1.749,41                 30%                34,50%                    $ 109,59                 0,40%                          75,72%
+
+ 6                                     $ 906,61                 30%                34,50%                    $ 109,59                 0,40%                          64,58%
+
+ 9                                     $ 626,17                 30%                34,50%                    $ 109,59                 0,40%                          60,29%
+
+ 12                                    $ 486,33                 30%                34,50%                    $ 109,59                 0,40%                          58,02%
+
+ 24                                    $ 288,62                 34%                39,84%                    $ 109,59                 0,40%                          61,91%
+
+
+
+
+La lectura del ejemplo: aunque la TNA es casi constante (30%), el CFT real va de 58% a 76% — y no baja siempre que agrego cuotas: vuelve a subir en 24 cuotas porque
+ahí también sube la tasa. Los $109,59 de gastos fijos pesan más cuanto menor es cada cuota.
+
+
+
+
+                                                                                                                                                                                34
+
+===== PAGINA 36 =====
+
+07
+
+
+     Caso Argentino: Tasas y CFT Hoy
+
+
+     Todo lo que vimos, aplicado a la Argentina de 2026
+
+
+
+
+                                                          35
+
+===== PAGINA 37 =====
+
+CASO ARGENTINO
+
+
+Créditos hipotecarios UVA — tasas por banco, 2026
+
+             16
+                                                                                                                         15,0%
+                                                                                                                                     La lectura del ejemplo
+             14
+
+                                                                                                             12,0%
+             12
+
+
+             10                                                                                    9,5%                              Para un crédito hipotecario UVA de USD
+                                                                                   8,5%                                              75.000 a 20 años, la cuota inicial va de
+
+   TNA (%)
+                                                                  8,0%                                                               $821.980 (Banco Nación, 6,00% TNA) a
+             8                                    7,5%
+                                 6,9%                                                                                                $1.502.242 (Supervielle, 15,00% TNA) — casi
+                  6,0%                                                                                                               el doble, sobre el mismo tipo de préstamo.
+             6
+                                                                                                                                     La tasa se aplica sobre el capital ajustado por
+             4                                                                                                                       UVA (inflación): todo lo que vimos sobre tasa
+                                                                                                                                     real, capitalización y CFT aplica directamente
+             2                                                                                                                       acá.
+
+
+             0
+                  Banco          ICBC           Banco          Credicoop          Banco           Banco      Brubank   Supervielle
+                  Nación                        Ciudad                            Macro           Galicia
+
+Fuente: iProfesional, “Cuánto cobra cada banco por un crédito hipotecario UVA de USD 75.000” (26/07/2026).
+
+
+                                                                                                                                                                                       36
+
+===== PAGINA 38 =====
+
+CASO ARGENTINO
+
+
+Mirá más allá de la tasa: el CFT en la práctica
+
+
+
+                     Lo que recuerda el Banco Central
+
+
+   El BCRA advierte que “no alcanza con mirar la tasa de interés que aparece en la publicidad”: hay que mirar el Costo Financiero Total (CFT), que incluye
+   intereses, seguros, comisiones y otros cargos — exactamente el mismo cálculo que hicimos con el ejemplo de la tarjeta de crédito.
+
+
+   Con una inflación esperada de referencia en torno al 26% anual (Relevamiento de Expectativas de Mercado del BCRA, junio de 2026), la brecha entre
+   tasa nominal y costo real importa cada vez más: es la relación de Fisher y la tasa real, aplicadas a decisiones de todos los días.
+
+
+
+   La recomendación vale para cualquier crédito — personal, tarjeta, o hipotecario UVA: comparar SIEMPRE el CFT, nunca sólo la TNA publicitada.
+
+
+
+
+   Fuentes: iProfesional, “Qué tener en cuenta al sacar un crédito según el Banco Central” (27/08/2026); BCRA, Relevamiento de Expectativas de Mercado (jun-2026).
+
+
+
+                                                                                                                                                                     37
+
+===== PAGINA 39 =====
+
+PARA LLEVARSE DE ESTA CLASE
+
+
+Ideas clave del módulo
+
+          Compuesto ≠ simple, y la diferencia crece con el tiempo
+          Con capitalización, cada peso de interés también empieza a generar interés — por eso toda tasa relevante en finanzas se expresa en términos
+          compuestos.
+
+          TNA no es TEA
+
+          Siempre hay que mirar la frecuencia de capitalización antes de comparar dos tasas: una TNA más baja puede esconder una TEA más alta.
+
+
+          El sistema de amortización cambia CUÁNDO se paga, no siempre CUÁNTO
+          Americano, Alemán y Francés dan la misma tasa efectiva (10%) con distinta distribución en el tiempo — el Sistema Directo es la excepción que sí
+          cobra de más.
+
+          El valor del dinero cambia en el tiempo
+
+          Antes de comparar flujos de distintos momentos, hay que traerlos a valor presente con la tasa de descuento adecuada.
+
+
+          La tasa nominal es el punto de partida; el CFT es el número que importa
+          Gastos, seguros e impuestos pueden encarecer mucho el costo real de un crédito frente a la tasa publicitada — en la Argentina de 2026, más que
+          nunca.
+
+                                                                                                                                                            38
+
