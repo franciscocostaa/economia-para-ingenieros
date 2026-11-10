@@ -4,6 +4,7 @@ Este es el índice del conocimiento canónico compilado. Agregá una entrada por
 
 ## Navegación
 
+- [Hoja de fórmulas](hoja-de-formulas.md): único material de consulta permitido en el parcial del 17/11/2026.
 - [Glosario](glosario.md)
 - [Dudas y conflictos](dudas-y-conflictos.md)
 - [Preguntas de repaso](repaso/preguntas.md)
@@ -21,3 +22,4 @@ Este es el índice del conocimiento canónico compilado. Agregá una entrada por
 ## Práctica
 
 - [Parciales anteriores y banco de V/F](../practica/segundo-parcial/): enunciados transcriptos, resoluciones explicadas y revisadas, un archivo por cuatrimestre.
+- [1C2026 paso a paso](../practica/segundo-parcial/2026-C1-paso-a-paso.md): recorrido guiado del parcial desde cero, con el vocabulario explicado. Punto de entrada para quien no cursó las clases.

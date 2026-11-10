@@ -19,8 +19,8 @@ practica:
   trabajo_grupal_activo: false
 
 laboratorio:
-  herramienta: "ninguna"
-  dialecto_o_runtime: ""
+  herramienta: "excel"
+  dialecto_o_runtime: "Microsoft Excel (.xlsm); el 2.º parcial se resuelve en planilla, sin internet"
 
 fuentes:
   prioridad: ["catedra", "notas", "externo", "conocimiento_general"]

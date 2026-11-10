@@ -19,9 +19,47 @@ Las resoluciones oficiales mezclan temas: [R02] resuelve el problema 1 con los d
 
 ## Formato
 
-- Sin calculadora; las dudas se resuelven con un supuesto justificado por escrito [P02, p. 1].
+- Sin calculadora; las dudas se resuelven con un supuesto justificado por escrito [P02, p. 1]. **Esto cambió para el parcial del 17/11/2026**: ver más abajo.
 - Estructura casi fija: un ejercicio de V/F con justificación obligatoria (8 a 10 incisos), un problema de valor tiempo del dinero y un problema de evaluación de proyectos [P02, p. 1] [X05] [X07]. El parcial del 11/11/2025 no tuvo V/F [P01].
 - Un V/F sin justificación se invalida [P02, p. 1].
+
+## Modalidad del parcial del 17/11/2026
+
+Anuncio de la cátedra en el campus ("Modalidad 2do. parcial 17-11-26"). **No hay un archivo de esta fuente en el repositorio**: el texto se transcribió de una captura de pantalla, así que no lleva ID de catálogo.
+
+- El parcial **se resuelve en Excel**, en el archivo `EPI 2° Parcial 17-11-2026 cmd - Legajo 00000.xlsm` que se descarga de la Actividad habilitada. Hay que renombrarlo reemplazando `00000` por los cinco dígitos del legajo.
+- **El archivo no abre con la computadora conectada a internet.** Hay que desconectarse antes de abrirlo y reconectarse recién al final para subirlo a la Actividad.
+- Estructura: **dos ejercicios y un punto de verdadero/falso**. Cada ítem va en la hoja cuya solapa lleva su número; en las celdas **B1 y B2** de cada hoja van apellido, nombre y legajo.
+- Los **enunciados se entregan impresos en papel** al comenzar.
+- Único material de ayuda permitido: **una hoja de fórmulas** (ver [hoja de fórmulas](../hoja-de-formulas.md)). Prohibido cualquier otro apunte o ejercicio resuelto.
+- Conviene grabar el archivo periódicamente durante la resolución.
+
+**Inferencia:** al desaparecer la restricción de resolver sin calculadora, los datos pueden dejar de ser redondos y conviene desplegar los cuadros completos (marcha de un préstamo, flujo de fondos año por año) en lugar de buscar atajos de cálculo mental.
+
+### Cómo escribe las planillas la cátedra
+
+Relevado sobre las fórmulas de las dos resoluciones oficiales en planilla, [R02] y [R03]. Las únicas funciones de Excel que aparecen en todo el material son `SUM`, `IRR`, `POWER`, `IF` y `ROUND`: **el resto se escribe a mano con el operador `^`**.
+
+| Cálculo | Fórmula tal como aparece en la planilla oficial |
+|---|---|
+| Tasa efectiva del período desde la TNA | `=B7/4` [R03] |
+| Cambio de plazo de una tasa efectiva | `=(1+B17)^(1/3)-1` [R03] |
+| TEA desde la tasa del período | `=(1+B17)^4-1` [R03] |
+| Saldo de un préstamo alemán tras *k* cuotas | `=B6*(1-11/B9)` [R03] |
+| Cuota del sistema francés | `=F16*B14/(1-(1+B14)^-B13)` [R03] |
+| Factor de actualización de una anualidad | `=(POWER(1+D13,D8)-1)/(POWER(1+D13,D8)*D13)` [R02] |
+| Factor de descuento del período *t* | `=1/(1+$B$19)^B27` [R03] |
+| VAN | `=SUM(B44:G44)` sobre la fila de flujos ya descontados [R03] |
+| TIR | `=IRR(B42:G42)` [R03] |
+| Valor residual neto de impuestos | `=B15-B18*(B15-(B12-5*B14))` [R03] |
+| Veredicto de la recomendación | `=IF(B22>0,"Se recomienda la inversión","No se recomienda la inversión")` [R02] |
+
+Consecuencias prácticas:
+
+- **No alcanza con saber manejar Excel: hay que saber las fórmulas.** Las funciones financieras `PAGO`/`PMT`, `VNA`/`NPV`, `VA`, `NPER` y `TASA`/`RATE` no se usan en ninguna resolución oficial.
+- **El VAN se calcula en dos filas** (factores de descuento y después `SUM`), no con `VNA`. **Inferencia:** además de ser el estilo de la cátedra, evita el error de `VNA`, que supone el primer flujo en *t* = 1 y por lo tanto descuenta de más la inversión inicial si se la incluye en el rango.
+- La cátedra arma un **bloque de parámetros** en las primeras filas y después referencia esas celdas con direcciones absolutas (`$B$9`), en vez de repetir los números dentro de las fórmulas [R03].
+- El único cálculo iterativo que delega en una función es la TIR.
 
 ## Qué se evalúa
 
