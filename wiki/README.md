@@ -7,6 +7,7 @@ Este es el índice del conocimiento canónico compilado. Agregá una entrada por
 - [Glosario](glosario.md)
 - [Dudas y conflictos](dudas-y-conflictos.md)
 - [Preguntas de repaso](repaso/preguntas.md)
+- [Hoja de fórmulas](repaso/hoja-de-formulas.md) y [verificación por ejercicio](repaso/verificacion-hoja-de-formulas.md).
 
 ## Temas
 
