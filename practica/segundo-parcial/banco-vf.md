@@ -205,6 +205,7 @@ Fuente de la tabla: [R03] (hoja P1, celdas B5:B14).
 
 ## Relación con otros temas
 
+- [Compilado de V/F resuelto en formato examen](compilado-vf-resuelto.md)
 - [Información contable](../../wiki/temas/informacion-contable.md)
 - [Análisis financiero](../../wiki/temas/analisis-financiero.md)
 - [Costos](../../wiki/temas/costos.md)

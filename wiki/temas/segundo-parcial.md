@@ -13,7 +13,7 @@
 | 11/11/2025 (2C2025) | [P01] | [R02] | cátedra | [2025-C2](../../practica/segundo-parcial/2025-C2.md) |
 | 16/06/2026 (1C2026) | [P02, p. 1] | [R03] | cátedra | [2026-C1](../../practica/segundo-parcial/2026-C1.md) |
 
-El compilado de verdadero/falso [X08] y los V/F oficiales de 2026 están revisados en el [banco de V/F](../../practica/segundo-parcial/banco-vf.md).
+El compilado de verdadero/falso [X08] y los V/F oficiales de 2026 están revisados en el [banco de V/F](../../practica/segundo-parcial/banco-vf.md). El compilado completo, respondido en formato examen, está en [compilado-vf-resuelto](../../practica/segundo-parcial/compilado-vf-resuelto.md).
 
 Las resoluciones oficiales mezclan temas: [R02] resuelve el problema 1 con los datos del tema 1 y el problema 2 con los del tema 2 de [P01]; [R03] hace lo mismo con [P02, p. 1] y [P02, p. 2]. Los temas faltantes están calculados en las páginas de práctica y marcados como inferencia. Con los datos del tema 1, el proyecto SolArGen de 2025 da VAN negativo, al revés que el tema 2 resuelto en [R02].
 
