@@ -140,7 +140,7 @@ Preguntas recuperables por tema. Mantener las respuestas separadas o plegadas cu
 <details><summary>Respuesta</summary> Porque cobra interés sobre el capital original aunque ya se devolvió parte. La TIR de −1.000/+600/+600 es 13,07% y no 10% [T03, p. 28].</details>
 
 8. ¿Por qué el CFT puede superar a la TEA de un préstamo?
-<details><summary>Respuesta</summary> La TEA solo considera intereses. El CFT es la TIR del flujo con todos los costos: con una comisión de $2 sobre $100, se recibe $98 pero se pagan cuotas calculadas sobre $100 [G05, p. 1] [G05, p. 2].</details>
+<details><summary>Respuesta</summary> La TEA solo considera intereses. El CFT es la TIR del flujo con todos los costos: con una comisión de $2 sobre $100, se recibe $98 pero se pagan cuotas calculadas sobre $100 [G05, p. 1] [G05, p. 2]. El resultado oficial de ese ejercicio es 10,83 % semestral [G03, p. 1]. Anualizar un 11 % aproximado da 23,21 % y no es el CFT; esa es la cifra de la planilla no oficial [X13].</details>
 
 9. ¿Cuál es el CFT de un préstamo de $1.000 a un período al 10%, con 2% de gastos de otorgamiento y gastos administrativos del 4% de la cuota?
 <details><summary>Respuesta</summary> CFT = 1,10 × 1,04 / 0,98 − 1 = 16,73% [T03, p. 34].</details>
@@ -149,7 +149,7 @@ Preguntas recuperables por tema. Mantener las respuestas separadas o plegadas cu
 <details><summary>Respuesta</summary> (1,10)(1,08) − 1 = 18,8%; la cuota final pasa de $1.100 constantes a $1.283,04 corrientes [T03, p. 32] [T03, p. 33].</details>
 
 11. ¿Cómo decide la cátedra entre comprar al contado o financiado?
-<details><summary>Respuesta</summary> Descuenta el flujo de cada financiación con el costo de oportunidad del capital propio y compara el VP total con el precio de contado [G05, p. 2]. En G01 ej. 9, $703.661 < $710.000, así que conviene financiar [G03, p. 1].</details>
+<details><summary>Respuesta</summary> Descuenta el flujo de cada financiación con el costo de oportunidad del capital propio y compara el VP total con el precio de contado [G05, p. 2]. En G01 ej. 9, $703.661 < $710.000, así que conviene financiar [G03, p. 1]. La planilla no oficial [X13] llega al mismo VP descontando el crédito de proveedor en el mes 4.</details>
 
 12. En el parcial 16/06/2026, ¿qué préstamo es más conveniente: el alemán (TNA 12,5% con capitalización trimestral) o el bullet (6% semestral)?
 <details><summary>Respuesta</summary> El bullet, porque su TEA (12,36%) es menor que la del alemán (13,10%) [R03].</details>

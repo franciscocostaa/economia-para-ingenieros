@@ -255,7 +255,23 @@ Guía práctica, Parte 2, de [G01, p. 6] a [G01, p. 9]; resultados oficiales en 
 6. **Máquina con vida fiscal 10 años usada 5** (estudio de $105 hundido, IG 35%): FEO, FEE(BU), FEE(Kt) con tres enfoques y VAN al 20%. Resultado: FEO = 425; inversión BU 1.000 y FEE(BU) = 240; inversión Kt 200 y FEE(KT) = 174; VAN(20%) = 237,41, se acepta [G04, p. 1]. Recalculado: 237,39.
 7. **Tapitas propias** (enfoque marginal, reingeniería hundida, técnico prorrateado excluido, IG 20%): FEO/FEE, VAN y dos preguntas conceptuales. Resultado: FEO(t=0) = −1.600; FEO(1-5) = 394.400; FEE(BU) = 52.000; FEE(KT) = 12.000; VAN(10%) = 1.313.225; (c) el estudio es costo hundido y no cambia el VAN; (d) amortizar en 6 años aumenta el VAN [G04, p. 1] [G04, p. 2].
 
-La guía continúa con **análisis de reemplazo** (vida económica y período óptimo de reemplazo, ejercicios 2.8 y 2.9) [G01, p. 10], sin resultados en G04; la cátedra indica resolverlos con CAE [G05, p. 4] [G05, p. 5]. G01 no contiene una parte de contabilidad: el encabezado "Contabilidad" de la p. 2 precede al índice de VTD, proyectos y reemplazo [G01, p. 2].
+La guía continúa con **análisis de reemplazo** (vida económica y período óptimo de reemplazo, ejercicios 2.8 y 2.9) [G01, p. 10], sin resultados en G04; la cátedra indica resolverlos con CAE [G05, p. 4] [G05, p. 5]. [X14] tampoco los resuelve. G01 no contiene una parte de contabilidad: el encabezado "Contabilidad" de la p. 2 precede al índice de VTD, proyectos y reemplazo [G01, p. 2].
+
+### Resolución no oficial de la guía 7
+
+[X14] es la planilla de Andy (`Finanzas_Guia_3_Res.xlsx`), ejercicios 1 a 7. Los flujos y el VAN coinciden con [G04] y con la corrección del ejercicio 3:
+
+| Ej. | Resultado en [X14] | Referencia |
+|---|---|---|
+| 1 | FEO 403; FEE(BU) 806; FEE(Kt) 86; VAN(10 %) 572,37 | [G04, p. 1] |
+| 2 | −49.400; 11.800 × 4; 23.800; VAN 2.782,34 | [G04, p. 1] |
+| 3 | ΔVAN 1.984,13, a favor del esquema acelerado | [G05, p. 2], no los 1.994 de [G04] |
+| 4 | −280.000; 265.500 × 4; 75.500; 265.500 × 4; 344.300; VAN 977.498. Excluye los fijos prorrateados | [G04, p. 1]. Descarta el flujo corto de [X10] |
+| 5 | FEO 19.960; VAN 3.860,27. El estudio de 5.000 no entra | [G04, p. 1] |
+| 6 | FEO 425; FEE(BU) 240; FEE(Kt) 174; VAN 237,39 | [G04, p. 1] publica 237,41 |
+| 7 | FEO(0) −1.600; FEO 394.400; FEE(BU) 52.000; FEE(Kt) 12.000; VAN 1.313.225. Sin venta del excedente de tapitas | [G04, p. 1] [G04, p. 2] |
+
+En los ejercicios 6 y 7 la fila rotulada FEO del último año mezcla el resultado por venta. La propia planilla lo marca ("el FEO está mal") y el VAN sale de la fila de flujo de fondos, que sí cierra con [G04]. Tampoco desarrolla los tres enfoques de FEO y FEE que pide el enunciado [G01, p. 7] [G01, p. 8]. El inciso d) del ejercicio 7 queda en la explicación cualitativa: amortizar en 6 años sube el VAN, sin un VAN nuevo.
 
 ### Borrador no oficial del ejercicio 4
 
@@ -286,5 +302,6 @@ X10 (no oficial) calcula un VAN de 649,175 para el ejercicio 4 [X10]. **Inferenc
 - G01: guía práctica (rev. mayo 2012), Parte 2 y análisis de reemplazo.
 - G04: resultados numéricos de la guía de proyectos.
 - G05: respuestas a preguntas frecuentes (errata del ejercicio 3, prorrateados, enfoque marginal, capital de trabajo, reemplazo).
+- X14 (no oficial): guía 7 resuelta por Andy (ejercicios 1 a 7; sin análisis de reemplazo).
 - P01, R02, R03: segundos parciales 2025-2026 y sus resoluciones oficiales (ejemplos de flujo y de punto de indiferencia).
 - X10: borrador no oficial de VAN/CAE.

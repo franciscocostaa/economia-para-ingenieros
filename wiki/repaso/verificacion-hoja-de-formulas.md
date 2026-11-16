@@ -69,7 +69,7 @@ Los VAN de la tabla son recálculos. [R02] resuelve SolArGen con el Tema 2 y [R0
 | 1.5 | Cuota base desconocida con refuerzos proporcionales. Si en cada período se paga mₖ veces la cuota C, entonces C = VP / Σ[mₖ/(1+i)^k]. En los trimestres 4 y 8 el multiplicador es 3. [G01, p. 4] [G03, p. 1] |
 | 1.6 | Calculá el saldo tras cuota 12, cancelá la mitad y recalculá la cuota sobre la otra mitad. Interés total = suma de intereses de ambos cuadros o total pagado − principal original, sin comisiones. Ahorro = interés original − interés nuevo. [G01, p. 4] [G03, p. 1] |
 | 1.7 | Construí el flujo semestral con el capital neto de comisión. Aplicá TIR y anualizá. [G01, p. 4] [G03, p. 1] [G05, p. 1] |
-| 1.8 | Tasa equivalente por días, luego Fisher a la misma base. Con 365 días y capitalización cada 180 días, el exponente anual es 365/180. El recálculo da 4,102 % real anual y 0,331 % real a 30 días. La planilla oficial publica 4,004 % y 0,323 %. [G01, p. 4] [G03, p. 1] |
+| 1.8 | Tasa equivalente por días, luego Fisher a la misma base. [G03] y [X13] toman m = 365/180 dentro de (1+TNA/m)^m−1 y publican 4,004 % real anual y 0,323 % a 30 días. La otra lectura, (1+TNA/2)^(365/180)−1, da 4,102 % y 0,331 %. [G01, p. 4] [G03, p. 1] [X13] |
 | 1.9 | Un cuadro por deuda y una línea de tiempo conjunta. Aporte propio en 0 = contado − créditos. Interés simple del proveedor por tres meses, desembolso de devolución en mes 4. Descontá todo al costo de oportunidad. [G01, p. 4] [G03, p. 1] |
 | 1.10 | Sumá el VP de los pagos base, el de los refuerzos y el del pago final. [G01, p. 5] [G05, p. 2] |
 

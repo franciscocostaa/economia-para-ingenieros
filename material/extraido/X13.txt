@@ -1,0 +1,188 @@
+FUENTE: X13
+TITULO: Guía 6 (valor tiempo del dinero) resuelta por Andy (no oficial)
+ORIGINAL: material/externo/Finanzas_Guia_2_Res.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+B2: Datos
+B3: Ente | C3: TNA | D3: Capitalización (Meses) | E3: Períodos
+B4: Banco A | C4: 0.14 | D4: 1 | E4: 12 [=12/D4]
+B5: Banco B | C5: 0.18 | D5: 3 | E5: 4 [=12/D5]
+B7: Resultados (a)
+B8: TEM (Banco A) | C8: 0.0116667 [=(1+C10)^(1/12)-1] | D8: → TEM = (1 + TEA)^(1/12) − 1
+B9: TEM (Banco B) | C9: 0.0147805 [=(1+C11)^(1/12)-1]
+B10: TEA (Banco A) | C10: 0.149342 [=(1+C4/E4)^E4-1] | D10: → TEA = (1 + TNA/m)^m − 1
+B11: TEA (Banco B) | C11: 0.192519 [=(1+C5/E5)^E5-1] | G11: m = períodos
+B13: Resultados (b)
+B14: Monto | C14: 5000
+B15: Cuotas | C15: 24
+B16: Cuota Banco A | C16: 240.064 [=(C8*C14)/(1-(1+C8)^(-C15))] | D16: → Cuota = (i * PV) / (1 - (1 + i)^(-n)) | F16: i = TEM porque son cuotas mensuales
+B17: Cuota Banco B | C17: 248.985 [=(C9*C14)/(1-(1+C9)^(-C15))]
+
+===== HOJA 2: Ejercicio 2 =====
+
+B2: Datos
+B3: Período (n, años) | C3: 10
+B4: Tasa de Interés (i) | C4: 0.1
+B5: Cobro (C) | C5: 100000
+B6: Factor Acumulación | C6: 15.9374 [=(((1+C4)^C3)-1)/C4] | D6: → S = ((1+i)^n - 1) / i
+B7: Crecimiento (g) | C7: 0.02
+B8: Período c) (a, años) | C8: 20
+B10: Caso A
+B11: PV | C11: 1000000 [=C5/C4] | D11: → PV = C / i
+B12: Ahorro (A) | C12: 62745.4 [=C11/C6] | D12: → A = PV / S
+B14: Caso B
+B15: PV | C15: 1250000 [=C5/(C4-C7)] | D15: → PV = C / (i - g)
+B16: Ahorro (A) | C16: 78431.7 [=C15/C6]
+B18: Caso C
+B19: PV | C19: 851356 [=C5*((1-(1+C4)^(-C8))/C4)] | D19: → PV = C * (1 - (1 + i)^-20) / i
+B20: Ahorro (A) | C20: 53418.7 [=C19/C6]
+
+===== HOJA 3: Ejercicio 3 =====
+
+B2: Datos
+B3: Venta Ahora | C3: 100000
+B4: Alquiler (C, por año) | C4: 15000
+B5: Años | C5: 3
+B6: Venta Final (Vf) | C6: 80000
+B7: Tasa de Descuento (i) | C7: 0.09
+B9: Venta
+B10: VP Alquiler | C10: 37969.4 [=C4*((1-(1+C7)^-3)/C7)] | D10: → PV = C × [1 − (1 + i)⁻ⁿ] / i | F10: n=3
+B11: VP Venta | C11: 56674 [=C6/(1+C7)^(4)] | D11: → PV = Vf / (1 + i)ⁿ | F11: n=4
+B12: Total | C12: 94643.4 [=C11+C10] | D12: → Como es menor que el valor de venta ahora, conviene venderlo
+B14: Considerando alquiler 4to Año
+B15: VP Alquiler | C15: 48595.8 [=C4*((1-(1+C7)^-4)/C7)] | D15: → PV = C × [1 − (1 + i)⁻ⁿ] / i | F15: n=4
+B16: VP Venta | C16: 56674 [=C6/(1+C7)^(4)] | D16: → PV = Vf / (1 + i)ⁿ | F16: n=4
+B17: Total | C17: 105270 [=SUM(C15:C16)] | D17: → Como es mayor que el valor de venta ahora, conviene alquilarlo los 4 años y venderlo
+
+===== HOJA 4: Ejercicio 4 =====
+
+B2: Datos
+B3: Monto | C3: 3000000
+B4: Cuotas | C4: 60
+B5: Interés | C5: 0.02
+B6: Sistema | C6: Francés | E6: C = i + a
+B8: Respuestas
+B9: Valor Cuota | C9: 86303.9 [=(C5*C3)/(1-(1+C5)^-C4)] | D9: → C = (i * PV) / (1 - (1 + i)^-n)
+B10: Interés 1 | C10: 60000 [=C3*C5] | D10: → i_n = S_i * i
+B11: Amort. 1 | C11: 26303.9 [=C9-C10] | D11: → a_n = C - i_n
+B12: Saldo 1 | C12: 2.9737e+06 [=C3-C11]
+B13: Interés 2 | C13: 59473.9 [=C12*C5]
+B14: Amort. 2 | C14: 26830 [=C9-C13]
+B15: Total Amort. | C15: 53133.9 [=C11+C14]
+B16: Meses | C16: 20
+B17: Deuda | C17: 2.36088e+06 [=C9*(1-(1+C5)^-(C4-C16))/C5] | D17: → D = C × [1 − (1 + i)⁻⁴⁰] / i | G17: 40 porque 60-20=40 cuotas quedan
+B18: Nueva Tasa | C18: 0.025
+B19: Nuevas Cuotas | C19: 40
+B20: Nueva Cuota | C20: 94048.7 [=(C18*C17)/(1-(1+C18)^-C19)] | D20: → C' = (i' * D) / (1 - (1 + i')^-n')
+B21: Nueva Tasa | C21: 0.025
+B22: Meses | C22: 46.6397 [=-LN(1-((C18*C17)/(C9)))/LN(1+C18)] | D22: → n = −ln(1 − i’ × D / C) / ln(1 + i’) → Viene de despejar: | H22: C = i’ × D / [1 − (1 + i’)⁻ⁿ]
+
+===== HOJA 5: Ejercicio 5 =====
+
+IMAGEN en B9: material/figuras/X13-hoja5-img1.png
+B2: Datos | E2: Cuota | F2: 1 | G2: 2 | H2: 3 | I2: 4 | J2: 5 | K2: 6 | L2: 7 | M2: 8
+B3: Venta | C3: 200 | E3: Monto | F3: X | G3: X | H3: X | I3: X + 2X | J3: X | K3: X | L3: X | M3: X + 2X
+B4: Cuotas | C4: 8 | E4: Factor | F4: 0.970874 [=1/((1+C6)^F2)] | G4: 0.942596 [=1/((1+C6)^G2)] | H4: 0.915142 [=1/((1+C6)^H2)] | I4: 0.888487 [=1/((1+C6)^I2)] | J4: 0.862609 [=1/((1+C6)^J2)] | K4: 0.837484 [=1/((1+C6)^K2)] | L4: 0.813092 [=1/((1+C6)^L2)] | M4: 0.789409 [=1/((1+C6)^M2)]
+B5: TNA | C5: 0.12
+B6: TETrim | C6: 0.03 [=C5/4]
+B8: Fórmula
+B13: Resultado
+B14: Término 1 | C14: 7.01969 [=SUM(F4:M4)]
+B15: Término 2 | C15: 1.77697 [=2/((1+C6)^I2)]
+B16: Término 3 | C16: 1.57882 [=2/((1+C6)^M2)]
+B17: Total | C17: 10.3755 [=SUM(C14:C16)]
+B18: Monto | C18: 19.2762 [=C3/C17]
+B19: Pago 4to Trim | C19: 57.8286 [=3*C18]
+
+===== HOJA 6: Ejercicio 6 =====
+
+B2: Datos
+B3: Cuotas | C3: 30
+B4: Valor x Cuota | C4: 10000
+B5: Interés | C5: 0.06
+B7: Resultados
+B8: Monto | C8: 137648 [=C4*((1-((1+C5)^(-C3)))/C5)] | D8: → PV = C * (1 - (1 + i)^-n) / i
+B9: Tiempo Pago | C9: 12
+B10: Saldo (Post 12) | C10: 108276 [=C4*((1-((1+C5)^(-(C3-C9))))/C5)] | D10: → S = C * (1 - (1 + i)^-n) / i | F10: n = 18 = 30-12
+B11: Pago Extra | C11: 54138 [=C10*0.5]
+B12: Nueva Cuota | C12: 5000 [=(C5*C11)/(1-((1+C5)^(-(C3-C9))))] | D12: → C' = 0.5 * Saldo(Post 12) * i  / (1 - (1 + i)^-18)
+B13: Pagos Realizados | C13: 264138 [=C9*C4+(C3-C9)*C12+C11]
+B14: Intereses Pagos | C14: 126490 [=C13-C8] | D14: → Int. Pagos = Pagos Totales - Monto
+B15: Intereses sin Extra | C15: 162352 [=C3*C4-C8] | D15: → Int. Sin Extra = Cuotas x Valor - Monto
+B16: Ahorro | C16: 35862 [=C15-C14]
+
+===== HOJA 7: Ejercicio 7 =====
+
+IMAGEN en E14: material/figuras/X13-hoja7-img1.png
+IMAGEN en E14: material/figuras/X13-hoja7-img2.png
+IMAGEN en E14: material/figuras/X13-hoja7-img3.png
+IMAGEN en E14: material/figuras/X13-hoja7-img4.png
+IMAGEN en E2: material/figuras/X13-hoja7-img5.png
+B2: Datos
+B3: Monto | C3: 100
+B4: Comisión | C4: 2
+B5: Cuotas | C5: 2
+B6: Valor Cuota | C6: 50
+B7: TNA | C7: 0.2
+B8: TESem | C8: 0.11
+E10: Tiempo (años) | F10: 0 | G10: 0.5 | H10: 1 | I10: 1.5 | J10: 2
+B11: i=20%/2=10% | E11: Flujo | F11: 98 [=C3-C4] | G11: -10 [=-(C7/2)*C3] | H11: -60 [=-((C7/2)*C3+C6)] | I11: -5 [=-(C3*0.5)*(C7/2)] | J11: -55 [=-((C3*0.5)*(C7/2)+(C6))]
+E13: TESem (i_s)
+H14: → TESem ≈ 11% (Consigna)
+E18: Resultado
+E19: TEA | F19: 0.2321 [=((1+C8)^C5)-1] | G19: → TEA = (1 + TEsem)^n − 1
+
+===== HOJA 8: Ejercicio 8 =====
+
+IMAGEN en B14: material/figuras/X13-hoja8-img1.png
+IMAGEN en B19: material/figuras/X13-hoja8-img2.png
+IMAGEN en A21: material/figuras/X13-hoja8-img3.png
+B2: Problema (a) | E2: Problema (b)
+B3: Tasa | C3: 0.02 | E3: TNA | F3: 0.07
+B4: Días | C4: 30 | E4: Capitalización | F4: 2.02778 [=365/180] | G4: → Cada 180 días, año de 365
+B5: Nuevos Días | C5: 80 | E5: TEA | F5: 0.0712422 [=((1+(F3/F4))^F4)-1] | G5: → TEA = (1 + TNA/n)^n - 1
+B6: Nueva Tasa | C6: 0.0542262 [=(1+C3)^(C5/C4)-1] | E6: Inflación | F6: 0.03
+E7: TRAnual | F7: 0.0400409 [=(1+F5)/(1+F6)-1] | G7: → 1 + TReal = (1 + TEA) / (1 + Infl)
+B8: (1 + i₈₀) = (1 + i₃₀)^(80/30) | E8: TReal (30 días) | F8: 0.00323207 [=((1+F7)^(30/365))-1] | G8: → Misma fórmula que (a)
+B9: → i₈₀ = (1 + i₃₀)^(80/30) - 1
+E10: (1 + i₃₀) = (1 + i_a)^(30/365)
+E11: → i₃₀ = (1 + i_a)^(30/365) - 1
+B14: Fórmula
+B17: Pero esto es para tasas nominales. Como necesitamos efectivas, tomamos:
+
+===== HOJA 9: Ejercicio 9 =====
+
+B2: Problema
+B3: Costo Oport. | C3: 0.0325
+B4: Precio | C4: 710000
+B5: PV Préstamos | C5: 703661 [=C15+I19+L14+O13]
+B6: ¿Conviene? | C6: Si | D6: → Vemos que el PV de los préstamos en menor que el precio, por lo que conviene
+B8: Préstamo HSBC (método alemán) | H8: Préstamo RIO | K8: Crédito Proveedor | N8: Financiamiento Propio
+B9: Mes | C9: 1 | D9: 2 | E9: 3 | F9: 4 | H9: Monto | I9: 200000 | K9: Monto | L9: 30000 | N9: Pres. HSBC | O9: 100000 [=C10]
+B10: Saldo | C10: 100000 | D10: 75000 [=C10-C12] | E10: 50000 [=D10-D12] | F10: 25000 [=E10-E12] | H10: Tasa | I10: 0.025 | K10: Tasa | L10: 0.035 | N10: Pres. RIO | O10: 200000 [=I9]
+B11: Interés | C11: 3000 [=C10*C14] | D11: 2250 [=D10*C14] | E11: 1500 [=E10*C14] | F11: 750 [=F10*C14] | H11: Plazo | I11: 6 | K11: Plazo | L11: 3 | N11: Cred. Prov. | O11: 30000 [=L9]
+B12: Amortización | C12: 25000 [=C10/F9] | D12: 25000 [=C10/F9] | E12: 25000 [=C10/F9] | F12: 25000 [=C10/F9] | H12: Cuota | I12: 36310 [=((I10*I9)/(1-((1+I10)^(-I11))))] | K12: Interés | L12: 3150 [=L9*L10*L11] | N12: Total | O12: 330000 [=SUM(O9:O11)]
+B13: Cuota | C13: 28000 [=C11+C12] | D13: 27250 [=D11+D12] | E13: 26500 [=E11+E12] | F13: 25750 [=F11+F12] | H13: PV Pago 1 | I13: 35167.1 [=I12/((1+C3)^1)] | K13: Monto a Pagar | L13: 33150 [=L9+L12] | N13: Restante | O13: 380000 [=C4-O12]
+B14: Interés | C14: 0.03 | H14: PV Pago 2 | I14: 34060.1 [=I12/((1+C3)^2)] | K14: PV (Prov.) | L14: 29169.1 [=L13/((1+C3)^(L11+1))]
+B15: PV(HSBC) | C15: 99413.4 [=(C13/((1+C3)^C9))+(D13/((1+C3)^D9))+(E13/((1+C3)^E9))+(F13/((1+C3)^F9))] | E15: PV = Σ Cₜ / (1 + i)ᵗ | H15: PV Pago 3 | I15: 32988 [=I12/((1+C3)^3)]
+E16: i = 3.25% | H16: PV Pago 4 | I16: 31949.6 [=I12/((1+C3)^4)] | L16: PV = M / (1 + i)ⁿ
+H17: PV Pago 5 | I17: 30944 [=I12/((1+C3)^5)] | L17: n=4 (mes en que se paga)
+H18: PV Pago 6 | I18: 29969.9 [=I12/((1+C3)^6)]
+H19: PV(RIO) | I19: 195079 [=SUM(I13:I18)]
+
+===== HOJA 10: Ejercicio 10 =====
+
+B2: Pagos Base | E2: Datos | H2: Observación
+B3: Monto | C3: 50 | E3: TNA | F3: 0.06 | H3: Los pagos base son anualidades ordinarias
+B4: Meses | C4: 17 | E4: TEM | F4: 0.005 [=F3/12]
+B5: PV | C5: 812.932 [=C3*((1-((1+F4)^(-C4)))/F4)]
+B7: Refuerzos | E7: Deuda
+B8: Monto | C8: 80 | E8: Total | F8: 1282.53 [=C5+C11+C16] | G8: → | H8: Suma de los PVs
+B9: Pagos | C9: 5
+B10: Meses | C10: 3
+B11: PV | C11: 382.527 [=C8*((1+F4)^(-C10))*((1-(((1+F4)^(-C10))^C9))/(1-((1+F4)^(-C10))))]
+B13: Pago Final
+B14: Monto | C14: 95.25
+B15: Meses | C15: 18
+B16: PV | C16: 87.0715 [=C14*((1+F4)^(-C15))]

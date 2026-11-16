@@ -197,19 +197,19 @@ donde $RO$ es la rentabilidad operativa $EBIT/\text{Activo}$ e $i$ es el costo d
 
 ### Guía práctica N° 5, ejercicio 6 (resolución oficial)
 
-Deuda 500.000 al 10 %, ventas 2.000.000, impuesto 30 %, margen neto 5 %; el banco exige cobertura mínima de 5 [G02]. Intereses = 50.000; RN = 100.000; EBT = 100.000 / 0,7 = 142.857; EBIT = 192.857; TIE = 3,86x [R01] (hoja P4 P6). Como 3,86 < 5, el banco no renueva el préstamo.
+Deuda 500.000 al 10 %, ventas 2.000.000, impuesto 30 %, margen neto 5 %; el banco exige cobertura mínima de 5 [G02]. Intereses = 50.000; RN = 100.000; EBT = 100.000 / 0,7 = 142.857; EBIT = 192.857; TIE = 3,86x [R01] (hoja P4 P6). Como 3,86 < 5, el banco no renueva el préstamo. La resolución no oficial [X12] (hoja Ejercicio 6) llega a 3,857 y a la misma decisión.
 
 ### Guía práctica N° 5, ejercicio 5 (reconstrucción con índices)
 
 Datos: total 115; deudas comerciales 30 y bancarias 25; cobertura de intereses 8; liquidez corriente 1,4; seca 1; absoluta 0,2; deuda LP / capital 0,5; ROE 40 %; existencias 72 días; plazo de crédito 90 días; año de 360 días; gastos 10 y amortización 20 [G02].
 
-**Inferencia (resolución propia, no hay resolución oficial en el repositorio):** PC = 55 → AC = 1,4 × 55 = 77 → bienes de cambio = 77 − 55 = 22 → disponibilidades = 0,2 × 55 = 11 → créditos = 77 − 22 − 11 = 44 → activo fijo = 115 − 77 = 38. Deuda LP + capital = 60 con relación 0,5 → capital 40, deuda LP 20. RN = 40 % × 40 = 16. Ventas = 44 × 360 / 90 = 176; costo de mercadería = 22 × 360 / 72 = 110 (supone saldos finales y que los días de existencias se calculan sobre el costo). EBIT = 176 − 110 − 10 − 20 = 36; intereses = 36 / 8 = 4,5; EBT = 31,5; impuesto = 15,5.
+**Inferencia (resolución propia, no hay resolución oficial en el repositorio):** PC = 55 → AC = 1,4 × 55 = 77 → bienes de cambio = 77 − 55 = 22 → disponibilidades = 0,2 × 55 = 11 → créditos = 77 − 22 − 11 = 44 → activo fijo = 115 − 77 = 38. Deuda LP + capital = 60 con relación 0,5 → capital 40, deuda LP 20. RN = 40 % × 40 = 16. Ventas = 44 × 360 / 90 = 176; costo de mercadería = 22 × 360 / 72 = 110 (supone saldos finales y que los días de existencias se calculan sobre el costo). EBIT = 176 − 110 − 10 − 20 = 36; intereses = 36 / 8 = 4,5; EBT = 31,5; impuesto = 15,5. La resolución no oficial [X12] (hoja Ejercicio 5) reproduce estos valores, con el mismo supuesto de saldo final y de patrimonio neto igual al capital.
 
 ### Guía práctica N° 5, ejercicio 7 (capital de trabajo y financiamiento)
 
 Balance: caja 400, créditos 1.200, bienes de cambio 900, bienes de uso 4.500, deuda bancaria 800, deuda comercial 1.100, deuda no corriente 2.200, PN 2.900; ventas proyectadas 6.000 con créditos 24 % y bienes de cambio 18 % de las ventas; compras 22 % de las ventas, todas a crédito [G02].
 
-**Inferencia (resolución propia):** a) $KT$ = 2.500 − 1.900 = 600. b) Créditos pasan a 1.440 (+240) y bienes de cambio a 1.080 (+180): hacen falta 420 adicionales. c) Si la deuda comercial al cierre equivale a las compras del período, pasa a 1.320 (+220). d) Necesidad neta: 420 − 220 = 200. e) Si el nivel de ventas es transitorio, financiar con corto plazo; una necesidad permanente se financia con largo plazo. El supuesto de c) no está explícito en el enunciado.
+**Inferencia (resolución propia):** a) $KT$ = 2.500 − 1.900 = 600. b) Créditos pasan a 1.440 (+240) y bienes de cambio a 1.080 (+180): hacen falta 420 adicionales. c) Si la deuda comercial al cierre equivale a las compras del período, pasa a 1.320 (+220). d) Necesidad neta: 420 − 220 = 200. e) Si el nivel de ventas es transitorio, financiar con corto plazo; una necesidad permanente se financia con largo plazo. El supuesto de c) no está explícito en el enunciado. [X12] (hoja Ejercicio 7) usa ese supuesto y llega a los mismos 600, 420, 220 y 200, y también elige corto plazo.
 
 ## Verdadero o falso frecuentes
 
@@ -257,6 +257,7 @@ Balance: caja 400, créditos 1.200, bienes de cambio 900, bienes de uso 4.500, d
 - T01: La empresa y la información contable (capital de trabajo, EBITDA, flujo de caja).
 - G02: Guía práctica N° 5 (ejercicios 5, 6 y 7).
 - R01: Resolución de la guía práctica N° 5 (ejercicio 6).
+- X12 (no oficial): guía 5 resuelta por Andy (ejercicios 5, 6 y 7).
 - P02: Segundo parcial 16/06/2026 (V/F).
 - R03: Resolución del segundo parcial 16/06/2026 (hoja P1, V/F; hoja P3, capital de trabajo).
 - X08: Compilado de V/F, no oficial; usado solo como contraste.

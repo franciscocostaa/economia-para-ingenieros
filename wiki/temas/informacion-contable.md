@@ -172,7 +172,7 @@ La venta de bienes de uso es una cuenta de ingreso [T01, p. 27]. La resolución 
 
 ### Ejemplo: deducción acelerada (G02, ejercicio 3)
 
-Máquina de $1.000.000, amortización lineal en 10 años con 10 % de valor residual; una norma permite deducir el 100 % de la compra en el año de adquisición; tasa 35 %. Se piden las variaciones del impuesto devengado entre I (sin beneficio) y II (con beneficio), años 0 a 10 [G02]. R01 no trae resolución de este ejercicio.
+Máquina de $1.000.000, amortización lineal en 10 años con 10 % de valor residual; una norma permite deducir el 100 % de la compra en el año de adquisición; tasa 35 %. Se piden las variaciones del impuesto devengado entre I (sin beneficio) y II (con beneficio), años 0 a 10 [G02]. R01 no trae resolución de este ejercicio. La resolución no oficial [X12] (hoja Ejercicio 3) usa el mismo calendario de deducciones.
 
 **Inferencia** (supuestos: la amortización impositiva corre en los años 1 a 10 y en II no se deduce ninguna amortización posterior):
 
@@ -183,6 +183,8 @@ Máquina de $1.000.000, amortización lineal en 10 años con 10 % de valor resid
 | Total | 900.000 | 1.000.000 | −35.000 |
 
 El beneficio es mayormente un **diferimiento**: se paga menos impuesto al principio y más después. La diferencia neta de 35.000 equivale al 35 % del valor residual (100.000), que en I no se dedujo dentro del horizonte. Su valor real depende de la tasa de descuento: ver [valor tiempo del dinero](valor-tiempo-del-dinero.md).
+
+[X12] rotula la fila como $35\,\% \times \Delta D$, con $\Delta D$ = deducción II − deducción I, y por eso el año 0 queda en **+350.000**. Ese número es el ahorro fiscal, no la variación del impuesto: impuesto II − impuesto I = $-t \times \Delta D$ = **−350.000** en el año 0. El enunciado pide la variación del impuesto devengado [G02].
 
 ## Utilidad vs. caja
 
@@ -280,10 +282,24 @@ Fuente: [R01] (hoja P1). Verificación: resultados acumulados $400 - 15 = 385$, 
 - [Evaluación de proyectos](evaluacion-de-proyectos.md): el flujo de fondos se arma con lo percibido y el impuesto se calcula sobre el cuadro de resultados devengado, con la amortización como escudo fiscal [G05, p. 4].
 - [Segundo parcial](segundo-parcial.md): los enunciados piden amortizar linealmente con o sin valor residual y tratar la venta del activo al final de la vida útil [P01].
 
+## Resolución no oficial de la guía 5
+
+[X12] es la planilla de Andy (`Finanzas_Guia_1_Res.xlsx`). No reemplaza a [R01].
+
+| Ej. | Contra la fuente de mayor autoridad |
+|---|---|
+| 1 | El estado de resultados cierra en −15 y la caja en 80, con CMV FIFO 275, igual que [R01]. El balance devenga sueldos de 130 (100 + aportes del 30 %) y deja resultados acumulados en 355, no en 385. La ecuación contable cierra porque el pasivo sube esos mismos 30. |
+| 2 | Resultados 80, 80 y 60, iguales a [R01] (hoja P2). La nota de la hoja dice que el valor de libros es "precio − amortización"; la fórmula de la celda resta la amortización del valor original. |
+| 3 | Mismas deducciones que la inferencia de arriba. La fila publicada es el ahorro fiscal, con el signo opuesto a la variación del impuesto. |
+| 4 | Utilidad de la empresa −200.000 en X+1 y en X+2, y la opuesta para el banco; cero en X y en X+3. Coincide con [R01] (hoja P4 P6). |
+| 5 y 7 | Los mismos números que la inferencia de [análisis financiero](analisis-financiero.md). Siguen sin resolución de la cátedra. |
+| 6 | Cobertura 3,86 y el banco no renueva. Coincide con [R01]. |
+
 ## Fuentes
 
 - T01: La empresa y la información contable (diapositivas 2026).
 - G02: Guía práctica N° 5, la información contable.
 - R01: Resolución oficial de la GP5 (planilla 2020).
+- X12 (no oficial): guía 5 resuelta por Andy.
 - G05: Respuestas a algunas preguntas frecuentes.
 - P01: Segundo parcial 11/11/2025.

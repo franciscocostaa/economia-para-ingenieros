@@ -162,13 +162,23 @@ Consignas en [G01, p. 3] (ej. 1 a 4), [G01, p. 4] (ej. 5 a 9) y [G01, p. 5] (ej.
 | 1 | Comparar dos préstamos (TNA 14% cap. mensual vs. 18% cap. trimestral): costo efectivo mensual y anual, y cuota de $5.000 en 24 meses | TP, tasa equivalente, TEA; cuota francesa | A: TEM 1,17%, TEA 14,93%, cuota $240,10; B: TEM 1,48%, TEA 19,25%, cuota $249,00 [G03, p. 1] |
 | 2 | Ahorro anual durante 10 años (10%) para financiar: a) perpetuidad de $100.000 desde el año 11; b) perpetuidad creciente al 2%; c) renta de 20 años desde el año 11 | Perpetuidad, perpetuidad creciente y anualidad valuadas en t = 10; luego cuota con $s(10, 10\%)$ | a) $62.700; b) $78.400; c) $53.400 [G03, p. 1] (redondeados a centenas) |
 | 3 | Galpón: vender hoy en $100.000 o alquilar y vender al final del año 4 (9%) | VP de flujos | 3 años de alquiler: VP $94.640, conviene vender; 4 años: VP $105.270, conviene alquilar [G03, p. 1] |
-| 4 | Préstamo francés de $3.000.000, 60 cuotas al 2%: cuota, amortizado al período 2, saldo tras 20 cuotas, refinanciación a 2,5% en 40 cuotas, plazo con cuota fija y tasa 2,5% | Cuadro francés, saldo como VP de cuotas restantes, refinanciación, despeje de $n$ | Solo e): 46 < n < 47 [G03, p. 1]. **Inferencia** (cálculo propio): a) $86.303,90; b) $53.133,87; c) $2.360.884,48; d) $94.048,74; e) n ≈ 46,64 |
+| 4 | Préstamo francés de $3.000.000, 60 cuotas al 2%: cuota, amortizado al período 2, saldo tras 20 cuotas, refinanciación a 2,5% en 40 cuotas, plazo con cuota fija y tasa 2,5% | Cuadro francés, saldo como VP de cuotas restantes, refinanciación, despeje de $n$ | Solo e): 46 < n < 47 [G03, p. 1]. **Inferencia** (cálculo propio, reproducido por [X13]): a) $86.303,90; b) $53.133,87; c) $2.360.884; d) $94.048,74; e) n ≈ 46,64 |
 | 5 | Máquina de $200 en 8 cuotas trimestrales más 2 refuerzos (cada uno = 2 cuotas) con la 4.ª y la 8.ª; TNA 12% cap. trimestral | VP de anualidad más VP de refuerzos; TP trimestral 3% | En el 4.º trimestre se pagan $57,90 [G03, p. 1] |
 | 6 | Préstamo de 30 cuotas de $10.000 al 6%; con la cuota 12 se cancela la mitad del saldo y se sigue con cuota nueva | Saldo francés, recálculo de cuota, intereses totales | Intereses pagados $126.489; ahorro $35.862 [G03, p. 1] |
 | 7 | $100 con comisión de $2, dos amortizaciones anuales de $50 e interés nominal 20% pagadero semestralmente: costo anual | CFT como TIR del flujo neto recibido | CFT 10,83% semestral = 22,80% anual [G03, p. 1]; explicación en [G05, p. 1] |
 | 8 | a) Tasa de 80 días equivalente a 2% a 30 días; b) tasa real anual y de 30 días con 7% anual cap. cada 180 días e inflación 3% (año de 365) | Tasas equivalentes por días; Fisher | a) 5,42%; b) real anual 4,004%, real 30 días 0,323% [G03, p. 1] |
 | 9 | Equipo de $710.000 financiado con alemán, francés, crédito de proveedor a interés simple y saldo propio; costo de oportunidad 3,25% mensual | Cuadros alemán y francés, interés simple, VP con costo de oportunidad | Costó $703.661 financiado; conviene financiar [G03, p. 1] |
-| 10 | Deuda al 6% anual cap. mensual: 17 pagos de $50, refuerzos de $80 en los meses 3 a 15 cada 3 meses y pago final de $95,25 en el mes 18 | VP de anualidad más flujos puntuales; tasa mensual 0,5% | $1.282,53 [G05, p. 2] (falta en G03) |
+| 10 | Deuda al 6% anual cap. mensual: 17 pagos de $50, refuerzos de $80 en los meses 3 a 15 cada 3 meses y pago final de $95,25 en el mes 18 | VP de anualidad más flujos puntuales; tasa mensual 0,5% | $1.282,53 [G05, p. 2] (falta en G03). [X13] llega al mismo total |
+
+## Resolución no oficial de la guía 6
+
+[X13] es la planilla de Andy (`Finanzas_Guia_2_Res.xlsx`), con una hoja por ejercicio. Donde [G03] redondea, esta planilla deja el valor sin redondear: cuotas del ejercicio 1 de $240,06 y $248,99; ahorros del ejercicio 2 de $62.745, $78.432 y $53.419; pago del 4.º trimestre del ejercicio 5 de $57,83. Esas diferencias ya estaban anotadas contra [G03, p. 1].
+
+En el ejercicio 8 reproduce el 4,004 % real anual y el 0,323 % a 30 días de [G03, p. 1]. Lo hace con $m = 365/180$ dentro de $(1 + \mathrm{TNA}/m)^m - 1$, y después Fisher. La otra lectura, $(1 + \mathrm{TNA}/2)^{365/180} - 1$, da 4,102 % y 0,331 %.
+
+En el ejercicio 9 descuenta el crédito de proveedor en el mes 4 y obtiene $703.661, el resultado oficial [G03, p. 1]. El borrador [X09] descuenta un mes de menos.
+
+En el ejercicio 7 escribe la ecuación del CFT que da la cátedra, $98 = 10/(1+i) + 60/(1+i)^2 + 5/(1+i)^3 + 55/(1+i)^4$ [G05, p. 2], pero no la resuelve: carga una tasa semestral del 11 % y anualiza a 23,21 %. El resultado oficial es 10,83 % semestral y 22,80 % anual [G03, p. 1]. Para ese ejercicio hay que usar [G03], no [X13].
 
 ## Relación con otros temas
 
@@ -188,3 +198,4 @@ Consignas en [G01, p. 3] (ej. 1 a 4), [G01, p. 4] (ej. 5 a 9) y [G01, p. 5] (ej.
 - X01 (no oficial): modelo Excel de libro de texto (anualidades, perpetuidad, cuadro francés).
 - X09 (no oficial): borrador de G01 ej. 9.
 - X11 (no oficial): borrador de préstamos alemán y bullet del parcial 16/06/2026.
+- X13 (no oficial): guía 6 resuelta por Andy.

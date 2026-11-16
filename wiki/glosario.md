@@ -20,7 +20,7 @@ Definiciones breves y enlaces al apunte donde se desarrolla cada término. Toda 
 - **Valor de libros**: valor original menos amortizaciones acumuladas [T01, p. 45]. Ver [La empresa y la información contable](temas/informacion-contable.md).
 - **Resultado por venta de bienes de uso**: precio de venta menos valor de libros [R01]. Ver [La empresa y la información contable](temas/informacion-contable.md).
 - **Provisión / previsión**: obligación cierta que incide en el resultado aunque no sea exigible / estimación de un hecho eventual cargada al resultado [T01, p. 48]. Ver [La empresa y la información contable](temas/informacion-contable.md).
-- **FIFO**: criterio de valuación de salidas de inventario que asigna a lo vendido el costo de las unidades más antiguas; lo usa la resolución de la GP5 [R01]. Ver [La empresa y la información contable](temas/informacion-contable.md).
+- **FIFO**: criterio de valuación de salidas de inventario que asigna a lo vendido el costo de las unidades más antiguas; lo usan la resolución oficial de la GP5 [R01] y la no oficial [X12]. Ver [La empresa y la información contable](temas/informacion-contable.md).
 
 ## Análisis financiero
 
@@ -79,7 +79,7 @@ Definiciones breves y enlaces al apunte donde se desarrolla cada término. Toda 
 - **Sistema alemán**: amortización de capital constante e interés decreciente sobre el saldo [T03, p. 22]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
 - **Sistema francés**: cuota total constante; C = P·i/(1−(1+i)^−n) [T03, p. 22] [R03]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
 - **Sistema directo**: interés siempre sobre el capital original; su tasa efectiva supera a la nominal (13,07% vs. 10%) [T03, p. 28]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
-- **Costo financiero total (CFT)**: TIR del flujo del préstamo incluyendo intereses, gastos, seguros, comisiones e impuestos [T03, p. 34]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
+- **Costo financiero total (CFT)**: TIR del flujo del préstamo incluyendo intereses, gastos, seguros, comisiones e impuestos [T03, p. 34]. No sale de anualizar la TES = TNA/2 [G05, p. 1]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
 - **Refinanciación**: tomar el saldo adeudado como nuevo capital de un préstamo con otras condiciones (ej.: $1.250.000 en francés a 25 cuotas al 0,5%) [R03]. Ver [Valor tiempo del dinero](temas/valor-tiempo-del-dinero.md).
 
 ## Evaluación de proyectos

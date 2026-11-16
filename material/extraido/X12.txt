@@ -1,0 +1,128 @@
+FUENTE: X12
+TITULO: Guía 5 (información contable) resuelta por Andy (no oficial)
+ORIGINAL: material/externo/Finanzas_Guia_1_Res.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+B2: - | D2: Inicial | E2: DEBE (↑A   ↓P   ↓PN) | F2: HABER (↓A   ↑P   ↑PN) | G2: Final | I2: Cuadro de Resultados
+B3: Activos | C3: Disponibilidades | D3: 200 | E3: 200 (2) + 50 (5) + 500 (7) | F3: 500 (3) + 200 (4) + 170 (6) | G3: 80 | I3: Utilidad Bruta | J3: Ventas | K3: 400
+C4: Inversiones | D4: 600 | F4: 400 (7) | G4: 200 | J4: C. Ventas | K4: -275
+C5: Créditos Por Ventas | D5: 300 | E5: 350 (5) | F5: 200 (2) | G5: 450 | J5: Total | K5: 125 [=SUM(K3:K4)]
+C6: Bienes de Cambio (200u) | D6: 550 | E6: 250 (1) | F6: 100*(550/200)=275 (5) | G6: 525 | I6: Utilidad Operativa | J6: Sueldos | K6: -100
+C7: Bienes de Uso (V.O.) | D7: 3500 | G7: 3500 | J7: Gastos Varios | K7: -60
+C8: Amortizaciones Acum. | D8: -250 | F8: 80 (9) | G8: -330 | J8: Amort. | K8: -80
+C9: TOTAL | D9: 4900 [=SUM(D3:D8)] | E9: - | G9: 4425 [=SUM(G3:G8)] | J9: Total | K9: -115 [=SUM(K5:K8)]
+B10: Pasivos | C10: Proveedores | D10: 550 | E10: 500 (3) | F10: 250 (1) | G10: 300 | I10: Utilidad Neta | J10: Res. Extraordinarios | K10: 100 | L10: ← Venta del bono
+C11: Sueldos y Cargas Soc. a Pagar | D11: 170 | E11: 170 (6) | F11: 130 (8) | G11: 130 | J11: Total | K11: -15 [=SUM(K9:K10)]
+C12: Gastos Varios a Pagar | D12: 80 | F12: 60 (8) | G12: 140
+C13: Deuda Bancaria | D13: 400 | E13: 200 (4) | G13: 200
+C14: TOTAL | D14: 1200 [=SUM(D10:D13)] | E14: - | G14: 770 [=SUM(G10:G13)]
+B15: Patrimonio Neto | C15: Capital | D15: 3300 | G15: 3300
+C16: Resultados Acumulados | D16: 400 | E16: 275 (5) + 400 (7) + 130 (8) + 60 (8) + 80 (9) | F16: 400 (5) + 500 (7) | G16: 355
+C17: TOTAL | D17: 3700 [=SUM(D15:D16)] | E17: - | G17: 3655 [=SUM(G15:G16)]
+
+===== HOJA 2: Ejercicio 2 =====
+
+B2: Muebles | E2: Equipos | H2: Terrenos
+B3: Valor de Mercado | C3: 80 | E3: Valor de Mercado | F3: 120 | H3: Valor de Mercado | I3: 300
+B4: Valor Original | C4: 80 | E4: Valor Original | F4: 80 | H4: Valor Original | I4: 240
+B5: Vida Util | C5: 5 | E5: Vida Util | F5: 10 | H5: Vida Util | I5: -
+B6: Años | C6: 5 | E6: Años | F6: 5 | H6: Años | I6: 10
+B7: Amortizaciones Acum. | C7: 80 [=C6*(C4/C5)] | E7: Amortizaciones Acum. | F7: 40 [=F6*(F4/F5)] | H7: Amortizaciones Acum. | I7: 0 | J7: ← Terreno no tiene vida útil
+B8: Valor Libro | C8: 0 [=C4-C7] | E8: Valor Libro | F8: 40 [=F4-F7] | H8: Valor Libro | I8: 240 [=I4-I7]
+B9: Resultado x Venta | C9: 80 [=C3-C8] | E9: Resultado x Venta | F9: 80 [=F3-F8] | H9: Resultado x Venta | I9: 60 [=I3-I8]
+B12: Fórmulas
+B13: Amortizaciones Acum = años x (costo/vida útil)
+B14: Valor Libro = precio - amort. acum
+B15: Resultado = valor de mercado - valor libro
+
+===== HOJA 3: Ejercicio 3 =====
+
+B2: Año | C2: 0 | D2: 1 | E2: 2 | F2: 3 | G2: 4 | H2: 5 | I2: 6 | J2: 7 | K2: 8 | L2: 9 | M2: 10 | N2: Total
+B3: Deducción I | C3: 0 | D3: 90000 [=F12] | E3: 90000 [=F12] | F3: 90000 [=F12] | G3: 90000 [=F12] | H3: 90000 [=F12] | I3: 90000 [=F12] | J3: 90000 [=F12] | K3: 90000 [=F12] | L3: 90000 [=F12] | M3: 90000 [=F12] | N3: 900000 [=SUM(C3:M3)]
+B4: Deducción II | C4: 1000000 | D4: 0 | E4: 0 | F4: 0 | G4: 0 | H4: 0 | I4: 0 | J4: 0 | K4: 0 | L4: 0 | M4: 0 | N4: 1000000 [=SUM(C4:M4)]
+B5: ΔD(II - I) | C5: 1000000 [=C4-C3] | D5: -90000 [=D4-D3] | E5: -90000 [=E4-E3] | F5: -90000 [=F4-F3] | G5: -90000 [=G4-G3] | H5: -90000 [=H4-H3] | I5: -90000 [=I4-I3] | J5: -90000 [=J4-J3] | K5: -90000 [=K4-K3] | L5: -90000 [=L4-L3] | M5: -90000 [=M4-M3] | N5: 100000 [=SUM(C5:M5)]
+B6: 35%xΔD | C6: 350000 [=$B9*C5] | D6: -31500 [=$B9*D5] | E6: -31500 [=$B9*E5] | F6: -31500 [=$B9*F5] | G6: -31500 [=$B9*G5] | H6: -31500 [=$B9*H5] | I6: -31500 [=$B9*I5] | J6: -31500 [=$B9*J5] | K6: -31500 [=$B9*K5] | L6: -31500 [=$B9*L5] | M6: -31500 [=$B9*M5] | N6: 35000 [=SUM(C6:M6)]
+B8: Imp. Gan. | E8: Amortización Anual
+B9: 0.35 | E9: Costo del Bien | F9: 1000000 | H9: Fórmulas
+E10: Vida Útil | F10: 10 | H10: Total = (Costo del bien - Valor Residual) / Vida útil
+E11: Valor Residual | F11: 100000 [=F9*0.1]
+E12: Total | F12: 90000 [=(F9-F11)/F10]
+
+===== HOJA 4: Ejercicio 4 =====
+
+B2: Año | C2: X | D2: X+1 | E2: X+2 | F2: X+3 | H2: Interés
+B3: Ingreso | C3: 2000000 | D3: 0 | E3: 0 | F3: 0 | H3: 0.1
+B4: Pago | C4: 0 | D4: 0 | E4: -200000 | F4: -2200000
+B5: Intereses Dev. | C5: 0 | D5: 200000 [=$H3*$C3] | E5: 200000 [=$H3*$C3] | F5: 0
+B6: Util. Empresa | C6: 0 [=-C5] | D6: -200000 [=-D5] | E6: -200000 [=-E5] | F6: 0 [=-F5]
+B7: Util. Banco | C7: 0 [=C5] | D7: 200000 [=D5] | E7: 200000 [=E5] | F7: 0 [=F5]
+E10: Utilidad del banco = intereses devengados (son un ingreso para el banco).
+E11: Utilidad de la empresa = −intereses devengados (son un gasto para la empresa).
+
+===== HOJA 5: Ejercicio 5 =====
+
+B2: Balance | G2: Datos
+B3: Activos | D3: Pasivos + PN | G3: Índicie de Cobertura de Intereses | I3: 8
+B4: Disponibilidades | C4: 11 [=I6*E6] | D4: Deudas Comerciales | E4: 30 | G4: Índicie de Liquidez Corriente | I4: 1.4
+B5: Créditos por Ventas | C5: 44 [=C7-C4-C6] | D5: Deudas Bancarias | E5: 25 | G5: Índice Seco de Liquidez | I5: 1
+B6: Bienes de Cambio | C6: 22 [=C7-I5*E6] | D6: Total Pasivo Corriente | E6: 55 [=E5+E4] | G6: Índice Absoluto de Liquidez | I6: 0.2
+B7: Total Activo Corriente | C7: 77 [=E6*I4] | D7: Deuda A Largo Plazo | E7: 20 [=(E9-E6)/3] | G7: Relación Deuda L.P./Capital | I7: 0.5
+B8: Activo Fijo Neto | C8: 38 [=C9-C7] | D8: Capital | E8: 40 [=2*E7] | G8: Rentabilidad Sobre PN (ROE) | I8: 0.4
+B9: Total | C9: 115 [=E9] | D9: Total | E9: 115 | G9: Índice de Existencia | I9: 72
+G10: Plazo Prom. de Crédito | I10: 90
+G11: Año (días) | I11: 360
+B13: Cuadro de Resultados | G13: Fórmulas Usadas
+B14: Ventas | D14: 176 [=C5/I10*I11] | G14: Pasivo Corriente = Deuda Comercial + Bancaria
+B15: Costo de la Mercadería Vendida | D15: 110 [=C6/I9*I11] | G15: Índice Liquidez Corriente = Activo Corriente / Pasivo Corriente
+B16: Gastos de Comercialización y Admin. | D16: 10 | G16: Índice Seco de Liquidez = (Act. Corriente - Inventario) / Pas. Corriente | K16: → | L16: Inventario = Bienes de Cambio
+B17: Amortización | D17: 20 | G17: Índice Absoluto de Liquidez = Disponibilidades / Pas. Corriente
+B18: Utilidad Operativa (EBIT) | D18: 36 [=D14-D15-D16-D17] | G18: Créditos por Ventas = Act. Corriente - Disponibilidades - Inventario
+B19: Intereses | D19: 4.5 [=D18/I3] | G19: Deuda LP + Capital = Total - Total Pas. Corr. (mirar tabla)
+B20: Utilidad Antes de I.G. | D20: 31.5 [=D18-D19] | G20: Activo Fijo Neto = Activos - Act. Corriente | K20: → | L20: Deuda LP + Capital = 60 y Deuda LP / Capital = 0.5 | O20: → | P20: Deuda LP = 60 - Capital
+B21: Impuesto a las Ganancias | D21: 15.5 [=D20-D22] | G21: Ínidice de Existencia = (Inventario Prom. / Costo de Ventas) x Año | K21: → | L21: Tomamos Inventario Prom = Invetario | P21: Deuda LP = 0.5 * Capital
+B22: Utilidad Neta | D22: 16 [=I8*E8] | G22: Plazo Prom. de Crédito = (Créditos por Ventas / Ventas) x Año
+G23: EBIT = Ventas - Costo - Gastos - Amortizaciones
+B24: Datos del Ejercicio | G24: Índice de Cobertura de Intereses = EBIT / Intereses
+G25: Utilidad Antes de I.G. = EBIT - Intereses
+G26: Utilidad Neta = ROE * PN | K26: → | L26: En este caso, Patrimonio Neto (PN) = Capital
+G27: Impuesto a las Ganancias = Utilidad Antes de I.G. - Utilidad Neta
+
+===== HOJA 6: Ejercicio 6 =====
+
+B2: Datos | E2: Fórmulas
+B3: Deuda | C3: 500000 | E3: Utilidad Neta = (Margen Ut / V) x Ventas
+B4: Interés Anual | C4: 0.1 | E4: Utilidad Neta = (EBIT - Intereses) x (1 - Imp. Gan.)
+B5: Intereses | C5: 50000 [=C3*C4] | E5: Cobertura = EBIT / Intereses
+B6: Ventas | C6: 2000000
+B7: Imp. Gan. | C7: 0.3
+B8: Margen Ut. / Ventas | C8: 0.05
+B10: Resultados
+B11: Utilidad Neta | C11: 100000 [=C8*C6]
+B12: EBIT | C12: 192857 [=C11/(1-C7)+C5]
+B13: Cobertura | C13: 3.85714 [=C12/C5] | D13: → | E13: Como es < 5, no le renovarán el préstamo.
+
+===== HOJA 7: Ejercicio 7 =====
+
+B2: Balance
+B3: Activos | D3: Pasivos | F3: Patrimonio Neto
+B4: Disponibilidades | C4: 400 | D4: Deuda Bancaria | E4: 800 | F4: Total | G4: 2900
+B5: Créditos x Ventas | C5: 1200 | D5: Deuda Comercial | E5: 1100
+B6: Bienes de Cambio | C6: 900 | D6: Total Pasivo Corriente | E6: 1900 [=E4+E5]
+B7: Total Activo Corriente | C7: 2500 [=SUM(C4:C6)] | D7: Deuda Largo Plazo | E7: 2200
+B8: Bienes de Uso | C8: 4500 | D8: Total | E8: 4100 [=E6+E7]
+B9: Total | C9: 7000 [=C7+C8] | D9: → Vemos que Activos = Pasivos + Patrimonio Neto
+B11: Respuestas
+B12: a | C12: Capital de Trabajo | D12: 600 [=C7-E6] | E12: → Capital de Trabajo = Act. Corr. - Pas. Corr.
+B13: b | C13: Ventas | D13: 6000
+C14: Créditos x Ventas | D14: 1440 [=D13*0.24]
+C15: Bienes de Cambio | D15: 1080 [=D13*0.18]
+C16: Aumento de CxV | D16: 240 [=D14-C5]
+C17: Aumento de BdC | D17: 180 [=D15-C6]
+C18: Total Necesario | D18: 420 [=D17+D16]
+B19: c | C19: Deuda Com. (Compras) | D19: 1320 [=D13*0.22]
+C20: Dif. Deuda Com. | D20: 220 [=D19-E5]
+B21: d | C21: Activos Adicionales | D21: 420 [=D18]
+C22: Pasivos Adicionales | D22: 220 [=D20]
+C23: Necesidad Neta | D23: 200 [=D21-D22] | E23: → Necesidad Neta = Activos Ad. - Pasivos Ad. → Necesita financiamiento
+B24: e | C24: Crédito a Tomar | D24: Corto Plazo | E24: → El extra que se requiere ($200), viene de capital de trabajo, lo que representa una necesidad operativa de corto ciclo, por lo que se debe tomar deuda a corto plazo. Si las ventas no se sostienen, los BdC y los CxV bajan y ya no se necesita de los $200. Entonces, si se tomara la deuda de largo plazo, se quedaría atado a pagar intereses innecesarios.

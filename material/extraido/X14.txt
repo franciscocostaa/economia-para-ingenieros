@@ -1,0 +1,169 @@
+FUENTE: X14
+TITULO: Guía 7 (evaluación de proyectos) resuelta por Andy (no oficial)
+ORIGINAL: material/externo/Finanzas_Guia_3_Res.xlsx
+
+===== HOJA 1: Ejercicio 1 =====
+
+B2: Datos | E2: Cuadro de Resultados | K2: Cuadro de Resultados Extraordinarios
+B3: Inversión BU | C3: 1000 | E3: Año | F3: 0 | G3: 1 | H3: 2 | I3: 3 | K3: Concepto | L3: Año 3 (BU) | M3: Año 3 (Kt)
+B4: VU Contable (años) | C4: 10 | E4: EBITDA | F4: - | G4: 550 [=C9] | H4: 550 [=C9] | I4: 550 [=C9] | K4: Valor de Merc. | L4: 800 [=C7] | M4: 80 [=C10*C11]
+B5: VU Técnica (años) | C5: 3 | E5: Amort. Fiscal | F5: - | G5: 60 [=C16] | H5: 60 [=C16] | I5: 60 [=C16] | K5: Valor de Libros | L5: 820 [=C3-(C16*3)] | M5: 100
+B6: VRC (fiscal) | C6: 400 | E6: EBIT | F6: - | G6: 490 [=G4-G5] | H6: 490 [=H4-H5] | I6: 490 [=I4-I5] | K6: U. Extraord | L6: 20 [=L5-L4] | M6: 20 [=M5-M4] | N6: → Son pérdidas que deducen impuestos
+B7: VRT (mercado) | C7: 800 | E7: I.G. | F7: - | G7: 147 [=G6*C13] | H7: 147 [=H6*C13] | I7: 147 [=I6*C13] | K7: I.G. | L7: 6 [=L6*C13] | M7: 6 [=M6*C13]
+B8: VCom. Prod. (años) | C8: 3 | E8: U. Neta | F8: - | G8: 343 [=G6-G7] | H8: 343 [=H6-H7] | I8: 343 [=I6-I7]
+B9: Cash (por año) | C9: 550
+B10: Inversión Kt | C10: 100 | E10: Flujo de Fondos
+B11: Recupero Kt | C11: 0.8 | E11: Año | F11: 0 | G11: 1 | H11: 2 | I11: 3
+B12: TREMA | C12: 0.1 | E12: Inversión BU | F12: -1000 [=-C3] | G12: 0 | H12: 0 | I12: 0
+B13: I.G. | C13: 0.3 | E13: Kt | F13: -100 [=-C10] | G13: 0 | H13: 0 | I13: 0
+E14: FEO | F14: 0 | G14: 403 [=C17] | H14: 403 [=C17] | I14: 403 [=C17]
+B15: Auxiliar | E15: FEE (BU) | F15: 0 | G15: 0 | H15: 0 | I15: 806 [=L4+L7] | J15: → Se suman los $6 de impuestos deducibles
+B16: Amort. Fiscal Anual | C16: 60 [=(C3-C6)/C4] | E16: FEE (Kt) | F16: 0 | G16: 0 | H16: 0 | I16: 86 [=M4+M7] | J16: → Se suman los $6 de impuestos deducibles
+B17: FEO | C17: 403 [=C9*(1-C13)+C16*C13] | E17: FF | F17: -1100 [=SUM(F12:F16)] | G17: 403 [=SUM(G12:G16)] | H17: 403 [=SUM(H12:H16)] | I17: 1295 [=SUM(I12:I16)]
+E18: VAN | F18: 572.374 [=NPV(C12,G17:I17)+F17]
+B19: FEO = EBIT × (1 − IG) + Amortización
+B20: Amort. Fiscal Annual = (BU - VRC) / VU Contable
+
+===== HOJA 2: Ejercicio 2 =====
+
+B2: Datos | E2: Cuadro de Resultados
+B3: Inversión BU | C3: 48000 | E3: Año | F3: 0 | G3: 1 | H3: 2 | I3: 3 | J3: 4 | K3: 5
+B4: Cost. Inst. Flet. | C4: 2000 | E4: Ventas Ad. | F4: - | G4: 5000 [=C9] | H4: 5000 [=C9] | I4: 5000 [=C9] | J4: 5000 [=C9] | K4: 5000 [=C9]
+B5: Kt | C5: 3000 | E5: Decr. Costos | F5: - | G5: 8000 [=C10] | H5: 8000 [=C10] | I5: 8000 [=C10] | J5: 8000 [=C10] | K5: 8000 [=C10]
+B6: Recupero Kt | C6: 1 | E6: EBITDA | F6: - | G6: 13000 [=SUM(G4:G5)] | H6: 13000 [=SUM(H4:H5)] | I6: 13000 [=SUM(I4:I5)] | J6: 13000 [=SUM(J4:J5)] | K6: 13000 [=SUM(K4:K5)]
+B7: Entrenamiento | C7: 4000 | E7: Amort. Fiscal | F7: - | G7: 10000 [=C20] | H7: 10000 [=C20] | I7: 10000 [=C20] | J7: 10000 [=C20] | K7: 10000 [=C20]
+B8: Venta Maq. Vieja | C8: 10000 | E8: EBIT | F8: - | G8: 3000 [=G6-G7] | H8: 3000 [=H6-H7] | I8: 3000 [=I6-I7] | J8: 3000 [=J6-J7] | K8: 3000 [=K6-K7]
+B9: Incr. Ventas (x año) | C9: 5000 | E9: I.G. | F9: - | G9: 1200 [=C16*G8] | H9: 1200 [=C16*H8] | I9: 1200 [=C16*I8] | J9: 1200 [=C16*J8] | K9: 1200 [=C16*K8]
+B10: Decr. Costos (x año) | C10: 8000 | E10: U. Neta | F10: - | G10: 1800 [=G8-G9] | H10: 1800 [=H8-H9] | I10: 1800 [=I8-I9] | J10: 1800 [=J8-J9] | K10: 1800 [=K8-K9]
+B11: VU Técnica (años) | C11: 5
+B12: VU Contable | C12: 5 | E12: Flujo de Fondos
+B13: VRT (mercado) | C13: 15000 | E13: Año | F13: 0 | G13: 1 | H13: 2 | I13: 3 | J13: 4 | K13: 5
+B14: VRC (fiscal) | C14: 0 | E14: Inv. BU (Total) | F14: -50000 [=-(C3+C4)] | G14: 0 | H14: 0 | I14: 0 | J14: 0 | K14: 0
+B15: TREMA | C15: 0.1 | E15: Kt. | F15: -3000 [=-C5] | G15: 0 | H15: 0 | I15: 0 | J15: 0 | K15: 3000 [=C5*C6]
+B16: I.G. | C16: 0.4 | E16: Entrenamiento | F16: -2400 [=-(C7-(C7*C16))] | G16: 0 | H16: 0 | I16: 0 | J16: 0 | K16: 0
+E17: Venta Maq. V | F17: 6000 [=C8-(C8*C16)] | G17: 0 | H17: 0 | I17: 0 | J17: 0 | K17: 0
+B18: Auxiliar | E18: Venta Maq. N | F18: 0 | G18: 0 | H18: 0 | I18: 0 | J18: 0 | K18: 9000 [=C13-(C13*C16)]
+B19: Base Amortizable | C19: 50000 [=C3+C4] | E19: FEO | F19: 0 | G19: 11800 [=C21] | H19: 11800 [=C21] | I19: 11800 [=C21] | J19: 11800 [=C21] | K19: 11800 [=C21]
+B20: Amort. Fisc. Anual | C20: 10000 [=(C19-C14)/C12] | E20: FF | F20: -49400 [=SUM(F14:F19)] | G20: 11800 [=SUM(G14:G19)] | H20: 11800 [=SUM(H14:H19)] | I20: 11800 [=SUM(I14:I19)] | J20: 11800 [=SUM(J14:J19)] | K20: 23800 [=SUM(K14:K19)]
+B21: FEO | C21: 11800 [=G6-G9] | E21: VAN | F21: 2782.34 [=NPV(C15,G20:K20)+F20] | G21: → Se acepta
+E23: Entrenamiento y venta Maq. Vieja ahorran impuestos → valor-valor*IG
+
+===== HOJA 3: Ejercicio 3 =====
+
+B2: Datos | E2: Año | F2: 1 | G2: 2 | H2: 3 | I2: 4
+B3: Monto | C3: 100000 | E3: Factor | F3: 0.869565 [=1/((1+C5)^F2)] | G3: 0.756144 [=1/((1+C5)^G2)] | H3: 0.657516 [=1/((1+C5)^H2)] | I3: 0.571753 [=1/((1+C5)^I2)]
+B4: Período (años) | C4: 4 | E4: Pago A | F4: 25000 | G4: 25000 | H4: 25000 | I4: 25000
+B5: TREMA | C5: 0.15 | E5: Escudo Fiscal (A) | F5: 10000 [=F4*C6] | G5: 10000 [=G4*C6] | H5: 10000 [=H4*C6] | I5: 10000 [=I4*C6]
+B6: I.G. | C6: 0.4 | E6: PV (A) | F6: 8695.65 [=F5*F3] | G6: 7561.44 [=G5*G3] | H6: 6575.16 [=H5*H3] | I6: 5717.53 [=I5*I3]
+E7: Pago B | F7: 40000 | G7: 30000 | H7: 20000 | I7: 10000
+E8: Escudo Fiscal (B) | F8: 16000 [=F7*C6] | G8: 12000 [=G7*C6] | H8: 8000 [=H7*C6] | I8: 4000 [=I7*C6]
+E9: PV (B) | F9: 13913 [=F8*F3] | G9: 9073.72 [=G8*G3] | H9: 5260.13 [=H8*H3] | I9: 2287.01 [=I8*I3]
+E10: ΔVAN | F10: 5217.39 [=F9-F6] | G10: 1512.29 [=G9-G6] | H10: -1315.03 [=H9-H6] | I10: -3430.52 [=I9-I6]
+E11: ΔVAN (Total) | F11: 1984.13 [=SUM(F10:I10)] | G11: → Mayor VAN en B
+E13: Escudo Fiscal = Amortización * IG
+
+===== HOJA 4: Ejercicio 4 =====
+
+B2: Datos | E2: Cuadro de Resultados
+B3: Inversión BU | C3: 200000 | E3: Años | F3: 0 | G3: 1 | H3: 2 | I3: 3 | J3: 4 | K3: 5 | L3: 6 | M3: 7 | N3: 8 | O3: 9 | P3: 10
+B4: Vol. Anual | C4: 35000 | E4: Ventas | F4: - | G4: 700000 [=C4*C10] | H4: 700000 [=C4*C10] | I4: 700000 [=C4*C10] | J4: 700000 [=C4*C10] | K4: 700000 [=C4*C10] | L4: 700000 [=C4*C10] | M4: 700000 [=C4*C10] | N4: 700000 [=C4*C10] | O4: 700000 [=C4*C10] | P4: 700000 [=C4*C10]
+B5: VU Técnica (años) | C5: 5 | E5: Costos Variables | F5: - | G5: -280000 [=-C4*C11] | H5: -280000 [=-C4*C11] | I5: -280000 [=-C4*C11] | J5: -280000 [=-C4*C11] | K5: -280000 [=-C4*C11] | L5: -280000 [=-C4*C11] | M5: -280000 [=-C4*C11] | N5: -280000 [=-C4*C11] | O5: -280000 [=-C4*C11] | P5: -280000 [=-C4*C11]
+B6: VRT (mercado) | C6: 25000 | E6: Costos Fijos | F6: - | G6: -60000 [=-C12] | H6: -60000 [=-C12] | I6: -60000 [=-C12] | J6: -60000 [=-C12] | K6: -60000 [=-C12] | L6: -60000 [=-C12] | M6: -60000 [=-C12] | N6: -60000 [=-C12] | O6: -60000 [=-C12] | P6: -60000 [=-C12]
+B7: VRC (fiscal - 4 años) | C7: 20000 | E7: EBITDA | F7: - | G7: 360000 [=SUM(G4:G6)] | H7: 360000 [=SUM(H4:H6)] | I7: 360000 [=SUM(I4:I6)] | J7: 360000 [=SUM(J4:J6)] | K7: 360000 [=SUM(K4:K6)] | L7: 360000 [=SUM(L4:L6)] | M7: 360000 [=SUM(M4:M6)] | N7: 360000 [=SUM(N4:N6)] | O7: 360000 [=SUM(O4:O6)] | P7: 360000 [=SUM(P4:P6)]
+B8: Kt | C8: 80000 | E8: Res. Venta Maq | F8: - | G8: 0 | H8: 0 | I8: 0 | J8: 0 | K8: 5000 [=C21] | L8: 0 | M8: 0 | N8: 0 | O8: 0 | P8: 5000 [=C21]
+B9: Recupero Kt | C9: 0.8 | E9: Pérdida Kt | F9: - | G9: 0 | H9: 0 | I9: 0 | J9: 0 | K9: 0 | L9: 0 | M9: 0 | N9: 0 | O9: 0 | P9: -16000 [=-C22]
+B10: Precio Venta | C10: 20 | E10: Amort. | F10: - | G10: -45000 [=-C20] | H10: -45000 [=-C20] | I10: -45000 [=-C20] | J10: -45000 [=-C20] | K10: 0 | L10: -45000 [=-C20] | M10: -45000 [=-C20] | N10: -45000 [=-C20] | O10: -45000 [=-C20] | P10: 0
+B11: Cost. Var. (xU) | C11: 8 | E11: EBIT | F11: - | G11: 315000 [=G7+SUM(G8:G10)] | H11: 315000 [=H7+SUM(H8:H10)] | I11: 315000 [=I7+SUM(I8:I10)] | J11: 315000 [=J7+SUM(J8:J10)] | K11: 365000 [=K7+SUM(K8:K10)] | L11: 315000 [=L7+SUM(L8:L10)] | M11: 315000 [=M7+SUM(M8:M10)] | N11: 315000 [=N7+SUM(N8:N10)] | O11: 315000 [=O7+SUM(O8:O10)] | P11: 349000 [=P7+SUM(P8:P10)]
+B12: Cost. Fijos (anual) | C12: 60000 | E12: I.G. | F12: - | G12: -94500 [=-G11*C15] | H12: -94500 [=-H11*C15] | I12: -94500 [=-I11*C15] | J12: -94500 [=-J11*C15] | K12: -109500 [=-K11*C15] | L12: -94500 [=-L11*C15] | M12: -94500 [=-M11*C15] | N12: -94500 [=-N11*C15] | O12: -94500 [=-O11*C15] | P12: -104700 [=-P11*C15]
+B13: Cost. Fijos (prorr.) | C13: 5000 | E13: U. Neta | F13: - | G13: 220500 [=G11+G12] | H13: 220500 [=H11+H12] | I13: 220500 [=I11+I12] | J13: 220500 [=J11+J12] | K13: 255500 [=K11+K12] | L13: 220500 [=L11+L12] | M13: 220500 [=M11+M12] | N13: 220500 [=N11+N12] | O13: 220500 [=O11+O12] | P13: 244300 [=P11+P12]
+B14: TREMA | C14: 0.15
+B15: I.G. | C15: 0.3 | E15: Flujo de Fondos
+E16: Años | F16: 0 | G16: 1 | H16: 2 | I16: 3 | J16: 4 | K16: 5 | L16: 6 | M16: 7 | N16: 8 | O16: 9 | P16: 10
+B17: Auxiliar | E17: EBITDA | F17: 0 | G17: 360000 [=G7] | H17: 360000 [=H7] | I17: 360000 [=I7] | J17: 360000 [=J7] | K17: 360000 [=K7] | L17: 360000 [=L7] | M17: 360000 [=M7] | N17: 360000 [=N7] | O17: 360000 [=O7] | P17: 360000 [=P7]
+B18: Base Amortizable | C18: 180000 [=C3-C7] | E18: Inversión BU | F18: -200000 [=-C3] | G18: 0 | H18: 0 | I18: 0 | J18: 0 | K18: -200000 [=-C3] | L18: 0 | M18: 0 | N18: 0 | O18: 0 | P18: 0
+B19: Años | C19: 4 | E19: Venta BU | F19: 0 | G19: 0 | H19: 0 | I19: 0 | J19: 0 | K19: 25000 [=C6] | L19: 0 | M19: 0 | N19: 0 | O19: 0 | P19: 25000 [=C6]
+B20: Amort. Fisc. Anual | C20: 45000 [=C18/C19] | E20: Kt. | F20: -80000 [=-C8] | G20: 0 | H20: 0 | I20: 0 | J20: 0 | K20: 0 | L20: 0 | M20: 0 | N20: 0 | O20: 0 | P20: 64000 [=C8*C9]
+B21: Res. Venta Maq. | C21: 5000 [=C6-(C3-4*C20)] | E21: I.G. | F21: 0 | G21: -94500 [=G12] | H21: -94500 [=H12] | I21: -94500 [=I12] | J21: -94500 [=J12] | K21: -109500 [=K12] | L21: -94500 [=L12] | M21: -94500 [=M12] | N21: -94500 [=N12] | O21: -94500 [=O12] | P21: -104700 [=P12]
+B22: Pérdida Kt. | C22: 16000 [=C8-(C8*C9)] | E22: FF | F22: -280000 [=SUM(F17:F21)] | G22: 265500 [=SUM(G17:G21)] | H22: 265500 [=SUM(H17:H21)] | I22: 265500 [=SUM(I17:I21)] | J22: 265500 [=SUM(J17:J21)] | K22: 75500 [=SUM(K17:K21)] | L22: 265500 [=SUM(L17:L21)] | M22: 265500 [=SUM(M17:M21)] | N22: 265500 [=SUM(N17:N21)] | O22: 265500 [=SUM(O17:O21)] | P22: 344300 [=SUM(P17:P21)]
+E23: VAN | F23: 977498 [=NPV(C14,G22:P22)+F22] | G23: → Se acepta
+
+===== HOJA 5: Ejercicio 5 =====
+
+B2: Datos | E2: Cuadro de Resultados
+B3: Costo Estudio | C3: 5000 | E3: Años | F3: 0 | G3: 1 | H3: 2 | I3: 3 | J3: 4 | K3: 5
+B4: Inversión BU | C4: 80000 | E4: EBITDA | F4: - | G4: 22000 [=C5] | H4: 22000 [=C5] | I4: 22000 [=C5] | J4: 22000 [=C5] | K4: 22000 [=C5]
+B5: Ahorros Anuales | C5: 22000 | E5: Res. Venta Maq. | F5: - | G5: 0 | H5: 0 | I5: 0 | J5: 0 | K5: 20000 [=C15]
+B6: VUT (años) | C6: 5 | E6: Amort. | F6: - | G6: -16000 [=-C14] | H6: -16000 [=-C14] | I6: -16000 [=-C14] | J6: -16000 [=-C14] | K6: -16000 [=-C14]
+B7: VRM | C7: 20000 | E7: EBIT | F7: - | G7: 6000 [=G4+SUM(G5:G6)] | H7: 6000 [=H4+SUM(H5:H6)] | I7: 6000 [=I4+SUM(I5:I6)] | J7: 6000 [=J4+SUM(J5:J6)] | K7: 26000 [=K4+SUM(K5:K6)]
+B8: VRC | C8: 0 | E8: I.G. | F8: - | G8: -2040 [=-G7*C10] | H8: -2040 [=-H7*C10] | I8: -2040 [=-I7*C10] | J8: -2040 [=-J7*C10] | K8: -8840 [=-K7*C10]
+B9: TREMA | C9: 0.1 | E9: U. Neta | F9: - | G9: 3960 [=G7+G8] | H9: 3960 [=H7+H8] | I9: 3960 [=I7+I8] | J9: 3960 [=J7+J8] | K9: 17160 [=K7+K8]
+B10: I.G. | C10: 0.34
+E11: Flujo de Fondos
+B12: Auxiliar | E12: Años | F12: 0 | G12: 1 | H12: 2 | I12: 3 | J12: 4 | K12: 5
+B13: Base Amort. | C13: 80000 [=C4-C8] | E13: EBITDA | F13: 0 | G13: 22000 [=G4] | H13: 22000 [=H4] | I13: 22000 [=I4] | J13: 22000 [=J4] | K13: 22000 [=K4]
+B14: Amort. Fisc. Anual | C14: 16000 [=C13/C6] | E14: Inv. BU | F14: -80000 [=-C4] | G14: 0 | H14: 0 | I14: 0 | J14: 0 | K14: 0
+B15: Res. Venta Maq. | C15: 20000 [=C7-(C4-C6*C14)] | E15: Venta BU | F15: 0 | G15: 0 | H15: 0 | I15: 0 | J15: 0 | K15: 20000 [=C7]
+E16: I.G. | F16: 0 | G16: -2040 [=G8] | H16: -2040 [=H8] | I16: -2040 [=I8] | J16: -2040 [=J8] | K16: -8840 [=K8]
+E17: FF | F17: -80000 [=SUM(F13:F16)] | G17: 19960 [=SUM(G13:G16)] | H17: 19960 [=SUM(H13:H16)] | I17: 19960 [=SUM(I13:I16)] | J17: 19960 [=SUM(J13:J16)] | K17: 33160 [=SUM(K13:K16)]
+E18: FEO | F18: 0 | G18: 19960 [=G7*(1-C10)+(-G6)] | H18: 19960 [=H7*(1-C10)+(-H6)] | I18: 19960 [=I7*(1-C10)+(-I6)] | J18: 19960 [=J7*(1-C10)+(-J6)] | K18: 33160 [=K7*(1-C10)+(-K6)]
+E19: VAN | F19: 3860.27 [=NPV(C9,G17:K17)+F17] | G19: → Se acepta
+
+===== HOJA 6: Ejercicio 6 =====
+
+B2: Datos | E2: Cuadro de Resultados
+B3: Inversión BU | C3: 1000 | E3: Año | F3: 0 | G3: 1 | H3: 2 | I3: 3 | J3: 4 | K3: 5
+B4: VU Contable (años) | C4: 10 | E4: Ventas | F4: - | G4: 700 [=C6] | H4: 700 [=C6] | I4: 700 [=C6] | J4: 700 [=C6] | K4: 700 [=C6]
+B5: Costo Estudio | C5: 105 | E5: Costos | F5: - | G5: -100 [=-C7] | H5: -100 [=-C7] | I5: -100 [=-C7] | J5: -100 [=-C7] | K5: -100 [=-C7]
+B6: Ventas (x Año) | C6: 700 | E6: EBITDA | F6: - | G6: 600 [=SUM(G4:G5)] | H6: 600 [=SUM(H4:H5)] | I6: 600 [=SUM(I4:I5)] | J6: 600 [=SUM(J4:J5)] | K6: 600 [=SUM(K4:K5)]
+B7: Costos (x Año) | C7: 100 | E7: Res. Venta | F7: - | G7: 0 | H7: 0 | I7: 0 | J7: 0 | K7: -400 [=C17]
+B8: VRM | C8: 100 | E8: Pérdida Kt | F8: - | G8: 0 | H8: 0 | I8: 0 | J8: 0 | K8: -40 [=-C18]
+B9: Kt. | C9: 200 | E9: Amort. | F9: - | G9: -100 [=-C16] | H9: -100 [=-C16] | I9: -100 [=-C16] | J9: -100 [=-C16] | K9: -100 [=-C16]
+B10: Recupero Kt. | C10: 0.8 | E10: EBIT | F10: - | G10: 500 [=G6+SUM(G7:G9)] | H10: 500 [=H6+SUM(H7:H9)] | I10: 500 [=I6+SUM(I7:I9)] | J10: 500 [=J6+SUM(J7:J9)] | K10: 60 [=K6+SUM(K7:K9)]
+B11: TREMA | C11: 0.2 | E11: I.G. | F11: - | G11: -175 [=-G10*C12] | H11: -175 [=-H10*C12] | I11: -175 [=-I10*C12] | J11: -175 [=-J10*C12] | K11: -21 [=-K10*C12]
+B12: I.G. | C12: 0.35 | E12: U. Neta | F12: - | G12: 325 [=SUM(G10:G11)] | H12: 325 [=SUM(H10:H11)] | I12: 325 [=SUM(I10:I11)] | J12: 325 [=SUM(J10:J11)] | K12: 39 [=SUM(K10:K11)]
+B14: Auxiliar | E14: Flujo de Fondos
+B15: Base Amort. | C15: 1000 [=C3] | E15: Año | F15: 0 | G15: 1 | H15: 2 | I15: 3 | J15: 4 | K15: 5
+B16: Amort. Fisc. Anual | C16: 100 [=C15/C4] | E16: EBITDA | F16: 0 | G16: 600 [=G6] | H16: 600 [=H6] | I16: 600 [=I6] | J16: 600 [=J6] | K16: 600 [=K6]
+B17: Res. Venta | C17: -400 [=C8-(C3-5*C16)] | E17: Inv. BU | F17: -1000 [=-C3] | G17: 0 | H17: 0 | I17: 0 | J17: 0 | K17: 0
+B18: Pérdida Kt | C18: 40 [=C9-(C9*C10)] | E18: Venta BU | F18: 0 | G18: 0 | H18: 0 | I18: 0 | J18: 0 | K18: 100 [=C8]
+E19: Kt | F19: -200 [=-C9] | G19: 0 | H19: 0 | I19: 0 | J19: 0 | K19: 160 [=C9*C10]
+E20: I.G. | F20: 0 | G20: -175 [=G11] | H20: -175 [=H11] | I20: -175 [=I11] | J20: -175 [=J11] | K20: -21 [=K11]
+E21: FF | F21: -1200 [=SUM(F16:F20)] | G21: 425 [=SUM(G16:G20)] | H21: 425 [=SUM(H16:H20)] | I21: 425 [=SUM(I16:I20)] | J21: 425 [=SUM(J16:J20)] | K21: 839 [=SUM(K16:K20)]
+E22: FEO | F22: 0 | G22: 425 [=G10*(1-C12)+(-G9)] | H22: 425 [=H10*(1-C12)+(-H9)] | I22: 425 [=I10*(1-C12)+(-I9)] | J22: 425 [=J10*(1-C12)+(-J9)] | K22: 139 [=K10*(1-C12)+(-K9)] | L22: → No hice los otros enfoques...
+E23: FEE (BU) | F23: -1000 [=F17] | G23: 0 | H23: 0 | I23: 0 | J23: 0 | K23: 240 [=C8-(C12*C17)] | L23: → No hice los otros enfoques...
+E24: FEE (Kt) | F24: -200 [=F19] | G24: 0 | H24: 0 | I24: 0 | J24: 0 | K24: 174 [=K19-(C12*-C18)] | L24: → No hice los otros enfoques...
+E25: VAN | F25: 237.387 [=NPV(C11,G21:K21)+F21] | G25: → Se acepta
+J27: FEE = Valor de mercado − IG × (Valor de mercado − Valor de libros)
+E29: El FEO de K22 está mal. Hacer como en el ej. 1 “Cuadro de Resultados Extraordinarios”
+
+===== HOJA 7: Ejercicio 7 =====
+
+B2: Datos | E2: Cuadro de Resultados
+B3: Inversión BU | C3: 200000 | E3: Año | F3: 0 | G3: 1 | H3: 2 | I3: 3 | J3: 4 | K3: 5
+B4: VUT (años) | C4: 20 | E4: Ahorro Tapitas | F4: 0 | G4: 2500000 [=C12*0.5] | H4: 2500000 [=C12*0.5] | I4: 2500000 [=C12*0.5] | J4: 2500000 [=C12*0.5] | K4: 2500000 [=C12*0.5]
+B5: VRC (fiscal - 10 años) | C5: 0 | E5: Costo Tapitas | F5: 0 | G5: -2000000 [=-(C9-C12)*C15] | H5: -2000000 [=-(C9-C12)*C15] | I5: -2000000 [=-(C9-C12)*C15] | J5: -2000000 [=-(C9-C12)*C15] | K5: -2000000 [=-(C9-C12)*C15]
+B6: VRM | C6: 40000 | E6: Sueldo | F6: 0 | G6: -12000 [=-C17] | H6: -12000 [=-C17] | I6: -12000 [=-C17] | J6: -12000 [=-C17] | K6: -12000 [=-C17]
+B7: Kt | C7: 20000 | E7: Capacitación | F7: -2000 [=-C18] | G7: 0 | H7: 0 | I7: 0 | J7: 0 | K7: 0
+B8: Recupero Kt | C8: 0.5 | E8: EBITDA | F8: -2000 [=SUM(F4:F7)] | G8: 488000 [=SUM(G4:G7)] | H8: 488000 [=SUM(H4:H7)] | I8: 488000 [=SUM(I4:I7)] | J8: 488000 [=SUM(J4:J7)] | K8: 488000 [=SUM(K4:K7)]
+B9: Prod. Tapitas (anual) | C9: 10000000 | E9: Result. Venta | F9: 0 | G9: 0 | H9: 0 | I9: 0 | J9: 0 | K9: -60000 [=C26]
+B10: Venta Tapitas | C10: 0.35 | E10: Pérdida Kt | F10: 0 | G10: 0 | H10: 0 | I10: 0 | J10: 0 | K10: -10000 [=-C27]
+B11: Costo Botella (x U) | C11: 4 [=2+1+0.5+0.5] | E11: Amortiz. | F11: 0 | G11: -20000 [=-C25] | H11: -20000 [=-C25] | I11: -20000 [=-C25] | J11: -20000 [=-C25] | K11: -20000 [=-C25]
+B12: Bot. Vendidas (anual) | C12: 5000000 | E12: EBIT | F12: -2000 [=F8+SUM(F9:F11)] | G12: 468000 [=G8+SUM(G9:G11)] | H12: 468000 [=H8+SUM(H9:H11)] | I12: 468000 [=I8+SUM(I9:I11)] | J12: 468000 [=J8+SUM(J9:J11)] | K12: 398000 [=K8+SUM(K9:K11)]
+B13: Bot. Nuevo Precio | C13: 12 | E13: I.G. | F13: 400 [=-F12*C20] | G13: -93600 [=-G12*C20] | H13: -93600 [=-H12*C20] | I13: -93600 [=-I12*C20] | J13: -93600 [=-J12*C20] | K13: -79600 [=-K12*C20]
+B14: Costo Bot. (x U) Nuevo | C14: 3.9 [=2+1+0.4+0.5] | E14: U. Neta | F14: -1600 [=F12+F13] | G14: 374400 [=G12+G13] | H14: 374400 [=H12+H13] | I14: 374400 [=I12+I13] | J14: 374400 [=J12+J13] | K14: 318400 [=K12+K13]
+B15: Costo Tapitas | C15: 0.4
+B16: Período (años) | C16: 5 | E16: Flujo de Fondos
+B17: Salario Ing. (anual) | C17: 12000 | E17: Año | F17: 0 | G17: 1 | H17: 2 | I17: 3 | J17: 4 | K17: 5
+B18: Curso | C18: 2000 | E18: EBITDA | F18: -2000 [=F8] | G18: 488000 [=G8] | H18: 488000 [=H8] | I18: 488000 [=I8] | J18: 488000 [=J8] | K18: 488000 [=K8]
+B19: TREMA | C19: 0.1 | E19: Inversión BU | F19: -200000 [=-C3] | G19: 0 | H19: 0 | I19: 0 | J19: 0 | K19: 0
+B20: I.G. | C20: 0.2 | E20: Venta BU | F20: 0 | G20: 0 | H20: 0 | I20: 0 | J20: 0 | K20: 40000 [=C6]
+E21: Kt | F21: -20000 [=-C7] | G21: 0 | H21: 0 | I21: 0 | J21: 0 | K21: 10000 [=C7*C8]
+B22: Auxiliares | E22: I.G. | F22: 400 [=F13] | G22: -93600 [=G13] | H22: -93600 [=H13] | I22: -93600 [=I13] | J22: -93600 [=J13] | K22: -79600 [=K13]
+B23: Base Amort. | C23: 200000 [=C3-C5] | E23: FF | F23: -221600 [=SUM(F18:F22)] | G23: 394400 [=SUM(G18:G22)] | H23: 394400 [=SUM(H18:H22)] | I23: 394400 [=SUM(I18:I22)] | J23: 394400 [=SUM(J18:J22)] | K23: 458400 [=SUM(K18:K22)]
+B24: Años | C24: 10 | E24: FEO | F24: -1600 [=F12*(1-C20)+(-F11)] | G24: 394400 [=G12*(1-C20)+(-G11)] | H24: 394400 [=H12*(1-C20)+(-H11)] | I24: 394400 [=I12*(1-C20)+(-I11)] | J24: 394400 [=J12*(1-C20)+(-J11)] | K24: 338400 [=K12*(1-C20)+(-K11)] | L24: → No hice los otros enfoques...
+B25: Amortiz. Fiscal Anual | C25: 20000 [=C23/C24] | E25: FEE(BU) | F25: -200000 [=F19] | G25: 0 | H25: 0 | I25: 0 | J25: 0 | K25: 52000 [=C6-(C26*C20)] | L25: → No hice los otros enfoques...
+B26: Result. Venta. Maq. | C26: -60000 [=C6-(C3-C16*C25)] | E26: FEE(Kt) | F26: -20000 [=F21] | G26: 0 | H26: 0 | I26: 0 | J26: 0 | K26: 12000 [=K21-(-C27*C20)] | L26: → No hice los otros enfoques...
+B27: Pérdida Kt. | C27: 10000 [=C7-(C7*C8)] | E27: VAN | F27: 1.31323e+06 [=NPV(C19,G23:K23)+F23] | G27: → Se acepta
+B30: Respuestas
+B31: c) El costo del estudio no afecta el VAN del proyecto porque es un costo hundido, es decir, fue comprometido (e incurrido) y su modificación no cambia el Flujo de Fondos del proyecto. independientemente de la realización o no del proyecto | K31: El FEO de K24 está mal. Hacer como en el ej. 1 “Cuadro de Resultados Extraordinarios”
+B34: d) Será mayor el escudo impositivo en los primeros 6 años del proyecto, y menor en los últimos 4. Es decir que si bien la suma algebraica de los impuestos en uno y otro escenario es la misma, en el segundo caso planteado pagará menos al principio, y más al final. Por efecto del VTD, el valor presente del flujo de impuestos también será menor, y por lo tanto, aumentará el VAN.
