@@ -1,6 +1,6 @@
 # Compilado de V/F resuelto (formato examen)
 
-> **Fuente de los enunciados:** compilado no oficial de V/F de segundos parciales [X08] (`material/externo/2P - Compilado VoF.docx`). Las respuestas son propias, escritas como se entregarían en el parcial: veredicto y justificación breve. La revisión crítica de las respuestas del compilado está en el [banco de V/F](banco-vf.md). El compilado no tiene ítem 36.
+> **Fuente de los enunciados:** compilado no oficial de V/F de segundos parciales [X08] (`material/externo/2P - Compilado VoF.docx`). Las respuestas son propias, escritas como se entregarían en el parcial: veredicto y justificación breve. La revisión crítica de las respuestas del compilado está en el [banco de V/F](banco-vf.md). El compilado no tiene ítem 36. Los ítems 45 a 54 son los V/F oficiales del parcial del 16/06/2026 [P02, R03].
 
 **Consigna.** Indique si los siguientes enunciados son Verdaderos o Falsos justificando su respuesta (sin justificación se invalidará la misma).
 
@@ -180,6 +180,50 @@
 
 **Verdadero.** En el pseudoequilibrio las ventas cubren los costos variables y los fijos propios; en el equilibrio, además, los fijos asignados. Entre ambos puntos el producto aporta una contribución parcial a los fijos comunes. Conviene mantenerlo: si se elimina, se pierde ese aporte y los fijos comunes siguen existiendo.
 
+## Parcial 16/06/2026 (oficial)
+
+Enunciados del tema 1 [P02, p. 1], incisos a) a j), numerados 45 a 54. El tema 2 tiene los mismos enunciados en otro orden [P02, p. 2]. Los veredictos coinciden con la resolución de la cátedra [R03] (hoja P1); la revisión está en [2026-C1.md](2026-C1.md).
+
+**45. (a) Si suben los costos variables unitarios, la empresa aumenta sus costos fijos y sube el precio de modo que el margen de contribución unitario quede constante, el punto de equilibrio en unidades siempre aumenta.**
+
+**Verdadero.** Q* = CF / MC. El precio sube lo justo para compensar la suba del CVu, así que el MC queda igual; como los CF aumentan, el cociente aumenta. Q* sube sin importar cuánto subieron los CF.
+
+**46. (b) Un aumento del apalancamiento financiero incrementa el riesgo del accionista.**
+
+**Verdadero.** ROE = ROA + (ROA − i)·P/PN. Al aumentar P/PN crece el peso de los intereses fijos, y el término de apalancamiento amplifica cualquier variación del ROA: si el ROA sube, el ROE sube más, y si cae por debajo de i, el ROE cae más. Mayor variabilidad del resultado del accionista es mayor riesgo.
+
+**47. (c) Un aumento de la rotación de activos siempre mejora la rentabilidad operativa.**
+
+**Falso.** ROA = margen × rotación. Si la rotación sube porque se vende más barato y el margen cae en mayor proporción, el ROA baja. El "siempre" lo hace falso; solo mejora con el margen constante.
+
+**48. (d) El ROE puede aumentar aunque la rentabilidad operativa disminuya.**
+
+**Verdadero.** ROE = ROA + (ROA − i)·P/PN. Si el ROA baja un poco pero sigue siendo mayor que i y la empresa aumenta su endeudamiento (sube P/PN), el efecto palanca puede más que compensar la caída del ROA.
+
+**49. (e) Una empresa puede tener utilidad positiva y flujo de caja negativo.**
+
+**Verdadero.** La utilidad se calcula por lo devengado y la caja por lo percibido. Ventas a crédito no cobradas, aumentos de inventario (más capital de trabajo) o inversiones en bienes de uso consumen caja sin restar del resultado.
+
+**50. (f) El valor de la empresa depende más de los flujos de caja futuros que de los resultados contables actuales.**
+
+**Verdadero.** El valor de la empresa es el valor presente de los flujos de caja libres futuros esperados, descontados a la tasa de costo de capital. Los resultados contables del período son pasado y no son caja.
+
+**51. (g) Activar un gasto en lugar de reconocerlo como gasto corriente aumenta la utilidad de corto plazo.**
+
+**Verdadero.** Si se activa, el importe no se resta del resultado del período: se reconoce de a poco mediante la amortización en los períodos siguientes. La utilidad de hoy sube y la de los períodos futuros baja; la caja no cambia.
+
+**52. (h) La liquidez corriente puede mejorar si se toma deuda de largo plazo para cancelar deuda de corto plazo.**
+
+**Verdadero.** Liquidez corriente = AC / PC. El efectivo del préstamo entra y sale (AC igual) y el pasivo corriente baja porque la deuda pasa al no corriente. Con el mismo numerador y un denominador menor, el índice sube.
+
+**53. (i) El capital de trabajo operativo puede ser negativo en empresas financieramente saludables.**
+
+**Verdadero.** NOF = clientes + inventarios − proveedores. Un supermercado cobra al contado (casi no tiene clientes), rota rápido el inventario y paga a proveedores a 60–90 días: las NOF son negativas y los proveedores le financian la operación. Es una señal de poder de negociación, no de problemas.
+
+**54. (j) Un aumento de la amortización reduce el flujo de caja operativo.**
+
+**Falso.** La amortización es un gasto no erogable: no sale caja. Solo reduce el resultado imponible, por lo que, si la empresa tiene ganancias, paga menos impuesto (ahorro fiscal = A · t) y el flujo de caja operativo aumenta. Si no tiene ganancias imponibles, el flujo queda igual. En ningún caso disminuye.
+
 ---
 
 ## Relación con otros temas
@@ -192,4 +236,4 @@
 
 ## Fuentes
 
-X08 (enunciados, no oficial). Respuestas apoyadas en T01, T02, T03, T04, T05 y G05, con las citas detalladas en el [banco de V/F](banco-vf.md). Los ítems 23, 26, 34 y 41 dependen de supuestos que el enunciado no fija; el supuesto adoptado está explícito en cada respuesta. En el 26 se adopta la lectura mensual (cuadro del mes de noviembre).
+X08 (enunciados 1–44, no oficial); P02 y R03 (enunciados y respuestas oficiales 45–54, parcial del 16/06/2026). Respuestas apoyadas en T01, T02, T03, T04, T05 y G05, con las citas detalladas en el [banco de V/F](banco-vf.md). Los ítems 23, 26, 34 y 41 dependen de supuestos que el enunciado no fija; el supuesto adoptado está explícito en cada respuesta. En el 26 se adopta la lectura mensual (cuadro del mes de noviembre).
