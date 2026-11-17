@@ -1,6 +1,6 @@
 # Hoja de fórmulas de Andy · Segundo parcial
 
-Organizada por **tipo de problema de examen**. Primero los tipos del Problema 1 (valor tiempo del dinero) y del Problema 2 (evaluación de proyectos), cada uno con los parciales en los que salió (`practica/segundo-parcial/*.md`: 2C2010, 1C2018, 2C2018, 1C2023, 2C2024, 1C2025, 2C2025 y 1C2026). Después, un anexo con **todas las fórmulas que Andy usó** en sus resoluciones: guías 5, 6 y 7 [X12] [X13] [X14] y parciales 1C2025, 2C2025 y 2C2024 (`practica/segundo-parcial/*-Solucion-Andy.xlsx`). Todo es material no oficial, contrastado con la cátedra [T03] [T04] [G05] [R02] [R03].
+Organizada por **tipo de problema de examen**. Primero los tipos del Problema 1 (valor tiempo del dinero) y del Problema 2 (evaluación de proyectos), cada uno con los parciales en los que salió (`practica/segundo-parcial/*.md`: 2C2010, 1C2018, 2C2018, 1C2023, 2C2024, 1C2025, 2C2025 y 1C2026). Después, un anexo con **todas las fórmulas que Andy usó** en sus resoluciones: guías 5, 6 y 7 [X12] [X13] [X14] y parciales 1C2025, 2C2025, 2C2024 y 1C2026 (`practica/segundo-parcial/*-Solucion-Andy.xlsx`). Todo es material no oficial, contrastado con la cátedra [T03] [T04] [G05] [R02] [R03].
 
 En la columna Excel se usan **nombres** (i, n, P, TREMA…) en lugar de celdas: reemplazalos por la celda de tu bloque de Datos. Para resolver alcanzan las cuentas (+ − * / ^) y cuatro funciones: `SUM`, `NPV` (VNA), `IRR` (TIR) y, solo para despejar n, `LN`.
 
@@ -48,7 +48,9 @@ Receta: **una tabla por opción** y gana la de **menor VP Total**. Ejemplo, opci
 - **Control con tasas** · financiarse le gana al contado si su TEA < la tasa de oportunidad (2C2024: B 31,9 % y C 35,8 % < 42 %). El costo de un francés con cuota dada es su TIR: `=IRR(-P, C, …, C)` (1C2023).
 - **Descuento por pagar contado (1C2018)** · VP de las cuotas a la tasa de la financiación − precio contado; en % = descuento / VP.
 
-⚠ La menor TEA NO es siempre la mejor: importa también cuánto y cuánto tiempo financia (TEA 30 % por 1 mes ahorra menos que TEA 35 % por 12). Ordená por VP. ⚠ Sumar pagos sin descontar no decide nada. ⚠ Descontar cada préstamo a su propia tasa da siempre el monto prestado: usá una tasa común.
+- **Sin tasa de oportunidad (1C2026 a: alemán vs. bullet)** · se comparan las TEA, llevadas al mismo período: el que tiene menor TEA es más barato por peso y por año (bullet 12,36 % < alemán 13,10 %). Escribí el supuesto: con una tasa de oportunidad k, ganaría el de menor VP por peso prestado, y eso depende de k. Con k > 12,6 % gana el bullet; con k menor gana el alemán, que se cancela antes.
+
+⚠ La menor TEA NO es siempre la mejor: importa también cuánto y cuánto tiempo financia (TEA 30 % por 1 mes ahorra menos que TEA 35 % por 12). Si hay tasa de oportunidad, ordená por VP. ⚠ Sumar pagos sin descontar no decide nada. ⚠ Descontar cada préstamo a su propia tasa da siempre el monto prestado: usá una tasa común.
 
 ### Tipo B · Cuadro de marcha, interés y saldo
 
@@ -65,6 +67,8 @@ Salió en 1C2018 b) (total amortizado, francés), 2C2018 (cuota francés y alem�
 
 - **Total amortizado tras k** · P − saldo_k (1C2018: 20.300 − 13.799,49 = 6.500,51).
 - **Interés de una cuota** · columna interés de esa cuota (1C2026: cuota 12 = saldo tras 11 × TEM).
+- **Bullet con cupones semestrales (1C2026)** · n en semestres (4 años = 8), tasa semestral; en el año t vencen los cupones 2t − 1 y 2t.
+- **Con la calculadora** (`laboratorio/calculadora_andy.xlsx`, pestaña Calculadora de Préstamos) · Préstamo, Períodos y Tasa **del período de la cuota** (C3, C4, C5). Un préstamo por vez: anotá los resultados antes de cargar el siguiente. 1C2026: alemán 1.000.000 · 48 · TEM 1,0310 % → período 12; bullet 500.000 · 8 · 6 % → período 2; francés 1.250.000 · 25 · 0,5 %. La TEM y las TEA salen de la pestaña Conversor de Tasas.
 
 ⚠ El saldo baja por la **amortización**, no por la cuota. ✔ Control: saldo final de la última cuota = 0.
 
@@ -142,7 +146,7 @@ Salió en 2C2018 (precancela 50 % con penalidad y refinancia en alemán anual), 
 | EBITDA | 0 | = EBITDA del cuadro |
 | (−) Inversión BU | −inversión | pagos en etapas en su año (2025-C2: 40 % / 60 %) |
 | (+) Venta BU | | valor de venta bruto el año de venta |
-| (±) Kt | −Kt | + recupero el último año |
+| (±) Kt | −Kt | −ΔKt cada año si Kt es % de ventas o costos; + recupero el último año |
 | (−) I.G. | | = I.G. del cuadro |
 | **= FF** | `=SUM(filas)` | `=SUM(filas)` |
 | **VAN** | `=NPV(TREMA,FF1:FFn)+FF0` | VAN > 0 → se acepta |
@@ -153,7 +157,7 @@ Salió en 2C2018 (precancela 50 % con penalidad y refinancia en alemán anual), 
 ### 4 · Variantes que tomaron
 
 - **Horizonte ≠ VU contable (2018-C1, 2024, 2010)** · amortizás solo los años de VU contable; si el proyecto termina antes, vendés con VL > 0 y la pérdida ahorra impuesto (2024: VL 1.040, venta 300 → −740).
-- **Kt como % de ventas o costos (2010, 2026)** · Kt_t = % créditos × ventas_t − % deudas × CV_t; en el flujo va la **variación** −(Kt_t − Kt_(t−1)) y se recupera al final. Ventas a cobrar al año siguiente: el último cobro cae en n + 1 (2010).
+- **Kt como % de ventas o costos (2010, 2026)** · Kt_t = % créditos × ventas_t − % deudas × CV_t; en el flujo va la **variación** −(Kt_t − Kt_(t−1)) y se recupera al final. Idea: cada año cobrás lo que te debían del año anterior y pagás lo que debías, así que solo ponés lo que **aumenta** el agujero. 1C2026: año 1 me deben 300 y debo 100 → pongo 200; año 2 me deben 600 y debo 200 (falta 400), recupero los 200 netos del año 1 → pongo 200 más; años 3 a 5 → 0; al final vuelven 400. Ventas a cobrar al año siguiente: el último cobro cae en n + 1 (2010).
 - **Inversión en etapas (2025-C2)** · cada pago en su año; la amortización arranca sobre el total.
 - **FEO + FEE (2025-C2, guía 7)** · FEO = (ventas − costos)(1 − IG) + IG·amort.; FEE (BU) = VM − IG·(VM − VL); FEE (Kt) = recupero + IG·pérdida Kt.
 
@@ -235,7 +239,7 @@ IG = tasa de impuesto a las ganancias · VM = valor de mercado · VL = valor lib
 | I.G. = −EBIT × IG; UN = EBIT + I.G. | `=-EBIT*IG` · `=EBIT+IG` | 4–7 |
 | FF = SUM de las filas del año | `=SUM(...)` | 1–7 |
 
-### Parciales resueltos por Andy (1C2025, 2C2025, 2C2024)
+### Parciales resueltos por Andy (1C2025, 2C2025, 2C2024, 1C2026)
 
 | Fórmula | Excel | Parcial |
 |---|---|---|
@@ -248,5 +252,9 @@ IG = tasa de impuesto a las ganancias · VM = valor de mercado · VL = valor lib
 | Ingreso incremental = nuevos × precio − perdidos × precio viejo | `=N*P-Np*Pv` | 2C2024 P2 |
 | VAN = NPV(TREMA; FF1..FFn) + FF0; TIR = IRR(FF0..FFn) | `=NPV(TREMA,FF)+FF0` · `=IRR(FF)` | 2C2025, 1C2025, 2C2024 P2 |
 | ΔFF por $1 de alquiler = −1 + IG; ΔVAN = ΔFF × a(n, TREMA); ΔA = −VAN/ΔVAN | `=-1+IG` · `=-VAN/dVAN` | 1C2025 P2 |
+| i_trim = TNA/4; TEM = (1 + i_trim)^(1/3) − 1; TEA = (1 + i_trim)^4 − 1; TEA bullet = (1 + i_s)^2 − 1 | `=(1+itrim)^(1/3)-1` · `=(1+is)^2-1` | 1C2026 P1 |
+| Alemán: interés cuota 12 = saldo inicial × TEM; saldo tras 12 = P·(1 − 12/n); bullet: cupón = P × i_s | `=S*i` · `=P*i` | 1C2026 P1 |
+| Saldo a refinanciar = saldo alemán + capital bullet; cuota francés = i·S/(1 − (1 + i)^−n) | `=i*S/(1-(1+i)^-n)` | 1C2026 P1 |
+| Kt_t = % créd. × ventas − % deudas × CV; inversión en Kt = Kt_(t−1) − Kt_t; recupero = Kt_n | `=V*pc-CV*pd` · `=KtAnt-Kt` | 1C2026 P2 |
 
 Fuentes [X12] [X13] [X14] (guías de Andy, no oficiales); parciales en `practica/segundo-parcial/`; cátedra [T03] [T04] [G05] [R02] [R03].
