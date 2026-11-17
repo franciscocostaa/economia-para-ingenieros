@@ -110,7 +110,7 @@
 
 **26. En el cuadro de resultados del 30/11/2016 se incluyeron las ventas de octubre del 2016 cobradas en noviembre de 2016.**
 
-**Verdadero**, suponiendo que se trata del ejercicio anual que cierra el 30/11/2016. Por lo devengado, las ventas se imputan al período en que se realizan: octubre está dentro del ejercicio, de modo que se incluyen sin importar que se cobraran en noviembre. Si el cuadro fuera mensual (solo noviembre), sería falso, porque esas ventas pertenecen a octubre.
+**Falso**, suponiendo que se trata del cuadro de resultados del mes de noviembre de 2016. Por lo devengado, las ventas se imputan al período en que se realizan, no al de su cobro: las ventas de octubre pertenecen al resultado de octubre, aunque se hayan cobrado en noviembre. En el cuadro de noviembre el cobro solo cancela el crédito por ventas (baja Créditos y sube Caja) y no genera ingreso. Si el cuadro fuera de un ejercicio anual que cierra el 30/11/2016, octubre estaría dentro del período y esas ventas sí se incluirían.
 
 **27. La compra de un terreno con un crédito hipotecario por el 100 % del valor a 5 años con un año de gracia (se paga la primera cuota a los 365 días) aumenta el índice de Liquidez Corriente.**
 
@@ -192,4 +192,4 @@
 
 ## Fuentes
 
-X08 (enunciados, no oficial). Respuestas apoyadas en T01, T02, T03, T04, T05 y G05, con las citas detalladas en el [banco de V/F](banco-vf.md). Los ítems 23, 26, 34 y 41 dependen de supuestos que el enunciado no fija; el supuesto adoptado está explícito en cada respuesta.
+X08 (enunciados, no oficial). Respuestas apoyadas en T01, T02, T03, T04, T05 y G05, con las citas detalladas en el [banco de V/F](banco-vf.md). Los ítems 23, 26, 34 y 41 dependen de supuestos que el enunciado no fija; el supuesto adoptado está explícito en cada respuesta. En el 26 se adopta la lectura mensual (cuadro del mes de noviembre).
