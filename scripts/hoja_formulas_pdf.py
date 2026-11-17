@@ -4,7 +4,10 @@
 Una carilla A4 apaisada por sección `##` (valor tiempo del dinero y proyectos),
 pensada para imprimirse en una sola hoja a doble faz. Usa Google Chrome headless.
 Las viñetas que empiezan con ⚠ se resaltan en ámbar y las que empiezan con ✔ en verde.
-Uso: python3 scripts/hoja_formulas_pdf.py
+Uso: python3 scripts/hoja_formulas_pdf.py          (hoja general)
+     python3 scripts/hoja_formulas_pdf.py --andy   (wiki/repaso/hoja-de-formulas-andy.md,
+                                                    a dos columnas por carilla)
+El texto anterior al primer `##` no se imprime.
 """
 import html, re, subprocess, sys, tempfile
 from pathlib import Path
@@ -12,6 +15,8 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 MD = RAIZ / "wiki/repaso/hoja-de-formulas.md"
 PDF = RAIZ / "output/pdf/hoja-de-formulas.pdf"
+MD_ANDY = RAIZ / "wiki/repaso/hoja-de-formulas-andy.md"
+PDF_ANDY = RAIZ / "output/pdf/hoja-de-formulas-andy.pdf"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 CSS = """
@@ -38,6 +43,9 @@ th, td { border: 1px solid #b7cfa3; padding: 1.5px 5px; vertical-align: top; }
 code { font-family: Menlo, monospace; font-size: 7pt; background: #eef2e6; padding: 0 2px; border-radius: 2px; }
 p { margin: 2px 0; }
 p.pie { font-size: 7.5pt; color: #444; }
+.cols { column-count: 2; column-gap: 9px; column-rule: 1px dashed #b7cfa3; }
+.cols h3 { break-after: avoid; }
+.cols table, .cols li, .cols p { break-inside: avoid; }
 """
 
 def inline(t):
@@ -53,21 +61,24 @@ def bullet(t):
         return f"<li{cls}><span class='pill'>{inline(m.group(1))}</span>{inline(m.group(2))}</li>"
     return f"<li{cls}>{inline(t)}</li>"
 
-def render(md):
+def render(md, cols=False, rotulo="Hoja de fórmulas · Segundo parcial"):
     lines = md.splitlines()
+    while lines and not lines[0].startswith("## "):
+        lines.pop(0)
+    cierre = "</div></section>" if cols else "</section>"
     out, i, n_sec = [], 0, 0
     total = sum(1 for l in lines if l.startswith("## "))
     def abrir(h):
         nonlocal n_sec
         n_sec += 1
         return (f"<section><div class='cab'><h2>{inline(h)}</h2>"
-                f"<span>Hoja de fórmulas · Segundo parcial · cara {n_sec}/{total}</span></div>")
+                f"<span>{rotulo} · cara {n_sec}/{total}</span></div>" + ("<div class='cols'>" if cols else ""))
     while i < len(lines):
         l = lines[i]
         if l.startswith("# ") and not l.startswith("## "):
             pass
         elif l.startswith("## "):
-            if n_sec: out.append("</section>")
+            if n_sec: out.append(cierre)
             out.append(abrir(l[3:]))
         elif l.startswith("### "):
             out.append(f"<h3>{inline(l[4:])}</h3>")
@@ -92,17 +103,20 @@ def render(md):
             else: cls = ""
             out.append(f"<p{cls}>{inline(l)}</p>")
         i += 1
-    out.append("</section>")
+    out.append(cierre)
     return f"<!doctype html><html><head><meta charset='utf-8'><style>{CSS}</style></head><body>{''.join(out)}</body></html>"
 
 def main():
-    htmltxt = render(MD.read_text(encoding="utf-8"))
+    andy = "--andy" in sys.argv[1:]
+    md, pdf = (MD_ANDY, PDF_ANDY) if andy else (MD, PDF)
+    rotulo = "Hoja de fórmulas de Andy · Segundo parcial" if andy else "Hoja de fórmulas · Segundo parcial"
+    htmltxt = render(md.read_text(encoding="utf-8"), cols=andy, rotulo=rotulo)
     with tempfile.NamedTemporaryFile("w", suffix=".html", delete=False, encoding="utf-8") as f:
         f.write(htmltxt); src = f.name
-    PDF.parent.mkdir(parents=True, exist_ok=True)
+    pdf.parent.mkdir(parents=True, exist_ok=True)
     subprocess.run([CHROME, "--headless", "--disable-gpu", "--no-pdf-header-footer",
-                    f"--print-to-pdf={PDF}", f"file://{src}"], check=True, capture_output=True)
-    print(f"PDF generado: {PDF}")
+                    f"--print-to-pdf={pdf}", f"file://{src}"], check=True, capture_output=True)
+    print(f"PDF generado: {pdf}")
 
 if __name__ == "__main__":
     sys.exit(main())

@@ -8,7 +8,7 @@ Este es el índice del conocimiento canónico compilado. Agregá una entrada por
 - [Glosario](glosario.md)
 - [Dudas y conflictos](dudas-y-conflictos.md)
 - [Preguntas de repaso](repaso/preguntas.md)
-- [Hoja de fórmulas](repaso/hoja-de-formulas.md) y [verificación por ejercicio](repaso/verificacion-hoja-de-formulas.md).
+- [Hoja de fórmulas](repaso/hoja-de-formulas.md) y [verificación por ejercicio](repaso/verificacion-hoja-de-formulas.md). [Hoja de fórmulas de Andy](repaso/hoja-de-formulas-andy.md): por tipo de problema de examen (problemas 1 y 2) y anexo con todas las fórmulas que usó Andy (PDF: `output/pdf/hoja-de-formulas-andy.pdf`).
 
 ## Temas
 
